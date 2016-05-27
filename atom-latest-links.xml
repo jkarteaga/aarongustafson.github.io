@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-05-24T23:34:31-04:00</updated>
+	<updated>2016-05-27T13:26:22-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,32 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Do Emails Need to Look Exactly the Same in Every Client?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/do-emails-need-to-look-exactly-the-same-in-every-client-5c0ec5ca541d/"/>
+				<updated>2016-05-27T13:23:36-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/do-emails-need-to-look-exactly-the-same-in-every-client-5c0ec5ca541d</id>
+				<content type="html"><![CDATA[<p>No, they don’t. Progressive enhancement, baby!</p>
+
+<blockquote>
+  <p>Images will be blocked. Styles will be filtered. Tables will be munged. Instead of struggling to try to make emails look the same everywhere, let’s embrace their differences.</p>
+</blockquote>
+<p><a rel="full-article" href="https://emails.hteumeuleu.com/do-emails-need-to-look-exactly-the-same-in-every-client-5c0ec5ca541d#.vktixa75f">Read on Medium&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Building Accessible Web Components Without Tears]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/building-accessible-web-components-without-tears/"/>
+				<updated>2016-05-27T13:17:53-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/building-accessible-web-components-without-tears</id>
+				<content type="html"><![CDATA[<p>This is an excellent presentation from <a href="http://maxdesign.com.au/">Russ Weakley</a> on how to use semantic markup and ARIA to ring dynamic experiences to life. Definitely worthy of a bookmark (or download).</p>
+<p><a rel="full-article" href="http://www.slideshare.net/maxdesign/building-accessible-web-components-without-tears">Read on Russ Weakley on SlideShare&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -286,28 +312,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/2112-delivering-octicons-with-svg</id>
 				<content type="html"><![CDATA[<p>And the abandonment of icon fonts continues…</p>
 <p><a rel="full-article" href="https://github.com/blog/2112-delivering-octicons-with-svg">Read on GitHub&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Danger! ARIA Tabs]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/danger-aria-tabs/"/>
-				<updated>2016-04-25T11:27:20-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/danger-aria-tabs</id>
-				<content type="html"><![CDATA[<p>This is an interesting finding in the realm of accessibility: <abbr aria-label="the Accessible Rich Internet Applications spec">ARIA</abbr> being harmful to the experience. As I understand it, the <abbr aria-label="Web Accessibility Initiative">WAI</abbr>’s recommended interaction and tab flow stems from the way people using <abbr aria-label="assistive technology">AT</abbr> would tab through traditional desktop interfaces (<abbr aria-label="for example">e.g.</abbr>, Windows). I wonder if, as more people use the Web as their primary means of interacting with software, those mappings have become less relevant, either through loss of muscle memory in the case of long-time <abbr aria-label="assistive technology">AT</abbr> users or a lack of awareness for those who’ve only used <abbr aria-label="assistive technology">AT</abbr> since the advent of the Web and Web-based interactions (<abbr aria-label="in other words">i.e.</abbr>, folks who’ve never had to navigate their way through complex interfaces like Windows’ Device Manager).</p>
-<p><a rel="full-article" href="http://simplyaccessible.com/article/danger-aria-tabs/">Read on Simply Accessible&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[You Might Not Need a CSS Framework]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/you-might-not-need-a-css-framework/"/>
-				<updated>2016-04-25T11:20:16-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/you-might-not-need-a-css-framework</id>
-				<content type="html"><![CDATA[<p>I’d take it a step further: You <em>don’t</em> need a CSS framework.</p>
-<p><a rel="full-article" href="https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/">Read on Mozilla Hacks&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
