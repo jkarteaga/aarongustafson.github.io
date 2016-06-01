@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-05-27T13:26:22-04:00</updated>
+	<updated>2016-06-01T12:19:54-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 			<entry>
@@ -301,17 +303,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/my-post-csun-comparison-of-web-accessibility-checkers</id>
 				<content type="html"><![CDATA[<p>Accessibility checkers are all over the map.</p>
 <p><a rel="full-article" href="http://terrillthompson.com/blog/730">Read on Terrill Thompson&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Delivering Octicons With SVG]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/2112-delivering-octicons-with-svg/"/>
-				<updated>2016-04-25T14:55:00-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/2112-delivering-octicons-with-svg</id>
-				<content type="html"><![CDATA[<p>And the abandonment of icon fonts continues…</p>
-<p><a rel="full-article" href="https://github.com/blog/2112-delivering-octicons-with-svg">Read on GitHub&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
