@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-06-01T16:04:35-04:00</updated>
+	<updated>2016-06-08T11:55:34-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,217 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Idea of the Week — Jeremy Keith]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/idea-week-jeremy-keith/"/>
+				<updated>2016-06-08T11:51:49-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/idea-week-jeremy-keith</id>
+				<content type="html"><![CDATA[<p>Reading Jeremy’s history with the Web, I noticed a lot of parallels with mine. I think a lot of us old timers made our way to the Web in a very similar fashion and it’s surprising how many of us made our way here through music.</p>
+<p><a rel="full-article" href="https://www.webdirections.org/blog/idea-week-jeremy-keith/">Read on Web Directions&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Why Britain Banned Mobile Apps]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/why-britain-banned-mobile-apps/"/>
+				<updated>2016-06-08T11:48:51-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/why-britain-banned-mobile-apps</id>
+				<content type="html"><![CDATA[<p>This! An excellent interview with Ben Terrett:</p>
+
+<blockquote>
+  <p>Apps are “very expensive to produce, and they’re very very expensive to maintain because you have to keep updating them when there are software changes”</p>
+</blockquote>
+
+<p>But…</p>
+
+<blockquote>
+  <p>Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding.</p>
+</blockquote>
+
+<p>Share this with your boss and your boss’ boss.v</p>
+<p><a rel="full-article" href="https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/">Read on GovInsider&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Avoid Overstyling Base Styles]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/avoid-overstyling-base-styles/"/>
+				<updated>2016-06-08T11:46:04-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/avoid-overstyling-base-styles</id>
+				<content type="html"><![CDATA[<p>Excellent advice (as usual) from Jonathan Snook. Although, based on the project—such as a limited-scope site with a tight size limit—you may want to define almost everything as base styles. As with everything on the Web, it depends.</p>
+<p><a rel="full-article" href="http://snook.ca/archives/html_and_css/avoid-overstyling-base-styles">Read on Snook.ca&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[PWA Discovery]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/pwa-discovery-you-aint-seen-nothin-yet/"/>
+				<updated>2016-06-08T11:44:49-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/pwa-discovery-you-aint-seen-nothin-yet</id>
+				<content type="html"><![CDATA[<p>Alex Russell discusses Chrome’s Progressive Web App prompting strategy and discusses what’s next.</p>
+<p><a rel="full-article" href="https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/">Read on Infrequently Noted&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[CSS Optimization Using Gulp]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/css-optimization-using-gulp/"/>
+				<updated>2016-06-08T11:39:35-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/css-optimization-using-gulp</id>
+				<content type="html"><![CDATA[<p>An excellent collection of Gulp plugins for optimizing the living heck out your CSS.</p>
+<p><a rel="full-article" href="http://abdelraoof.com/blog/2015/04/02/css-optimization-using-gulp/">Read on Abdel Raoof&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Improving Your CSS With Parker]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/improving-your-css-with-parker/"/>
+				<updated>2016-06-08T11:37:50-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/improving-your-css-with-parker</id>
+				<content type="html"><![CDATA[<p>Parker looks like an interesting tool for general information about your CSS, but you should take its reporting with a grain of salt.</p>
+<p><a rel="full-article" href="http://csswizardry.com/2016/06/improving-your-css-with-parker/">Read on CSS Wizardry&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Yet Another Blog About the State and Future of Progressive Web App]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/yet-another-progressive-webapp-post/"/>
+				<updated>2016-06-08T11:24:26-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/yet-another-progressive-webapp-post</id>
+				<content type="html"><![CDATA[<p>An excellent post from Ada Rose Edwards on Progressive Web Apps. She’s brings up some very real concerns, many of which I share:</p>
+
+<ul>
+  <li>The basis for what Chrome defines as a Web App is based upon a set of technology rather than a set of features.</li>
+  <li>We need to consider carefully before we throw away URLs or the entire browser chrome in an effort to look like and behave like the cool kids of native.</li>
+  <li>The install banner is the browser manufacturers’ choice; it’s not a spec.</li>
+</ul>
+<p><a rel="full-article" href="https://ada.is/blog/2016/06/01/yet-another-progressive-webapp-post/">Read on The blog of Ada Rose Edwards&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Sorry, It’s Time to Start Counting Gigabytes at Home, Too]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/sorry-time-start-counting-gigabytes-home/"/>
+				<updated>2016-06-08T10:48:03-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/sorry-time-start-counting-gigabytes-home</id>
+				<content type="html"><![CDATA[<p>Moving in this direction poses a lot of problems for terrestrial data. It could also increase the digital divide.</p>
+
+<blockquote>
+  <p>Ratcheting prices up further will only increase the digital divide, but the difference won’t just be between those who have Internet access and those who don’t. The cost of data limits could also divide the population between those who can take full advantage of high-bandwidth applications like streaming and video conferencing, and those who have to curb their usage for fear of incurring overage charges.</p>
+</blockquote>
+<p><a rel="full-article" href="http://www.wired.com/2016/06/sorry-time-start-counting-gigabytes-home/">Read on Wired&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[A Single Platform]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/a-single-platform/"/>
+				<updated>2016-06-08T10:28:58-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/a-single-platform</id>
+				<content type="html"><![CDATA[<p>Another brilliant CommitStrip. <a href="#comic-strip-uncharted-4-translated">My transcription follows</a>.</p>
+
+<p><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></p>
+
+<article id="comic-strip-uncharted-4-transcribed" class="script">
+
+<p class="script__stage-direction">A developer and his project lead are sitting next to one another.</p>
+
+<ol class="script__dialog">
+<li class="script__item">
+<cite class="script__speaker">Programmer</cite>
+<blockquote class="script__statement">
+<p>It sucks Uncharted 4 is only available on PS4</p>
+<p>…releasing AAAs on just one platform is unfair</p>
+</blockquote>
+</li>
+<li class="script__item">
+<cite class="script__speaker">Project Lead <em class="script__speaker__description">(excitedly)</em></cite>
+<blockquote class="script__statement">
+<p>Yeah I guess, but it must be awesome for Naughty Dog</p>
+</blockquote>
+</li>
+<li class="script__item">
+<cite class="script__speaker">Project Lead <em class="script__speaker__description">(smugly)</em></cite>
+<blockquote class="script__statement">
+<p>They only have to develop, test and maintain their software on one single platform</p>
+</blockquote>
+</li>
+<li class="script__item">
+<cite class="script__speaker">Programmer <em class="script__speaker__description">(looking confused)</em></cite>
+<blockquote class="script__statement">
+<p>I guess…</p>
+</blockquote>
+</li>
+<li class="script__item">
+<cite class="script__speaker">Project Lead <em class="script__speaker__description">(emphatically)</em></cite>
+<blockquote class="script__statement">
+<p>Everyone has the same processor, the same amount of memory, the same resolution…</p>
+<p>Just think about it…</p>
+</blockquote>
+</li>
+<li class="script__item">
+<cite class="script__speaker">Programmer <em class="script__speaker__description">(shrinking)</em></cite>
+<blockquote class="script__statement">
+<p>…I don’t want to think about it</p>
+</blockquote>
+</li>
+</ol>
+
+<p class="script__stage-direction">Pan out to reveal the large table they are sitting at. It is littered with mobile devices.</p>
+
+<ol class="script__dialog">
+<li class="script__item">
+<cite class="script__speaker">Programmer <em class="script__speaker__description">(getting up and turning to leave the room)</em></cite>
+<blockquote class="script__statement">
+<p>Does anyone have a phone with Android 4.0.4?</p>
+</blockquote>
+</li>
+<li class="script__item">
+<cite class="script__speaker">Project Lead <em class="script__speaker__description">(muttering to himself)</em></cite>
+<blockquote class="script__statement">
+<p>Hmmmm…</p>
+</blockquote>
+</li>
+</ol>
+
+</article>
+
+<p>The benefits of single platform development are easily reaped by developers, but they come at a cost to the consumer who doesn’t have the right device or specs and (moreover) it limits a project’s potential reach.</p>
+<p><a rel="full-article" href="http://www.commitstrip.com/en/2016/06/01/a-single-platform/">Read on CommitStrip&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Aural UI of HTML Elements]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/AT-browser-tests/"/>
+				<updated>2016-06-08T10:19:52-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/AT-browser-tests</id>
+				<content type="html"><![CDATA[<p>This is huge! Many thanks to Steve Faulkner and Léonie Watson for compiling this information!</p>
+<p><a rel="full-article" href="http://thepaciellogroup.github.io/AT-browser-tests/">Read on The Paciello Group&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Stop Painting and Have a Meaningful Interaction With Me!]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3/"/>
+				<updated>2016-06-08T10:17:28-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3</id>
+				<content type="html"><![CDATA[<p>An excellent post from Dion Almaer on the importance of choosing the appropriate approach for the critical tasks of your web property. He dubs it “time to first meaningful interaction”. This is where progressive enhancement shines.</p>
+<p><a rel="full-article" href="https://medium.com/ben-and-dion/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3#.3mscxcksx">Read on Medium&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 	
@@ -50,7 +261,7 @@
 
 <p>For the non-visual among you…</p>
 
-<article id="comic-must-have-translated" class="script">
+<article id="comic-must-have-transcribed" class="script">
 
 <p class="script__stage-direction">Programmer sits at a computer with his back to a Project Manager</p>
 
@@ -172,137 +383,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/the-accessibility-stack</id>
 				<content type="html"><![CDATA[<p>This post hits on a lot of the same topics I talk about in <a href="http://adaptivewebdesign.info"><cite>Adaptive Web Design</cite></a> and my progressive enhancement talks and workshops: experience can and should be built in layers because it is experienced in them.</p>
 <p><a rel="full-article" href="http://simplyaccessible.com/article/the-accessibility-stack/">Read on Simply Accessible&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Accessibility in the Store]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/accessibility-in-the-store/"/>
-				<updated>2016-04-28T14:18:41-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/accessibility-in-the-store</id>
-				<content type="html"><![CDATA[<p>Apps in the <a href="https://www.microsoft.com/en-us/store/apps">Windows Store</a> can now be flagged as accessible on submission. Not sure if anyone is validating these claims, but my guess is that they will if it becomes abused. Regardless, I’m excited to see Microsoft take this step to make it easier for folks who need it to find accessible apps.</p>
-<p><a rel="full-article" href="https://msdn.microsoft.com/en-us/windows/uwp/accessibility/accessibility-in-the-store">Read on Windows Dev Center&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Color Contrast for Better Readability]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/color-contrast-for-better-readability/"/>
-				<updated>2016-04-28T14:14:55-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/color-contrast-for-better-readability</id>
-				<content type="html"><![CDATA[<p>This is an excellent walkthrough on how to evaluate color combinations for contrast. It also includes recommendations for inclusion in your style guide.</p>
-<p><a rel="full-article" href="https://www.viget.com/articles/color-contrast">Read on Viget&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[WCAG 2.0 Checklist - a Free and Simple Guide to WCAG 2.0]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/wcag-checklist/"/>
-				<updated>2016-04-28T14:08:53-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/wcag-checklist</id>
-				<content type="html"><![CDATA[<p>Luke McGrath has a great, humane summary of WCAG 2.0 as a checklist. You should check it out.</p>
-<p><a rel="full-article" href="https://www.wuhcag.com/wcag-checklist/">Read on Wuhcag&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Removing Headaches From Focus Management]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/focus-start-point/"/>
-				<updated>2016-04-28T14:06:40-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/focus-start-point</id>
-				<content type="html"><![CDATA[<p>Focus management is one of those “fun” things we deal with when building websites. This straightforward article gives a bit of an introduction to how you might want to handle it.</p>
-<p><a rel="full-article" href="https://developers.google.com/web/updates/2016/03/focus-start-point">Read on Google Developers&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Making Your Business Accessible]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/making-your-business-accessible/"/>
-				<updated>2016-04-28T12:57:09-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/making-your-business-accessible</id>
-				<content type="html"><![CDATA[<p>Lots of great business cases and approaches for accessibility in here.</p>
-
-<p>If you need a stat to bowl someone over with, I’d reach for this little factoid: <a href="https://www.gov.uk/government/news/high-street-could-be-boosted-by-212-billion-purple-pound-by-attracting-disabled-people-and-their-families">£212bn is the estimated combined income of UK households with a disabled person</a>.</p>
-<p><a rel="full-article" href="https://www.barclayscorporate.com/insight-and-research/managing-your-business/making-your-business-accessible.html">Read on Barclays&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[The End of Empathy]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/the-end-of-empathy-5d8383b066d3/"/>
-				<updated>2016-04-27T14:54:32-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/the-end-of-empathy-5d8383b066d3</id>
-				<content type="html"><![CDATA[<p>This is such an amazing post I wanted to highlight the whole thing. But this pretty much sums it up for me…</p>
-
-<blockquote>
-  <p>[I]t’s time to resurrect the Golden Rule. Let’s all take a breath, shake it off, and declare a do-over. Let’s start listening to each other, especially when we disagree. Let’s value our differences instead of vilifying each other for them. Let’s be inclusive and kind. Let’s be compassionate and empathetic to the plights of others. Let’s be human beings. Because we’re never going to get anywhere if we continue to treat each other like garbage.</p>
-</blockquote>
-
-<p>Amen!</p>
-<p><a rel="full-article" href="https://medium.com/@stephaniewittelswachs/the-end-of-empathy-5d8383b066d3#.qzy9wi6x7">Read on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Caching Best Practices &amp; Max-age Gotchas]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/caching-best-practices/"/>
-				<updated>2016-04-27T13:48:57-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/caching-best-practices</id>
-				<content type="html"><![CDATA[<p>Super simple advice from Jake. Follow it!</p>
-<p><a rel="full-article" href="https://jakearchibald.com/2016/caching-best-practices/">Read on Jake Archibald&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Why Is Text to Speech Only an Afterthought?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/why-is-text-to-speech-only-an-afterthought/"/>
-				<updated>2016-04-27T13:48:48-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/why-is-text-to-speech-only-an-afterthought</id>
-				<content type="html"><![CDATA[<p>I’ve often wondered the same thing.</p>
-
-<p>Note: This post is a rant, but it’s an important rant to make publicly.</p>
-<p><a rel="full-article" href="http://www.digitalbookworld.com/2016/why-is-text-to-speech-only-an-afterthought/">Read on Digital Book World&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Debug Microsoft Edge From Sublime or vs Code With the New Edge Diagnostics Adapter]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/introducing-edge-diagnostics-adapter/"/>
-				<updated>2016-04-27T13:39:40-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/introducing-edge-diagnostics-adapter</id>
-				<content type="html"><![CDATA[<p>This post is full of so much awesome!</p>
-<p><a rel="full-article" href="https://blogs.windows.com/msedgedev/2016/04/27/introducing-edge-diagnostics-adapter/">Read on Microsoft Edge Dev Blog&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[How to Dynamically Include SVGs Inline With Jekyll]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/how-to-dynamically-include-svgs-inline-with-jekyll/"/>
-				<updated>2016-04-25T15:03:33-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/how-to-dynamically-include-svgs-inline-with-jekyll</id>
-				<content type="html"><![CDATA[<p>If you use Jekyll or Octopress, you might find this rather elegant setup handy.</p>
-<p><a rel="full-article" href="http://davidensinger.com/2014/11/how-to-dynamically-include-svgs-inline-with-jekyll/">Read on David Ensinger&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[My Post-CSUN Comparison of Web Accessibility Checkers]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/my-post-csun-comparison-of-web-accessibility-checkers/"/>
-				<updated>2016-04-25T15:01:20-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/my-post-csun-comparison-of-web-accessibility-checkers</id>
-				<content type="html"><![CDATA[<p>Accessibility checkers are all over the map.</p>
-<p><a rel="full-article" href="http://terrillthompson.com/blog/730">Read on Terrill Thompson&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
