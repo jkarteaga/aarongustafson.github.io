@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-06-08T11:55:34-04:00</updated>
+	<updated>2016-06-13T23:55:17-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,45 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Progressive Web App Store]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/10800/"/>
+				<updated>2016-06-13T16:28:09-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/10800</id>
+				<content type="html"><![CDATA[<p>Jeremy on aggregating links for Progressive Web Apps. Sounds a lot like bringing back the Yahoo directory :-)</p>
+<p><a rel="full-article" href="https://adactio.com/journal/10800">Read on Adactio&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Apple Is Fighting a Secret War to Keep You From Repairing Your Phone]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/apple-right-to-repair_us_5755a6b4e4b0ed593f14fdea/"/>
+				<updated>2016-06-13T16:25:18-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/apple-right-to-repair_us_5755a6b4e4b0ed593f14fdea</id>
+				<content type="html"><![CDATA[<p>Yup. And they’re even bricking phones sent to them for repair and charging customers (<a href="https://aaron-gustafson.com/notebook/apple-support-honeybadger/">like me</a>) to replace them.</p>
+<p><a rel="full-article" href="http://www.huffingtonpost.com/entry/apple-right-to-repair_us_5755a6b4e4b0ed593f14fdea">Read on The Huffington Post&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Slashdot Asks: Is the App Boom Over?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/slashdot-asks-is-the-app-boom-over/"/>
+				<updated>2016-06-13T16:20:20-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/slashdot-asks-is-the-app-boom-over</id>
+				<content type="html"><![CDATA[<p>Riffing on <a href="http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber">a post in ReCode</a> and <a href="http://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/">research done by Quartz</a>, Slashdot asked its readership if apps are done. The comments are especially telling. My personal favorite is this gem:</p>
+
+<blockquote>
+  <p>Everything has an “app” … that is a sad rehash of their website. I don’t need access to a diluted version of your content SO BAD that I’m going to store an icon for it on my phone. Maybe if people started releasing apps that were AT LEAST as fully functional as their webpages (hopefully more) people would actually download them.</p>
+</blockquote>
+
+<p>Long live the Web!</p>
+<p><a rel="full-article" href="https://developers.slashdot.org/story/16/06/08/200216/slashdot-asks-is-the-app-boom-over">Read on Slashdot&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -350,39 +389,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/danger-testing-accessibility-with-real-people-4515f72db648</id>
 				<content type="html"><![CDATA[<p>An excellent rebuttal to a post from Simple Accessible that denounced ARIA’s tabbed interface guidelines.</p>
 <p><a rel="full-article" href="https://medium.com/@LeonieWatson/danger-testing-accessibility-with-real-people-4515f72db648#.idn50wh2o">Read on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/service-workers-and-pwas-its-about-reliable-performance-not-offline/"/>
-				<updated>2016-05-05T15:06:53-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/service-workers-and-pwas-its-about-reliable-performance-not-offline</id>
-				<content type="html"><![CDATA[<p>This is a great post of Alex on why Service Workers trump AppCache when it comes to creating a good user experience.</p>
-<p><a rel="full-article" href="https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/">Read on Infrequently Noted&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Progressive Enhancement, Revisited, With Aaron Gustafson]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-revisited/"/>
-				<updated>2016-05-05T14:03:31-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-revisited</id>
-				<content type="html"><![CDATA[<p>My rather lengthy chat with Emily Lewis &amp; Lea Alcantara on progressive enhancement and all things web design.</p>
-<p><a rel="full-article" href="http://ctrlclickcast.com/episodes/progressive-enhancement-revisited">Read on CTRL+CLICK CAST&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[The Accessibility Stack: Making a Better Layer Cake]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/the-accessibility-stack/"/>
-				<updated>2016-04-28T14:35:00-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/the-accessibility-stack</id>
-				<content type="html"><![CDATA[<p>This post hits on a lot of the same topics I talk about in <a href="http://adaptivewebdesign.info"><cite>Adaptive Web Design</cite></a> and my progressive enhancement talks and workshops: experience can and should be built in layers because it is experienced in them.</p>
-<p><a rel="full-article" href="http://simplyaccessible.com/article/the-accessibility-stack/">Read on Simply Accessible&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
