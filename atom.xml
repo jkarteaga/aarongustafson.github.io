@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-06-13T23:55:17-04:00</updated>
+	<updated>2016-06-20T15:16:42-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,17 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: The Progress of Web Apps]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-web-apps-on-windows-8d8eb68d524e/"/>
+				<updated>2016-06-20T11:11:03-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/progressive-web-apps-on-windows-8d8eb68d524e</id>
+				<content type="html"><![CDATA[<p>The Microsoft Edge team’s Jacob Rossi on Microsoft’s continued commitment to web-based apps and the future of Progressive Web Apps.</p>
+<p><a rel="full-article" href="https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e#.1f4c2jcjr">Read on Medium&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -463,17 +474,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/text-for-screen-readers-only-updated</id>
 				<content type="html"><![CDATA[<p>This post includes a few excellent ways to add context for “headless” UIs. I use quite a few of these approaches on this very site and they’ve proven quite useful.</p>
 <p><a rel="full-article" href="http://www.coolfields.co.uk/2016/05/text-for-screen-readers-only-updated/">Read on Coolfields Consulting&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Danger! Testing Accessibility With Real People]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/danger-testing-accessibility-with-real-people-4515f72db648/"/>
-				<updated>2016-05-09T12:16:00-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/danger-testing-accessibility-with-real-people-4515f72db648</id>
-				<content type="html"><![CDATA[<p>An excellent rebuttal to a post from Simple Accessible that denounced ARIA’s tabbed interface guidelines.</p>
-<p><a rel="full-article" href="https://medium.com/@LeonieWatson/danger-testing-accessibility-with-real-people-4515f72db648#.idn50wh2o">Read on Medium&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
