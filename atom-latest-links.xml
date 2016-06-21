@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-06-20T15:16:42-04:00</updated>
+	<updated>2016-06-21T18:06:30-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,17 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Microsoft Open Source Code of Conduct]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/codeofconduct/"/>
+				<updated>2016-06-21T18:03:13-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/codeofconduct</id>
+				<content type="html"><![CDATA[<p>Microsoft created a Code of Conduct (based on <a href="https://todogroup.org/opencodeofconduct">a template from the TODO Group</a>) for all of their open source projects. Good stuff!</p>
+<p><a rel="full-article" href="https://opensource.microsoft.com/codeofconduct">Read on Microsoft&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -378,17 +389,6 @@
 
 <p>Sadly, this is so true.</p>
 <p><a rel="full-article" href="http://www.commitstrip.com/en/2016/05/03/must-have/">Read on CommitStrip&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Text for Screen Readers Only (Updated)]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/text-for-screen-readers-only-updated/"/>
-				<updated>2016-05-24T10:21:34-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/text-for-screen-readers-only-updated</id>
-				<content type="html"><![CDATA[<p>This post includes a few excellent ways to add context for “headless” UIs. I use quite a few of these approaches on this very site and they’ve proven quite useful.</p>
-<p><a rel="full-article" href="http://www.coolfields.co.uk/2016/05/text-for-screen-readers-only-updated/">Read on Coolfields Consulting&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
