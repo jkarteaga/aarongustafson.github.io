@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-06-23T11:42:31-04:00</updated>
+	<updated>2016-07-13T12:20:28-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,71 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Freedom 251 Maker Says 2 Lakh Rs. 251 Phones Ready, Will Launch 'Cheapest' HD LED TV]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/freedom-251-maker-says-2-lakh-rs-251-phones-ready-will-launch-cheapest-hd-led-tv-853073/"/>
+				<updated>2016-07-13T10:12:42-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/freedom-251-maker-says-2-lakh-rs-251-phones-ready-will-launch-cheapest-hd-led-tv-853073</id>
+				<content type="html"><![CDATA[<p>The world’s cheapest smartphone (251 Indian Rupees—less than US$4) is here. The specs:</p>
+
+<ul>
+  <li>4-inch screen</li>
+  <li>dual-SIM</li>
+  <li>3G</li>
+  <li>1.3GHz quad-core processor</li>
+  <li>1GB of RAM</li>
+  <li>8GB of internal storage (supporting memory cards of up to 32GB)</li>
+  <li>8-megapixel rear camera with flash</li>
+  <li>3.2-megapixel front camera</li>
+  <li>1800mAh battery</li>
+  <li>Android 5.1 (Lollipop)</li>
+</ul>
+
+<p><a href="http://tech.firstpost.com/news-analysis/ringing-bells-has-actually-shipped-5000-freedom-251-devices-but-critics-need-not-apologise-324579.html">The rollout is slow and units are being sold at a loss</a>, but still. This is amazing and the program, which is <a href="http://tech.firstpost.com/news-analysis/freedom-251-2-lakh-units-to-be-shipped-via-state-wise-lucky-draw-between-30-june-to-5-july-322588.html">subsidized by the Indian government</a>, will bring the web to millions who have not been able to access it previously.</p>
+<p><a rel="full-article" href="http://gadgets.ndtv.com/mobiles/news/freedom-251-maker-says-2-lakh-rs-251-phones-ready-will-launch-cheapest-hd-led-tv-853073">Read on NDTV Gadgets360.com&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Inline Validation in Forms — designing the Experience]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/inline-validation-in-forms-designing-the-experience-123fb34088ce/"/>
+				<updated>2016-07-13T10:08:46-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/inline-validation-in-forms-designing-the-experience-123fb34088ce</id>
+				<content type="html"><![CDATA[<p>This is an interesting survey of form validation approaches. Interestingly it does not include native in-browser validation handling, only bespoke validation scripts.</p>
+<p><a rel="full-article" href="https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce#.btbqkwnbf">Read on WDStack on Medium&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Make the Web Work for Everyone]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/make-the-web-work-for-everyone/"/>
+				<updated>2016-07-13T10:05:13-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/make-the-web-work-for-everyone</id>
+				<content type="html"><![CDATA[<p>The intro to this awesome post sets the stage perfectly:</p>
+
+<blockquote>
+  <p>The web has changed immensely in the past 20 years. In 1996 there were roughly a million websites; now there are more than a billion. Back then there were roughly 50 million internet users; today there are more than 3 billion. We have more content than we ever dreamed was possible. People are enjoying it on 8.1 billion connected devices, including more than 24,000 distinct mobile device types.</p>
+</blockquote>
+
+<p>We need progressive enhancement and we need to look beyond our technological bubble. It’s good for us and it’s good for the Web.</p>
+<p><a rel="full-article" href="https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/">Read on Mozilla Hacks&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Posters]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/posters/"/>
+				<updated>2016-07-13T10:02:23-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/posters</id>
+				<content type="html"><![CDATA[<p>I love, love, love this collection of posters covering topics like research, access needs, accessibility, and design. Download them, print them up and hang them up all over your office!</p>
+<p><a rel="full-article" href="https://github.com/UKHomeOffice/posters">Read on Home Office Digital&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -281,199 +346,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3</id>
 				<content type="html"><![CDATA[<p>An excellent post from Dion Almaer on the importance of choosing the appropriate approach for the critical tasks of your web property. He dubs it “time to first meaningful interaction”. This is where progressive enhancement shines.</p>
 <p><a rel="full-article" href="https://medium.com/ben-and-dion/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3#.3mscxcksx">Read on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Post: What Are Keys to Success?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/what-are-keys-to-success/"/>
-				<updated>2016-06-01T11:18:31-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/what-are-keys-to-success</id>
-				<content type="html"><![CDATA[<p>The other day I got a message from someone I’ve been mentoring via email. His question was one I think a lot of folks in our industry struggle with:</p>
-
-<blockquote>
-  <p>Can you please tell what are keys to success and what should I do to become a successful programmer and software engineer? Anything is appreciated.</p>
-</blockquote>
-
-<!-- more -->
-
-<p>That’s a tough one. “Success” can be defined in so many ways. Is success making truckloads of money? Is it having 100,000 Twitter followers? Is it getting invited to speak at conferences in exotic locations? Those are very external notions of success, perhaps it’s more personal: Feeling like you’ve accomplished what you set out to do. Feeling like your life has meaning. Finding joy in both your work and your play. With so many ways to define success, there’s no magic formula for achieving it.</p>
-
-<p>Unsure how to answer this perplexing question, I decided to answer by sharing what makes me feel successful—the Golden Rule. I used the Islamic version in my response:</p>
-
-<blockquote>
-  <p>No one of you is a believer until he desires for his brother that which he desires for himself.</p>
-</blockquote>
-
-<p>That I chose the Islamic version had more to do with where my protege resides than anything else. This concept is universal, cropping up in nearly every faith and philosophy as well as in numerous cultural proverbs:</p>
-
-<blockquote>
-  <p>Blessed is he who preferreth his brother before himself. (Baha’i)</p>
-</blockquote>
-
-<blockquote>
-  <p>One should seek for others the happiness one desires for one’s self. (Buddhism)</p>
-</blockquote>
-
-<blockquote>
-  <p>Do unto others as you would have them do unto you. (Chrisitianity)</p>
-</blockquote>
-
-<blockquote>
-  <p>Try your best to treat others as you would wish to be treated yourself and you will find that this is the shortest way to benevolence. (Confucianism)</p>
-</blockquote>
-
-<blockquote>
-  <p>He sought for others the good he desired for himself. Let him pass on! (Egyptian)</p>
-</blockquote>
-
-<blockquote>
-  <p>Don’t go around hurting people, and Try to understand things. (Hopi)</p>
-</blockquote>
-
-<blockquote>
-  <p>Humanists acknowledge human interdependence, the need for mutual respect and the kinship of all humanity. (Humanism)</p>
-</blockquote>
-
-<blockquote>
-  <p>In happiness and suffering, in joy and grief, we should regard all creatures as we regard our own self. (Jainism)</p>
-</blockquote>
-
-<blockquote>
-  <p>One going to take a pointed stick to pinch a baby bird should first try it on himself to feel how it hurts. (Nigerian)</p>
-</blockquote>
-
-<blockquote>
-  <p>Do as you would be done by. (Persian)</p>
-</blockquote>
-
-<p>Then there’s my personal favorite, from Judaism:</p>
-
-<blockquote>
-  <p>What is hateful to you, do not to your fellow man. That is the entire law; all the rest is commentary.</p>
-</blockquote>
-
-<p>The Golden Rule is a wonderful tool for helping maintain balance in your life, business, and relationships. And so, I followed this recommendation proverb with a bit more detail on how I feel we can embody this philosophy:</p>
-
-<ul>
-  <li>Treat others with respect (means respecting their time, dignity, etc.).</li>
-  <li>Look for opportunities to help others accomplish <em>their</em> goals.</li>
-  <li>Give of yourself freely without expecting return.</li>
-</ul>
-
-<p>My twelve years of Catholic schooling drummed the proverb “to whomever much is given, much will be required“ into my head, which accounts for my emphasis on sharing. I know that my “success”—as I define it at least—has been made possible by the generosity of others. And so I think it’s my duty to “<a href="http://www.imdb.com/title/tt0223897/">pay it forward</a>” and I look for every opportunity to create opportunities for others.</p>
-
-<p>In my experience, living life this way—or at least improving on it a bit each day—makes me feel successful. Perhaps it will work for you as well.</p>
-
-<p><em>Note: Passing along this tiny bit of wisdom made me feel successful today :-)</em></p>
-]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Do Emails Need to Look Exactly the Same in Every Client?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/do-emails-need-to-look-exactly-the-same-in-every-client-5c0ec5ca541d/"/>
-				<updated>2016-05-27T13:23:36-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/do-emails-need-to-look-exactly-the-same-in-every-client-5c0ec5ca541d</id>
-				<content type="html"><![CDATA[<p>No, they don’t. Progressive enhancement, baby!</p>
-
-<blockquote>
-  <p>Images will be blocked. Styles will be filtered. Tables will be munged. Instead of struggling to try to make emails look the same everywhere, let’s embrace their differences.</p>
-</blockquote>
-<p><a rel="full-article" href="https://emails.hteumeuleu.com/do-emails-need-to-look-exactly-the-same-in-every-client-5c0ec5ca541d#.vktixa75f">Read on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Building Accessible Web Components Without Tears]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/building-accessible-web-components-without-tears/"/>
-				<updated>2016-05-27T13:17:53-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/building-accessible-web-components-without-tears</id>
-				<content type="html"><![CDATA[<p>This is an excellent presentation from <a href="http://maxdesign.com.au/">Russ Weakley</a> on how to use semantic markup and ARIA to ring dynamic experiences to life. Definitely worthy of a bookmark (or download).</p>
-<p><a rel="full-article" href="http://www.slideshare.net/maxdesign/building-accessible-web-components-without-tears">Read on Russ Weakley on SlideShare&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Must-have]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/must-have/"/>
-				<updated>2016-05-24T10:25:25-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/must-have</id>
-				<content type="html"><![CDATA[<p><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/05/Strip-Faire-payer-la-formation-650-finalenglish-1.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/05/Strip-Faire-payer-la-formation-650-finalenglish-1.jpg&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/05/Strip-Faire-payer-la-formation-650-finalenglish-1.jpg&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/05/Strip-Faire-payer-la-formation-650-finalenglish-1.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></p>
-
-<p>For the non-visual among you…</p>
-
-<article id="comic-must-have-transcribed" class="script">
-
-<p class="script__stage-direction">Programmer sits at a computer with his back to a Project Manager</p>
-
-<ol class="script__dialog">
-<li class="script__item">
-<cite class="script__speaker">Programmer</cite>
-<blockquote class="script__statement">
-<p>Hmm, it’s quite a lot of work</p>
-<p>Contact form: 5 days</p>
-<p>Back-office: 8 days</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Project Manager</cite>
-<blockquote class="script__statement">
-<p>OK, got it</p>
-</blockquote>
-</li>
-</ol>
-
-<p class="script__stage-direction">Pan out to reveal Project Lead sitting next to programmer</p>
-
-<ol class="script__dialog">
-<li class="script__item">
-<cite class="script__speaker">Project Manager</cite>
-<blockquote class="script__statement">
-<p>I’ll send the customer the quote and I’ll let you know what happens</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Programmer</cite>
-<blockquote class="script__statement">
-<p>OK, great</p>
-</blockquote>
-</li>
-</ol>
-
-<p class="script__stage-direction">Zoom in on the Project Lead and Programmer</p>
-
-<ol class="script__dialog">
-<li class="script__item">
-<cite class="script__speaker">Project Lead</cite>
-<blockquote class="script__statement">
-<p>5 man-days for a contact form?? Are You kidding??</p>
-<p>It’s half a day at the very most</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Programmer <em class="script__speaker__description">(looking smug)</em></cite>
-<blockquote class="script__statement">
-<p>You’re right…</p>
-<p>…But you’re forgetting the 4.5 days to test the new must-have framework</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Project Lead <em class="script__speaker__description">(smiling)</em></cite>
-<blockquote class="script__statement">
-<p>Ha! Someone has to pay for it…</p>
-</blockquote>
-</li>
-</ol>
-
-</article>
-
-<p>Sadly, this is so true.</p>
-<p><a rel="full-article" href="http://www.commitstrip.com/en/2016/05/03/must-have/">Read on CommitStrip&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
