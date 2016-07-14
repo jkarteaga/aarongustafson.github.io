@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-07-13T12:20:28-04:00</updated>
+	<updated>2016-07-14T11:29:59-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 			<entry>
@@ -335,17 +337,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/AT-browser-tests</id>
 				<content type="html"><![CDATA[<p>This is huge! Many thanks to Steve Faulkner and Léonie Watson for compiling this information!</p>
 <p><a rel="full-article" href="http://thepaciellogroup.github.io/AT-browser-tests/">Read on The Paciello Group&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Stop Painting and Have a Meaningful Interaction With Me!]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3/"/>
-				<updated>2016-06-08T10:17:28-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3</id>
-				<content type="html"><![CDATA[<p>An excellent post from Dion Almaer on the importance of choosing the appropriate approach for the critical tasks of your web property. He dubs it “time to first meaningful interaction”. This is where progressive enhancement shines.</p>
-<p><a rel="full-article" href="https://medium.com/ben-and-dion/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3#.3mscxcksx">Read on Medium&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	

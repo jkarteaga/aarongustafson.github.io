@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-07-13T12:20:28-04:00</updated>
+	<updated>2016-07-14T11:29:59-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,34 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Post: The Web Is Messy and Beautiful]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful/"/>
+				<updated>2016-07-14T11:17:32-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful</id>
+				<content type="html"><![CDATA[<p>In two back-to-back, potentially <abbr aria-label="Not Safe for Work">NSFW</abbr> posts discussing web development vs. native development, <a href="https://hueniverse.com">Eran Hammer</a> covered a lot of the pain points encountered in each. For instance, on the Web, you’ve got rendering and user interface inconsistencies between browsers. On the other hand, retention for native apps is notoriously crappy.</p>
+
+<p>Toward the end of his second piece, Eran nailed my long-time contention in this quasi-fictional war between the Web and native:</p>
+
+<blockquote>
+  <p>It’s never really app vs native. It’s a complicated tradeoff between multiple factors and no matter how much you read about it, how many statistics you collect, how many experts you talk to, you will still have to figure it out on your own, based on the specific properties of the experience you are building. And keep evaluating your decisions.</p>
+</blockquote>
+
+<p>As with everything, the right choice often depends on a variety of factors, many of which are likely to change.</p>
+
+<p>In the end, I typically fall down on the side of the Web because I find its “messy” nature to be one of its great strengths. The Web is malleable and capable of being different things for different people. This flexibility allows it to travel further and empower more people than native apps ever will. I guess that’s why I am so stoked about progressive web apps too. When done well, they enable useful tools to go further and reach more people while providing many of the benefits of an installed application. If they’re successful, they really could be the best of both worlds.</p>
+
+<p>Anyway, both posts are well worth a read:</p>
+
+<ul>
+  <li><a href="https://hueniverse.com/2016/06/08/the-fucking-open-web/">The Fucking Open Web</a></li>
+  <li><a href="https://hueniverse.com/2016/06/20/the-open-web-fuck-yeah/">The Open Web, Fuck Yeah!</a> (the rebuttal)</li>
+</ul>
+]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -335,17 +363,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/AT-browser-tests</id>
 				<content type="html"><![CDATA[<p>This is huge! Many thanks to Steve Faulkner and Léonie Watson for compiling this information!</p>
 <p><a rel="full-article" href="http://thepaciellogroup.github.io/AT-browser-tests/">Read on The Paciello Group&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Stop Painting and Have a Meaningful Interaction With Me!]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3/"/>
-				<updated>2016-06-08T10:17:28-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3</id>
-				<content type="html"><![CDATA[<p>An excellent post from Dion Almaer on the importance of choosing the appropriate approach for the critical tasks of your web property. He dubs it “time to first meaningful interaction”. This is where progressive enhancement shines.</p>
-<p><a rel="full-article" href="https://medium.com/ben-and-dion/stop-painting-and-have-a-meaningful-interaction-with-me-86ef8eb4f5b3#.3mscxcksx">Read on Medium&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
