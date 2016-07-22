@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-07-14T11:29:59-04:00</updated>
+	<updated>2016-07-22T11:07:25-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,17 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Microsoft CEO Satya Nadella: Humans and A.I. Can Work Together to Solve Society’s Challenges.]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/microsoft_ceo_satya_nadella_humans_and_a_i_can_work_together_to_solve_society/"/>
+				<updated>2016-07-14T13:17:26-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/microsoft_ceo_satya_nadella_humans_and_a_i_can_work_together_to_solve_society</id>
+				<content type="html"><![CDATA[<p>This is an awesome post from Microsoft CEO Satya Nadella on the future of Artificial Intelligence, recommendations for the development of AI, and what will be required of us as humans interacting with it.</p>
+<p><a rel="full-article" href="http://www.slate.com/articles/technology/future_tense/2016/06/microsoft_ceo_satya_nadella_humans_and_a_i_can_work_together_to_solve_society.html">Read on Slate&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 	
@@ -326,17 +337,6 @@
 
 <p>The benefits of single platform development are easily reaped by developers, but they come at a cost to the consumer who doesn’t have the right device or specs and (moreover) it limits a project’s potential reach.</p>
 <p><a rel="full-article" href="http://www.commitstrip.com/en/2016/06/01/a-single-platform/">Read on CommitStrip&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Aural UI of HTML Elements]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/AT-browser-tests/"/>
-				<updated>2016-06-08T10:19:52-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/AT-browser-tests</id>
-				<content type="html"><![CDATA[<p>This is huge! Many thanks to Steve Faulkner and Léonie Watson for compiling this information!</p>
-<p><a rel="full-article" href="http://thepaciellogroup.github.io/AT-browser-tests/">Read on The Paciello Group&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
