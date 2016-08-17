@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-07-22T11:07:25-04:00</updated>
+	<updated>2016-08-17T18:08:27-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,108 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Test on the Right Mobile Devices]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/test-on-the-right-mobile-devices/"/>
+				<updated>2016-08-16T14:38:08-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/test-on-the-right-mobile-devices</id>
+				<content type="html"><![CDATA[<p>This is a nice overview of where you should be spending your mobile device testing time if you’re clueless about where to begin. Obviously it skews toward BrowserStack’s offerings, but it’s a pretty solid list of devices. It doesn’t touch on browsers though, which means Opera is a glaring omission.</p>
+<p><a rel="full-article" href="https://www.browserstack.com/test-on-the-right-mobile-devices">Read on BrowserStack&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Another 10k Apart: Create a Website in 10 KB, Win Prizes!]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/another-10k-apart/"/>
+				<updated>2016-08-15T13:05:50-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/another-10k-apart</id>
+				<content type="html"><![CDATA[<p>Here’s <a href="http://www.zeldman.com/">Jeffrey</a>’s introduction to the <a href="https://a-k-apart.com/">2016 10k Apart contest</a>. Did you know it’s <a href="http://aneventapart.com/">An Event Apart</a>’s 10 year anniversary? How cool is that?!</p>
+<p><a rel="full-article" href="http://alistapart.com/article/another-10k-apart">Read on A List Apart&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[What Would You Do With 10kB?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/10k-apart/"/>
+				<updated>2016-08-15T13:04:17-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/10k-apart</id>
+				<content type="html"><![CDATA[<p>Here’s a little bit of an introduction to <a href="https://a-k-apart.com/">the 2016 10k Apart contest</a> from yours truly.</p>
+<p><a rel="full-article" href="https://blogs.windows.com/msedgedev/2016/08/15/10k-apart/">Read on Microsoft Edge Developer Blog&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[10K Apart]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/a-k-apart/"/>
+				<updated>2016-08-15T12:49:25-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/a-k-apart</id>
+				<content type="html"><![CDATA[<p>I’m so excited about this new contest!</p>
+
+<blockquote>
+  <p>The Challenge? Build a compelling web experience that can be delivered in 10kB and works without JavaScript.</p>
+</blockquote>
+
+<p>If you can, <a href="https://a-k-apart.com/#prizes">there’s big money waiting for you</a>!</p>
+
+<p>PS - I’ll be writing up the build process for the site in the coming weeks.</p>
+<p><a rel="full-article" href="https://a-k-apart.com/">Read on Microsoft & An Event Apart&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Full Width Containers in Limited Width Parents]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/full-width-containers-limited-width-parents/"/>
+				<updated>2016-08-05T13:39:36-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/full-width-containers-limited-width-parents</id>
+				<content type="html"><![CDATA[<p>I love this overview of handy column-busting CSS options.</p>
+<p><a rel="full-article" href="https://css-tricks.com/full-width-containers-limited-width-parents/">Read on CSS-Tricks&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Stuff I Wish I’d Known Sooner About Service Workers]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/fd6c3c73e6e707e312d7c5d7d0f3b2f9/"/>
+				<updated>2016-08-05T13:38:32-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/fd6c3c73e6e707e312d7c5d7d0f3b2f9</id>
+				<content type="html"><![CDATA[<p>I’m learning more and more about Service Workers every day…</p>
+<p><a rel="full-article" href="https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9">Read on Rich Harris&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Introducing EdgeHTML 14 With the Windows 10 Anniversary Update]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/introducing-edgehtml-14/"/>
+				<updated>2016-08-05T13:31:02-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/introducing-edgehtml-14</id>
+				<content type="html"><![CDATA[<p>Edge 14 is out. I’m so proud of my colleagues working on this browser. My favorite bit? The focus on accessibility (and the 100% score on <a href="http://html5accessibility.com/">HTML5Accessibility’s browser benchmark</a> to back it up).</p>
+<p><a rel="full-article" href="https://blogs.windows.com/msedgedev/2016/08/04/introducing-edgehtml-14/">Read on Microsoft Edge Developer Blog&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[eLesson: Unconscious Bias]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/eLesson-unconscious-bias/"/>
+				<updated>2016-08-05T13:26:47-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/eLesson-unconscious-bias</id>
+				<content type="html"><![CDATA[<p>I loved taking this course as part of my job training at Microsoft and I’m so excited that they’ve made it public. I learned a ton and I’m sure you will too:</p>
+
+<blockquote>
+  <p>In this course, you’ll deepen your understanding of unconscious biases, how they influence behavior, and how they impact us all. You’ll also learn numerous actions you can take to help counter bias in your own work environment.</p>
+</blockquote>
+<p><a rel="full-article" href="https://www.mslearning.microsoft.com/course/72169/launch">Read on Microsoft&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -148,195 +250,6 @@
 
 <p>Long live the Web!</p>
 <p><a rel="full-article" href="https://developers.slashdot.org/story/16/06/08/200216/slashdot-asks-is-the-app-boom-over">Read on Slashdot&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Idea of the Week — Jeremy Keith]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/idea-week-jeremy-keith/"/>
-				<updated>2016-06-08T11:51:49-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/idea-week-jeremy-keith</id>
-				<content type="html"><![CDATA[<p>Reading Jeremy’s history with the Web, I noticed a lot of parallels with mine. I think a lot of us old timers made our way to the Web in a very similar fashion and it’s surprising how many of us made our way here through music.</p>
-<p><a rel="full-article" href="https://www.webdirections.org/blog/idea-week-jeremy-keith/">Read on Web Directions&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Why Britain Banned Mobile Apps]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/why-britain-banned-mobile-apps/"/>
-				<updated>2016-06-08T11:48:51-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/why-britain-banned-mobile-apps</id>
-				<content type="html"><![CDATA[<p>This! An excellent interview with Ben Terrett:</p>
-
-<blockquote>
-  <p>Apps are “very expensive to produce, and they’re very very expensive to maintain because you have to keep updating them when there are software changes”</p>
-</blockquote>
-
-<p>But…</p>
-
-<blockquote>
-  <p>Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding.</p>
-</blockquote>
-
-<p>Share this with your boss and your boss’ boss.v</p>
-<p><a rel="full-article" href="https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/">Read on GovInsider&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Avoid Overstyling Base Styles]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/avoid-overstyling-base-styles/"/>
-				<updated>2016-06-08T11:46:04-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/avoid-overstyling-base-styles</id>
-				<content type="html"><![CDATA[<p>Excellent advice (as usual) from Jonathan Snook. Although, based on the project—such as a limited-scope site with a tight size limit—you may want to define almost everything as base styles. As with everything on the Web, it depends.</p>
-<p><a rel="full-article" href="http://snook.ca/archives/html_and_css/avoid-overstyling-base-styles">Read on Snook.ca&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[PWA Discovery]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/pwa-discovery-you-aint-seen-nothin-yet/"/>
-				<updated>2016-06-08T11:44:49-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/pwa-discovery-you-aint-seen-nothin-yet</id>
-				<content type="html"><![CDATA[<p>Alex Russell discusses Chrome’s Progressive Web App prompting strategy and discusses what’s next.</p>
-<p><a rel="full-article" href="https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/">Read on Infrequently Noted&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[CSS Optimization Using Gulp]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/css-optimization-using-gulp/"/>
-				<updated>2016-06-08T11:39:35-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/css-optimization-using-gulp</id>
-				<content type="html"><![CDATA[<p>An excellent collection of Gulp plugins for optimizing the living heck out your CSS.</p>
-<p><a rel="full-article" href="http://abdelraoof.com/blog/2015/04/02/css-optimization-using-gulp/">Read on Abdel Raoof&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Improving Your CSS With Parker]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/improving-your-css-with-parker/"/>
-				<updated>2016-06-08T11:37:50-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/improving-your-css-with-parker</id>
-				<content type="html"><![CDATA[<p>Parker looks like an interesting tool for general information about your CSS, but you should take its reporting with a grain of salt.</p>
-<p><a rel="full-article" href="http://csswizardry.com/2016/06/improving-your-css-with-parker/">Read on CSS Wizardry&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Yet Another Blog About the State and Future of Progressive Web App]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/yet-another-progressive-webapp-post/"/>
-				<updated>2016-06-08T11:24:26-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/yet-another-progressive-webapp-post</id>
-				<content type="html"><![CDATA[<p>An excellent post from Ada Rose Edwards on Progressive Web Apps. She’s brings up some very real concerns, many of which I share:</p>
-
-<ul>
-  <li>The basis for what Chrome defines as a Web App is based upon a set of technology rather than a set of features.</li>
-  <li>We need to consider carefully before we throw away URLs or the entire browser chrome in an effort to look like and behave like the cool kids of native.</li>
-  <li>The install banner is the browser manufacturers’ choice; it’s not a spec.</li>
-</ul>
-<p><a rel="full-article" href="https://ada.is/blog/2016/06/01/yet-another-progressive-webapp-post/">Read on The blog of Ada Rose Edwards&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Sorry, It’s Time to Start Counting Gigabytes at Home, Too]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/sorry-time-start-counting-gigabytes-home/"/>
-				<updated>2016-06-08T10:48:03-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/sorry-time-start-counting-gigabytes-home</id>
-				<content type="html"><![CDATA[<p>Moving in this direction poses a lot of problems for terrestrial data. It could also increase the digital divide.</p>
-
-<blockquote>
-  <p>Ratcheting prices up further will only increase the digital divide, but the difference won’t just be between those who have Internet access and those who don’t. The cost of data limits could also divide the population between those who can take full advantage of high-bandwidth applications like streaming and video conferencing, and those who have to curb their usage for fear of incurring overage charges.</p>
-</blockquote>
-<p><a rel="full-article" href="http://www.wired.com/2016/06/sorry-time-start-counting-gigabytes-home/">Read on Wired&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[A Single Platform]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/a-single-platform/"/>
-				<updated>2016-06-08T10:28:58-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/a-single-platform</id>
-				<content type="html"><![CDATA[<p>Another brilliant CommitStrip. <a href="#comic-strip-uncharted-4-translated">My transcription follows</a>.</p>
-
-<p><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Uncharted-4-english650-final.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></p>
-
-<article id="comic-strip-uncharted-4-transcribed" class="script">
-
-<p class="script__stage-direction">A developer and his project lead are sitting next to one another.</p>
-
-<ol class="script__dialog">
-<li class="script__item">
-<cite class="script__speaker">Programmer</cite>
-<blockquote class="script__statement">
-<p>It sucks Uncharted 4 is only available on PS4</p>
-<p>…releasing AAAs on just one platform is unfair</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Project Lead <em class="script__speaker__description">(excitedly)</em></cite>
-<blockquote class="script__statement">
-<p>Yeah I guess, but it must be awesome for Naughty Dog</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Project Lead <em class="script__speaker__description">(smugly)</em></cite>
-<blockquote class="script__statement">
-<p>They only have to develop, test and maintain their software on one single platform</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Programmer <em class="script__speaker__description">(looking confused)</em></cite>
-<blockquote class="script__statement">
-<p>I guess…</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Project Lead <em class="script__speaker__description">(emphatically)</em></cite>
-<blockquote class="script__statement">
-<p>Everyone has the same processor, the same amount of memory, the same resolution…</p>
-<p>Just think about it…</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Programmer <em class="script__speaker__description">(shrinking)</em></cite>
-<blockquote class="script__statement">
-<p>…I don’t want to think about it</p>
-</blockquote>
-</li>
-</ol>
-
-<p class="script__stage-direction">Pan out to reveal the large table they are sitting at. It is littered with mobile devices.</p>
-
-<ol class="script__dialog">
-<li class="script__item">
-<cite class="script__speaker">Programmer <em class="script__speaker__description">(getting up and turning to leave the room)</em></cite>
-<blockquote class="script__statement">
-<p>Does anyone have a phone with Android 4.0.4?</p>
-</blockquote>
-</li>
-<li class="script__item">
-<cite class="script__speaker">Project Lead <em class="script__speaker__description">(muttering to himself)</em></cite>
-<blockquote class="script__statement">
-<p>Hmmmm…</p>
-</blockquote>
-</li>
-</ol>
-
-</article>
-
-<p>The benefits of single platform development are easily reaped by developers, but they come at a cost to the consumer who doesn’t have the right device or specs and (moreover) it limits a project’s potential reach.</p>
-<p><a rel="full-article" href="http://www.commitstrip.com/en/2016/06/01/a-single-platform/">Read on CommitStrip&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
