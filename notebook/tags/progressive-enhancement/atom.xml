@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Progressive Enhancement | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/progressive-enhancement/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-08-16T14:46:20-04:00</updated>
+  <updated>2016-08-17T14:58:49-04:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -14,11 +14,50 @@
 
   
   <entry>
+    <title type="html"><![CDATA[What Would You Do With 10kB?]]></title>
+    <link href="https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb/"/>
+    <updated>2016-08-17T14:48:27-04:00</updated>
+    <id>https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb</id>
+    <content type="html"><![CDATA[<p>Sixteen years ago, <a href="https://twitter.com/stewart">Stewart Butterfield</a> conceived of a contest that would test the mettle of any web designer: <a href="http://web.archive.org/web/20000510010054/http:/www.sylloge.com/5k/home.html">The 5k</a>. The idea was that entrants would build <a href="http://alistapart.com/article/5k">an entire site in 5kB of code or less</a>. Its aim was to force us to get creative by putting a bounding box on what we could do:</p>
+
+<blockquote>
+  <p>Between servers and bandwidth, clients and users, HTML and the DOM, browsers and platforms, our conscience and our ego, we’re left in a very small space to find highly optimal solutions. Since the space we have to explore is so small, we have to look harder, get more creative; and that’s what makes it all interesting.</p>
+</blockquote>
+
+<p>The 5k contest ran from 2000 until 2002. In 2010, <a href="http://www.zeldman.com/2010/07/29/10k-apart-%E2%80%93%C2%A0inspire-the-web/">An Event Apart and Microsoft revived the idea</a> with an updated limit and a new name: <a href="http://web.archive.org/web/20100730090946/http:/10k.aneventapart.com/">10k Apart</a>. Staying true to its roots, this new incarnation, which ran for two years, continued to push designers and developers to get creative within a pretty extreme (though slightly expanded) limit while incorporating new goodies like HTML5 and responsive design.</p>
+
+<p>I’m thrilled to announce that <a href="https://a-k-apart.com/">the 10k Apart contest is back</a> and brings with it a handful of new challenges:</p>
+
+<ol>
+  <li><strong>Each page must be usable in 10kB or less.</strong> The 10kB limit no longer applies to the size of a ZIP archive of your entry; the 10kB limit now applies to the total initial download size of the baseline experience of each page in your project. When we say “baseline experience,” we’re talking small screen devices running older, less capable browsers. The 10kB limit will apply to every page and whatever assets it loads by default; that means images, CSS, JavaScript, and so on.</li>
+  <li><strong>Progressive enhancement is the name of the game.</strong> Your project should start with a super-basic, bare-bones-but-usable experience that will work no matter what (including without JavaScript). You can use clever CSS and JavaScript techniques to enhance that experience as it makes sense to do so. For example: You might lazy load an image using JavaScript if the screen size is above a certain threshold or when certain other conditions are met. Entries that depend entirely on JavaScript to render the front-end won’t be accepted. If you need a primer on progressive enhancement, <a href="http://alistapart.com/search?keywords=progressive%20enhancement">consult the pages of <cite>A List Apart</cite></a>.</li>
+  <li><strong>Back ends are in this year.</strong> In previous iterations, each entry comprised client-side code submitted via ZIP file. Over time, that limitation led to an over-reliance on JavaScript for rendering. No more. This year, you can create dynamic experiences that work without front-end JavaScript using Node, PHP, Python or .Net. You will submit your entry as public GitHub repository (so we can all learn from your awesome code) and we’ll spin up a dedicated <a href="https://azure.microsoft.com/">Azure</a> instance running the appropriate stack.</li>
+  <li><strong>Entries should be accessible.</strong> In line with the philosophy of progressive enhancement, your entry should be usable by the broadest number of users possible. <a href="http://www.accessiq.org/news/commentary/2012/09/web-accessibility-is-a-mindset-not-a-checklist">Accessibility is not a checklist</a>, but if you’re clueless about where to start, <a href="https://www.w3.org/TR/WCAG20-TECHS/">these techniques</a> can offer some guidance.</li>
+  <li><strong>Nothing comes for free.</strong> In previous years, we gave a pass if you wanted to use jQuery or load some fonts from Typekit. This year we decided to change it up, not because we don’t love these products (we do), but because we wanted to force every piece of code, every asset, to fight for its place in your entry. Anything you add should be added with purpose.</li>
+</ol>
+
+<p>As with previous editions, your entry should use web standards and work in all modern browsers. You can use HTML, CSS, and JavaScript features and APIs that don’t have across-the-board support as long as you do so in keeping with the progressive enhancement philosophy. In other words, your entry can’t depend on that technology or feature in order to be usable.</p>
+
+<p>All of this may sound like a tall order, but it’s entirely possible. In fact, the site we built for the contest also abides by these rules. My colleagues and I will touch on some of the techniques we used (and concessions we made) in building the site in future posts.</p>
+
+<p>If you’ve read this far, you might be wondering <em>What’s in it for me?</em> Well, bragging rights, of course, but we’ve got some awesome prizes too! We’re giving away $10,000 to the top three entries, plus <a href="http://aneventapart.com/events">tickets to An Event Apart</a>, complete collections of <a href="https://abookapart.com/collections/standards-collection">A Book Apart titles</a>, and copies of <a href="http://adaptivewebdesign.info/2nd-edition/">my book</a> too. <a href="https://a-k-apart.com/#prizes">Complete details of the prizes</a> are over on <a href="https://a-k-apart.com/">the contest site</a>.</p>
+
+<p>We’ve lined up an amazing group to judge the entires this year too: <a href="https://twitter.com/rachelandrew">Rachel Andrew</a>, <a href="https://twitter.com/lara_hogan">Lara Hogan</a>, <a href="https://twitter.com/wilto">Mat Marquis</a>, <a href="https://twitter.com/Heydonworks">Heydon Pickering</a>, <a href="https://twitter.com/jensimmons">Jen Simmons</a>, and <a href="https://twitter.com/SaraSoueidan">Sara Soueidan</a> will all be putting your entry through its paces and peering under the hood at your code. There’s also a People’s Choice award which will be based on votes you cast. Voting will open October 1st and run through October 14th.</p>
+
+<p>The contest opened Monday and we will accept entries until 5pm Pacific Time on September 30th. <a href="https://a-k-apart.com/legal">Everything you should need to know about the contest, eligibility, etc.</a> is up on <a href="https://a-k-apart.com/">the 10k Apart site</a>, but if you have additional questions, <a href="https://a-k-apart.com/hi">you can always reach out</a>.</p>
+
+<p>I can’t wait to see what you come up with! Happy coding!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Web Is Messy and Beautiful]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful/"/>
     <updated>2016-07-14T11:17:32-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful</id>
     <content type="html"><![CDATA[<p>In two back-to-back, potentially <abbr aria-label="Not Safe for Work">NSFW</abbr> posts discussing web development vs. native development, <a href="https://hueniverse.com">Eran Hammer</a> covered a lot of the pain points encountered in each. For instance, on the Web, you’ve got rendering and user interface inconsistencies between browsers. On the other hand, retention for native apps is notoriously crappy.</p>
+
+<p>&lt;– more –&gt;</p>
 
 <p>Toward the end of his second piece, Eran nailed my long-time contention in this quasi-fictional war between the Web and native:</p>
 
@@ -527,104 +566,6 @@
 <p>It’s been a blast and I have learned so much from the teams I’ve coached. Each workshop is completely different because each group of attendees is completely different. I’ve run it with groups ranging from 12 to 120, for internal teams at large companies to mixed audiences from all over the world. Everyone who has attended one of these workshops has brought a unique perspective and helped us all get better at our jobs. That’s been one of the best parts of this experience for me.</p>
 
 <p>If a workshop like this sounds up your alley, I’ll be giving it a few more times in 2016. Your next opportunity will be at <a href="http://enhanceconf.com/workshop.html">EnhanceConf in London in early March</a>. Later in the year, I’ll be giving it as part of <a href="https://buildright.io/maker-series/2016/aaron-gustafson">Sparkbox’s Build Right: Maker Series</a>. I’d love the opportunity to work with you if you can make it!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Progressive Enhancement Gets a Conference]]></title>
-    <link href="https://www.aaron-gustafson.com/notebook/progressive-enhancement-gets-a-conference/"/>
-    <updated>2016-02-15T10:00:51-05:00</updated>
-    <id>https://www.aaron-gustafson.com/notebook/progressive-enhancement-gets-a-conference</id>
-    <content type="html"><![CDATA[<p>On March 4th, I’ll be in London to give the closing talk at <a href="http://enhanceconf.com/">EnhanceConf</a>, the first conference dedicated progressive enhancement. Over the last few months, I’ve been talking to the conference’s organizer, <a href="https://twitter.com/simonmcmanus">Simon McManus</a>, quite a lot. He’s put a lot of thought into the conference and I thought it might be interesting to  interview him so he could share his motivations and hopes for the event.</p>
-
-<!-- more -->
-
-<p><b class="interview__attribution">Me:</b> As a philosophy, progressive enhancement has been around for more than a dozen years. Why do you think it needs a conference now?</p>
-
-<p><b class="interview__attribution">Simon:</b> I first started thinking about EnhanceConf in 2014. At the time, Tom Dale had declared progressive enhancement dead and I had just heard Henrik Joreteg telling his Single Page Story.I was hearing lots of talk about progressive enhancement being hard and expensive when my experience showed quite the opposite.</p>
-
-<p>It’s been fascinating to watch how views have changed since, Tom Dale now loves progressive enhancement and Henrik likes to do as much of his rendering at build time as possible.</p>
-
-<p>As the web continues to grow in weird and wonderful ways techniques like progressive enhancement just keep giving more and more value.</p>
-
-<p><b class="interview__attribution">Me:</b> What does progressive enhancement mean to you?</p>
-
-<p><b class="interview__attribution">Simon:</b> I try to build applications that provide the best possible experience to the end user. Regardless of who they are, where they are or what device they are using. For me, that means using progressive enhancement in every part of the stack.</p>
-
-<p>Progressive enhancement is about so much more than whether an app work with JavaScript turned off, realising we don’t have control over the runtime environment and building applications in the most robust way possible is far more important.</p>
-
-<p><b class="interview__attribution">Me:</b> Do you think it’s an approach that everyone should use on every web project?</p>
-
-<p><b class="interview__attribution">Simon:</b> I guess that depends on what you mean by a web project. In my mind to work on the web, you have to give up that illusion of control. You need to assume as little as possible about the device or user and for me that fits very well with progressive enhancement.</p>
-
-<p>Web technologies transcend the capabilities of any one device with their reach alone, it seems strange to me when people use them but don’t take full advantage.</p>
-
-<p><b class="interview__attribution">Me:</b> If a web designer or developer is only passingly familiar with progressive enhancement and is considering coming to the event, what should they expect to get out of it?</p>
-
-<p><b class="interview__attribution">Simon:</b> These are probably the people with the most to benefit from EnhanceConf.</p>
-
-<p>We are going to start the day looking at why progressive enhancement is still important on the modern web, so that should provide a nice intro for anyone who is not already familiar with progressive enhancement.</p>
-
-<p><b class="interview__attribution">Me:</b> What about a seasoned practitioner who already applies this philosophy to their work?</p>
-
-<p><b class="interview__attribution">Simon:</b> Originally, EnhanceConf was a very selfish idea. I wanted to learn more about the tools and techniques being in use in industry: Over the last few years contracting I’ve seen many in use in that just weren’t surfacing at conferences.</p>
-
-<p>EnhanceConf is about the state of the art in progressive enhancement, I’d like to think EnhanceConf will be the perfect event for such people to come together and learn from one another.</p>
-
-<p><b class="interview__attribution">Me:</b> What if the person thinks progressive enhancement is a waste of time?</p>
-
-<p><b class="interview__attribution">Simon:</b> I’d really like to encourage these people to come along to the event, I think it’s important their voice is a part of this discussion so that we can learn from each other and move forward together.</p>
-
-<p>With an open mind I think they should have a really good time, they might hear some viewpoints they disagree with, but there will be lots of opportunities for Q&amp;A to discuss those topics in detail.</p>
-
-<p><b class="interview__attribution">Me:</b> As a hyper-focused event, there’s a risk of it being a bit of an echo chamber. Have you taken steps to mitigate that possibility?</p>
-
-<p><b class="interview__attribution">Simon:</b> I hope by being a hyper-focused event we can move beyond the bikeshedding that so often surrounds such discussions.</p>
-
-<p>But yes. I have taken a couple of steps to mitigate an echo chamber:</p>
-
-<ol>
-  <li>
-    <p><strong>Duplicate content</strong>
-If you take all the talks about progressive enhancement and put them all on the same day you would end up with a fair amount of similar content. There will be no generic talks about progressive enhancement at EnhanceConf. Each talk will dig into real examples to provide unique tales from the trenches.</p>
-  </li>
-  <li>
-    <p><strong>Preaching to the choir</strong>
-I’ve been reaching out to lots of different communities around London to bring as many voices into the discussions as possible. The other day I was at the Meteor London meetup talking about EnhanceConf. Tableflip (the organisers) even bought tickets for their whole company!</p>
-  </li>
-</ol>
-
-<p>The event is also being recorded so anyone not at the event will be able to watch all the talks and Q&amp;A.</p>
-
-<p><b class="interview__attribution">Me:</b> You’re modeling the format of the event—four acts, each comprising three twenty-minute talks and a group Q&amp;A session—on Responsive Day Out. What was the draw of that approach?</p>
-
-<p><b class="interview__attribution">Simon:</b> Yes, we get to hear lots of different viewpoints and then bring the speakers together for a Q&amp;A. This should allow new viewpoints to emerge from discussions and join related threads. It also means we get to spend each section focusing on a particular area.</p>
-
-<p><b class="interview__attribution">Me:</b> Can you talk a bit about your speaker selection process?</p>
-
-<p><b class="interview__attribution">Simon:</b> I had lots of people in mind to talk at EnhanceConf. To ensure we heard a wide range of viewpoints we also opened a call for proposals to which we received some superb submissions.</p>
-
-<p>I was fortunate to have some trusted advisors who helped me out throughout the process. I’m really pleased with how the line-up turned out.</p>
-
-<p><b class="interview__attribution">Me:</b> When the event is done and dusted, what are you hoping will happen?</p>
-
-<p><b class="interview__attribution">Simon:</b> I’d quite like a holiday! :D</p>
-
-<p>But seriously, I hope we can demonstrate how to maximise the benefits and minimise any costs associated with progressive enhancement.</p>
-
-<p>If at the end of EnhanceConf we had a reasoned and nurturing community able to take discussions forward that would be a fine outcome. :)</p>
-
-<p><b class="interview__attribution">Me:</b> Do you think there will be another EnhanceConf?</p>
-
-<p><b class="interview__attribution">Simon:</b> EnhanceConf is the first conference I’ve organised. It’s been an unfathomable amount of work and financial risk to get this far and it’s mostly been done in my evenings and weekends. That said, it has been quite fun.</p>
-
-<p>I’d like to do some traveling this year, maybe 2018?</p>
-
-<hr />
-
-<p>EnhanceConf will take place March 4th at the <a href="http://www.thersa.org/">RSA House</a> in London. <a href="http://enhanceconf.com/tickets.html">Tickets are available on the conference website</a>. I will also be giving <a href="http://enhanceconf.com/workshop.html">a one-day workshop entitled Planning Adaptive Interfaces</a> on March 3rd as part of the conference. Seating is limited.</p>
-
-<p>EnhanceConf is offering a small number of educational scholarships. For more information on the scholarships and how to apply, check out <a href="https://simonmcmanus.wordpress.com/2016/02/14/enhanceconf-scholarship/">Simon’s post about the program</a>.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Web Design | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/web-design/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-08-16T14:46:20-04:00</updated>
+  <updated>2016-08-17T14:58:49-04:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What Would You Do With 10kB?]]></title>
+    <link href="https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb/"/>
+    <updated>2016-08-17T14:48:27-04:00</updated>
+    <id>https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb</id>
+    <content type="html"><![CDATA[<p>Sixteen years ago, <a href="https://twitter.com/stewart">Stewart Butterfield</a> conceived of a contest that would test the mettle of any web designer: <a href="http://web.archive.org/web/20000510010054/http:/www.sylloge.com/5k/home.html">The 5k</a>. The idea was that entrants would build <a href="http://alistapart.com/article/5k">an entire site in 5kB of code or less</a>. Its aim was to force us to get creative by putting a bounding box on what we could do:</p>
+
+<blockquote>
+  <p>Between servers and bandwidth, clients and users, HTML and the DOM, browsers and platforms, our conscience and our ego, we’re left in a very small space to find highly optimal solutions. Since the space we have to explore is so small, we have to look harder, get more creative; and that’s what makes it all interesting.</p>
+</blockquote>
+
+<p>The 5k contest ran from 2000 until 2002. In 2010, <a href="http://www.zeldman.com/2010/07/29/10k-apart-%E2%80%93%C2%A0inspire-the-web/">An Event Apart and Microsoft revived the idea</a> with an updated limit and a new name: <a href="http://web.archive.org/web/20100730090946/http:/10k.aneventapart.com/">10k Apart</a>. Staying true to its roots, this new incarnation, which ran for two years, continued to push designers and developers to get creative within a pretty extreme (though slightly expanded) limit while incorporating new goodies like HTML5 and responsive design.</p>
+
+<p>I’m thrilled to announce that <a href="https://a-k-apart.com/">the 10k Apart contest is back</a> and brings with it a handful of new challenges:</p>
+
+<ol>
+  <li><strong>Each page must be usable in 10kB or less.</strong> The 10kB limit no longer applies to the size of a ZIP archive of your entry; the 10kB limit now applies to the total initial download size of the baseline experience of each page in your project. When we say “baseline experience,” we’re talking small screen devices running older, less capable browsers. The 10kB limit will apply to every page and whatever assets it loads by default; that means images, CSS, JavaScript, and so on.</li>
+  <li><strong>Progressive enhancement is the name of the game.</strong> Your project should start with a super-basic, bare-bones-but-usable experience that will work no matter what (including without JavaScript). You can use clever CSS and JavaScript techniques to enhance that experience as it makes sense to do so. For example: You might lazy load an image using JavaScript if the screen size is above a certain threshold or when certain other conditions are met. Entries that depend entirely on JavaScript to render the front-end won’t be accepted. If you need a primer on progressive enhancement, <a href="http://alistapart.com/search?keywords=progressive%20enhancement">consult the pages of <cite>A List Apart</cite></a>.</li>
+  <li><strong>Back ends are in this year.</strong> In previous iterations, each entry comprised client-side code submitted via ZIP file. Over time, that limitation led to an over-reliance on JavaScript for rendering. No more. This year, you can create dynamic experiences that work without front-end JavaScript using Node, PHP, Python or .Net. You will submit your entry as public GitHub repository (so we can all learn from your awesome code) and we’ll spin up a dedicated <a href="https://azure.microsoft.com/">Azure</a> instance running the appropriate stack.</li>
+  <li><strong>Entries should be accessible.</strong> In line with the philosophy of progressive enhancement, your entry should be usable by the broadest number of users possible. <a href="http://www.accessiq.org/news/commentary/2012/09/web-accessibility-is-a-mindset-not-a-checklist">Accessibility is not a checklist</a>, but if you’re clueless about where to start, <a href="https://www.w3.org/TR/WCAG20-TECHS/">these techniques</a> can offer some guidance.</li>
+  <li><strong>Nothing comes for free.</strong> In previous years, we gave a pass if you wanted to use jQuery or load some fonts from Typekit. This year we decided to change it up, not because we don’t love these products (we do), but because we wanted to force every piece of code, every asset, to fight for its place in your entry. Anything you add should be added with purpose.</li>
+</ol>
+
+<p>As with previous editions, your entry should use web standards and work in all modern browsers. You can use HTML, CSS, and JavaScript features and APIs that don’t have across-the-board support as long as you do so in keeping with the progressive enhancement philosophy. In other words, your entry can’t depend on that technology or feature in order to be usable.</p>
+
+<p>All of this may sound like a tall order, but it’s entirely possible. In fact, the site we built for the contest also abides by these rules. My colleagues and I will touch on some of the techniques we used (and concessions we made) in building the site in future posts.</p>
+
+<p>If you’ve read this far, you might be wondering <em>What’s in it for me?</em> Well, bragging rights, of course, but we’ve got some awesome prizes too! We’re giving away $10,000 to the top three entries, plus <a href="http://aneventapart.com/events">tickets to An Event Apart</a>, complete collections of <a href="https://abookapart.com/collections/standards-collection">A Book Apart titles</a>, and copies of <a href="http://adaptivewebdesign.info/2nd-edition/">my book</a> too. <a href="https://a-k-apart.com/#prizes">Complete details of the prizes</a> are over on <a href="https://a-k-apart.com/">the contest site</a>.</p>
+
+<p>We’ve lined up an amazing group to judge the entires this year too: <a href="https://twitter.com/rachelandrew">Rachel Andrew</a>, <a href="https://twitter.com/lara_hogan">Lara Hogan</a>, <a href="https://twitter.com/wilto">Mat Marquis</a>, <a href="https://twitter.com/Heydonworks">Heydon Pickering</a>, <a href="https://twitter.com/jensimmons">Jen Simmons</a>, and <a href="https://twitter.com/SaraSoueidan">Sara Soueidan</a> will all be putting your entry through its paces and peering under the hood at your code. There’s also a People’s Choice award which will be based on votes you cast. Voting will open October 1st and run through October 14th.</p>
+
+<p>The contest opened Monday and we will accept entries until 5pm Pacific Time on September 30th. <a href="https://a-k-apart.com/legal">Everything you should need to know about the contest, eligibility, etc.</a> is up on <a href="https://a-k-apart.com/">the 10k Apart site</a>, but if you have additional questions, <a href="https://a-k-apart.com/hi">you can always reach out</a>.</p>
+
+<p>I can’t wait to see what you come up with! Happy coding!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Offline First: Love the Idea, Hate the Name]]></title>
@@ -232,118 +269,6 @@
     </li>
     <li id="fn:2">
       <p>Again, I don’t have the numbers, but I am routinely seeing <code>DOMContentLoaded</code> reached between 400-600ms with Service Worker caching in play. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Labeled With Love]]></title>
-    <link href="https://www.aaron-gustafson.com/notebook/labeled-with-love/"/>
-    <updated>2015-11-11T21:05:33-05:00</updated>
-    <id>https://www.aaron-gustafson.com/notebook/labeled-with-love</id>
-    <content type="html"><![CDATA[<p>Forms exist on pretty much every site on the web in one form or another. They are the primary mechanism by which we gather information from our users.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Of course, before anyone can fill out a form, they need to know what it’s asking for. Labeling is key.</p>
-
-<!-- more -->
-
-<p>A few months back, I relayed <a href="https://www.aaron-gustafson.com/notebook/consider-how-your-forms-read/">a story from Facebook</a> about how important the wording of their questions was in getting accurate responses from their users. The words we choose are incredibly important—your interface is a conversation with your users. I highly recommend reading up on that (and <a href="http://www.radiolab.org/story/trust-engineers/">listening to the Radiolab episode</a> that spurred me to write it), but I’m going to spend the remainder of this post talking about the utilitarian aspects of labels and how to use them properly in your forms.</p>
-
-<h2 id="connecting-the-dots">Connecting the Dots</h2>
-
-<p>When you look at a basic form field, you have two bits of information: the field and the label.</p>
-
-<figure id="fig-2015-11-11-01" class="media-container">{% adaptive_image /i/posts/2015-11-11/01.png %}<figcaption>A typical form control: a label and a field.</figcaption></figure>
-
-<p>You could achieve this with a minimum of markup:</p>
-
-<p>{% gist 3585c019108025b2f568 unlabeled-field.html embed %}</p>
-
-<p>The thing is, the text “Your Name” is not associated in any way with the <code>input</code>. Sure, a sighted person would likely be able to tell that that text is associated with the field, but no computer can tell that. And if a computer can’t tell the text and <code>input</code> are associated, your form control is inaccessible to anyone who uses assistive technology like a screen reader. It’s also going to pose a problem in the near-future of “headless UIs” like those hinted at by Cortana, Siri, and the Echo.</p>
-
-<p>Thankfully, establishing a relationship between the two is quite easy using the <code>label</code> element. The most common (and preferable) way to do this is to wrap the labeling text in a <code>label</code> element. Then you create an explicit association with the field using the <code>for</code> attribute, which is an <code>id</code> reference. In other words, the value of the <code>for</code> attribute needs to match the value of the <code>id</code> attribute on the field you want to associate with that <code>label</code>.</p>
-
-<p>{% gist 3585c019108025b2f568 labeled-field.html embed %}</p>
-
-<p>With that markup in place, the programmatic connection between the elements is made and the results speak for themselves: When you focus the field, the contents of the <code>label</code> are read out.</p>
-
-<p>{% youtube WR4_MAjalsU %}</p>
-
-<h2 id="an-alternate-approach">An Alternate Approach</h2>
-
-<p>Since I specifically referred to this approach as <em>explicit</em> association, you probably assumed that there’s another kind of association. And you were right: <em>implicit</em> association. Implicit association is created by wrapping a form control and its associated label text in a <code>label</code> element. I like to use this approach with radio and checkbox controls:</p>
-
-<p>{% gist 3585c019108025b2f568 implicitly-labeled-checkbox.html embed %}</p>
-
-<p>It’s worth noting that there’s nothing wrong with explicit association in this context either.</p>
-
-<p>{% gist 3585c019108025b2f568 explicitly-labeled-checkbox.html embed %}</p>
-
-<p>You can even combine the two approaches.</p>
-
-<p>{% gist 3585c019108025b2f568 combo-labeled-checkbox.html embed %}</p>
-
-<p>The reason I like to use implicit association with checkbox and radio controls has to do with ensuring the greatest breadth of support when it comes to styling inputs. For instance, if I set <code>width: 80%</code> on all <code>input</code> elements using a simple <a href="https://developer.mozilla.org/docs/Web/CSS/Type_selectors">type selector</a>, that width would be applied to <em>all</em> <code>input</code> elements, including radio and checkbox controls. In order to prevent radio and checkbox controls from getting rendered at that width, I would need to assign an override value of <code>width: auto</code> to them them specifically. I can do that using <a href="https://developer.mozilla.org/docs/Web/CSS/Attribute_selectors">attribute selectors</a>:</p>
-
-<p>{% gist 3585c019108025b2f568 modern-only.css embed %}</p>
-
-<p>While completely valid, that approach leaves out any browsers that don’t support attribute selection (e.g. IE 6). That may not seem like a deal-breaker in your book, but on the off chance some poor soul happens to be stuck using an out-of-date browser (as many are on mobile), I like to show them a little love. And, thankfully, using the implicit markup pattern for checkboxes and radio controls allows for this quite easily: I just use a <a href="https://developer.mozilla.org/docs/Web/CSS/Descendant_selectors">descendent selector</a> instead.</p>
-
-<p>{% gist 3585c019108025b2f568 universal.css embed %}</p>
-
-<p>This approach results in a greater amount of support and, incidentally, less CSS.</p>
-
-<h2 id="added-benefit-interactivity">Added Benefit: Interactivity</h2>
-
-<p>Obviously, associated labels are great for folks who use screen readers, but they have another benefit: tapping on a <code>label</code> will focus or activate the associated form control.</p>
-
-<figure id="fig-2015-11-11-02" class="media-container"><img src="https://www.aaron-gustafson.com/i/posts/2015-11-11/02.gif" alt="" /><figcaption>Animation showing how clicking a <code>label</code> will focus the associated form control.</figcaption></figure>
-
-<p>This isn’t a game-changer when it comes to standard text fields, but it’s an exceptional affordance when it comes to radio and checkbox controls, especially on mobile, as it vastly increases the tappable region used to activate the control.</p>
-
-<figure id="fig-2015-11-11-03" class="media-container">{% adaptive_image /i/posts/2015-11-11/03.png %}<figcaption>A screenshot of a group of checkbox controls with their labels outlined.</figcaption></figure>
-
-<p>To create incredibly generous tap targets on mobile devices, we can take things a little further. Add padding to the top and bottom of the <code>label</code> to make it bigger and then use negative margins to counter that enlargement and keep the layout as it was before the padding was applied.</p>
-
-<p>{% gist 3585c019108025b2f568 larger-labels.css embed %}</p>
-
-<figure id="fig-2015-11-11-04" class="media-container"><img src="https://www.aaron-gustafson.com/i/posts/2015-11-11/04.gif" alt="" /><figcaption>An animation showing very generous tap targets on a narrow screen.</figcaption></figure>
-
-<p>It’s worth noting that older versions of Internet Explorer only provide the focus/interaction benefit when you use explicit label association. That’s why I like the combo approach of implicit <em>and</em> explicit association for checkbox and radio controls.</p>
-
-<p><ins datetime="2015-12-09" cite="#comment-2374683375">As Dennis Lembrée mentions in the comments below, Dragon’s Naturally Speaking also doesn’t recognize implicit association, which is why it’s incredibly important to use explicit association even if it seems implicit association should suffice.</ins></p>
-
-<h2 id="placeholders-arent-labels">Placeholders Aren’t Labels</h2>
-
-<p>HTML5 ushered in a new option for working with <code>input</code> elements: the <code>placeholder</code> attribute. This declarative attribute makes it possible to offer hint as to the sort of content you were looking for in a field. In <a href="http://caniuse.com/#feat=input-placeholder">supporting browsers</a>, it appears in the field, ghosted back a bit, and disappears when you start typing a response.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
-
-<figure id="fig-2015-11-11-05" class="media-container"><img src="https://www.aaron-gustafson.com/i/posts/2015-11-11/05.gif" alt="" /><figcaption>An animation showing a placeholder in action on <a href="http://webstandardssherpa.com"><cite>Web Standards Sherpa</cite></a>.</figcaption></figure>
-
-<p>Having this natively supported in the browser was a huge boon. For years we’d been using JavaScript to achieve this very effect—albeit typically for label text—in an effort to create more compact forms. Now we get the effect without having to include any additional files or libraries.</p>
-
-<p>Of course, since <code>placeholder</code> implements an existing pattern, it came with baggage. People commonly achieved this effect by (ab)using the <code>value</code> attribute as a fake label. As such, its introduction didn’t do much to increase the accessibility of forms. <em>Form controls need a label</em>. If you want to make your form more compact, you can do that using proper markup and a little clever CSS.</p>
-
-<p>{% gist 3585c019108025b2f568 fancy-example.html embed %}</p>
-
-<p>{% gist 3585c019108025b2f568 fancy-example.css embed %}</p>
-
-<figure id="fig-2015-11-11-06" class="media-container">{% codepen BoGgYM aarongustafson result 112 preview %}</figure>
-
-<p>Mary Lou assembled some beautiful examples of this approach in her <a href="http://tympanus.net/codrops/2015/01/08/inspiration-text-input-effects/">Inspiration for Text Input Effects</a>. I highly recommend you check those out, but here’s a teaser to whet your whistle:</p>
-
-<figure id="fig-2015-11-11-07" class="media-container"><img src="https://www.aaron-gustafson.com/i/posts/2015-11-11/07.gif" alt="" /><figcaption>A fancy, accessible form field and label from Mary Lou’s collection.</figcaption></figure>
-
-<hr />
-
-<p>We don’t have a ton of elements in HTML, which is why it’s important that we properly use the ones we do have. Hopefully this has provided a helpful overview of how to properly label form controls using HTML.</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>When we’re not, you know, tracking them with a <a href="http://arstechnica.com/security/2015/10/verizons-zombie-cookie-gets-new-life/">super cookie</a> or something. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>Browsers typically exhibit two different behaviors here. Some hide the placeholder text as soon as you focus the field, others hide it only when you start typing. Either one works although, admittedly, I favor the text disappearing when you type rather than when the field receives focus. I can see how that approach might confuse some users, I just prefer it because it ensures you see the placeholder. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
