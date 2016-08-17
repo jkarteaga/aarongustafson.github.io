@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Accessibility | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/accessibility/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-08-17T14:58:49-04:00</updated>
+  <updated>2016-08-17T15:46:36-04:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -23,6 +23,8 @@
 <blockquote>
   <p>Between servers and bandwidth, clients and users, HTML and the DOM, browsers and platforms, our conscience and our ego, we’re left in a very small space to find highly optimal solutions. Since the space we have to explore is so small, we have to look harder, get more creative; and that’s what makes it all interesting.</p>
 </blockquote>
+
+<!-- more -->
 
 <p>The 5k contest ran from 2000 until 2002. In 2010, <a href="http://www.zeldman.com/2010/07/29/10k-apart-%E2%80%93%C2%A0inspire-the-web/">An Event Apart and Microsoft revived the idea</a> with an updated limit and a new name: <a href="http://web.archive.org/web/20100730090946/http:/10k.aneventapart.com/">10k Apart</a>. Staying true to its roots, this new incarnation, which ran for two years, continued to push designers and developers to get creative within a pretty extreme (though slightly expanded) limit while incorporating new goodies like HTML5 and responsive design.</p>
 
