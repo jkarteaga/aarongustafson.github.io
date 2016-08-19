@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-08-17T20:54:28-04:00</updated>
+	<updated>2016-08-19T13:32:50-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,34 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Progressive Enhancement Delivers Best Customer Experience]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers/"/>
+				<updated>2016-08-19T13:31:47-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers</id>
+				<content type="html"><![CDATA[<p>Yep.</p>
+
+<blockquote>
+  <p>Progressive enhancement focuses on the entire customer experience by continually looking forward to embrace improvements vs looking backward to degrade them.</p>
+</blockquote>
+<p><a rel="full-article" href="https://www.mobify.com/insights/progressive-enhancement-best-customer-experience-across-browsers/">Read on Mobify&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Weird Browsers]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw/"/>
+				<updated>2016-08-19T13:26:43-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw</id>
+				<content type="html"><![CDATA[<p>I love, love, love this talk from <a href="https://twitter.com/rakaz">Niels Leenheer</a> at <a href="https://frontendne.co.uk">Frontend NE</a>. He covers TV browsers, game consoles, handheld consoles, e-readers, and VR headsets and talks about what we can, can’t, and should try to do to accommodate them.</p>
+
+<p>You can also <a href="https://www.youtube.com/watch?v=ojGIva5801I">watch Niels give this talk on YouTube</a>.</p>
+<p><a rel="full-article" href="https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw">Read on Niels Leenheer on Speaker Deck&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 	
@@ -222,34 +250,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/10800</id>
 				<content type="html"><![CDATA[<p>Jeremy on aggregating links for Progressive Web Apps. Sounds a lot like bringing back the Yahoo directory :-)</p>
 <p><a rel="full-article" href="https://adactio.com/journal/10800">Read on Adactio&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Apple Is Fighting a Secret War to Keep You From Repairing Your Phone]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/apple-right-to-repair_us_5755a6b4e4b0ed593f14fdea/"/>
-				<updated>2016-06-13T16:25:18-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/apple-right-to-repair_us_5755a6b4e4b0ed593f14fdea</id>
-				<content type="html"><![CDATA[<p>Yup. And they’re even bricking phones sent to them for repair and charging customers (<a href="https://aaron-gustafson.com/notebook/apple-support-honeybadger/">like me</a>) to replace them.</p>
-<p><a rel="full-article" href="http://www.huffingtonpost.com/entry/apple-right-to-repair_us_5755a6b4e4b0ed593f14fdea">Read on The Huffington Post&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Slashdot Asks: Is the App Boom Over?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/slashdot-asks-is-the-app-boom-over/"/>
-				<updated>2016-06-13T16:20:20-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/slashdot-asks-is-the-app-boom-over</id>
-				<content type="html"><![CDATA[<p>Riffing on <a href="http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber">a post in ReCode</a> and <a href="http://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/">research done by Quartz</a>, Slashdot asked its readership if apps are done. The comments are especially telling. My personal favorite is this gem:</p>
-
-<blockquote>
-  <p>Everything has an “app” … that is a sad rehash of their website. I don’t need access to a diluted version of your content SO BAD that I’m going to store an icon for it on my phone. Maybe if people started releasing apps that were AT LEAST as fully functional as their webpages (hopefully more) people would actually download them.</p>
-</blockquote>
-
-<p>Long live the Web!</p>
-<p><a rel="full-article" href="https://developers.slashdot.org/story/16/06/08/200216/slashdot-asks-is-the-app-boom-over">Read on Slashdot&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
