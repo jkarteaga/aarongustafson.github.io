@@ -1,0 +1,60 @@
+<!doctype html>
+<html amp lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ARIA Quicktip: Labelledby vs. Describedby</title>
+    <link rel="canonical" href="https://www.aaron-gustafson.com/notebook/aria-quicktip-labelledby-vs-describedby/" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-custom>
+    </style>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+  </head>
+  <body>
+
+<h1 class="post-title">
+
+
+<header role="banner" class="banner">
+	<div class="layout-container">
+		<h1 class="site-title"><a href="/">Aaron Gustafson</a></h1>
+		
+	</div>
+</header>
+
+
+	<div class="alert">
+	<strong>This site is <a href="/notebook/a-grand-experiment/">undergoing an open redesign</a>, so if it looks strange, that’s why.</strong>
+</div>
+
+</h1>
+<span>
+2014-11-05 10:45:22 -0500 - 
+</span>
+<p>Last night, while we were enjoying a cool evening and a few drinks outside after day 1 of <a href="http://bdconf.com">BDConf</a>, <a href="http://adactio.com">Jeremy</a> asked me for some clarification on the ARIA attributes I had demoed as part of <a href="http://www.slideshare.net/AaronGustafson/falling-in-love-with-forms-bdconf-2014">my forms presentation</a> earlier in the afternoon. In particular, he was confused by how <code>aria-labelledby</code> and <code>aria-describedby</code> differ.</p>
+
+<!-- more -->
+
+<p>I hadn’t really thought about it before, but it’s a good question. They seem pretty similar in function, right? And both support a space separated list of one or more <code>id</code> references. It’s downright confusing.</p>
+
+<p>My simple explanation was that, at least in terms of form fields, they differ in when they are read. The <code>aria-labelledby</code> attribute replaces the associated <code>label</code> element (which is, of course, associated with the field via the <code>label</code>’s <code>for</code> attribute). The <code>aria-describedby</code> attribute, on the other hand, is read after the field type is stated.</p>
+
+<p>To demonstrate how all of this plays out, I threw together <a href="http://codepen.io/aarongustafson/pen/dmuoe/">a quick CodePen demo</a> that takes you through numerous ways you can use and combine these attributes. I also did a <a href="http://youtu.be/U8_VjI-Z1LA">screen recording to demonstrate how ChromeVox exposes these attributes</a>:</p>
+
+<p><figure id="fig-U8_VjI-Z1LA" class="figure figure--video"><div class="video-embed video-embed--youtube video-embed--16x9"><a class="video-embed__lazy-link" style="background-image:url(//i2.ytimg.com/vi/U8_VjI-Z1LA/0.jpg);" href="//www.youtube.com/watch?v=U8_VjI-Z1LA" data-lazy-video-src="//www.youtube.com/embed/U8_VjI-Z1LA?autoplay=1&amp;modestbranding=1&amp;iv_load_policy=3"><div class="video-embed__lazy-div"></div><div class="video-embed__lazy-info">aria-labelledby vs. aria-describedby</div></a></div></figure></p>
+
+<p><strong>Update:</strong> <a href="https://twitter.com/stevefaulkner">Steve Faulkner</a> shared a doc that discusses <a href="http://rawgit.com/w3c/aria/master/html-aam/html-aam.html#accessible-name-and-description-calculation">how accessible names and descriptions are calculated</a>. Thanks Steve!</p>
+
+<p><em>Note: I did discover a bug in ChromeVox wherein the content of the elements referenced in <code>aria-describedby</code> are not read when the field receives focus via the keyboard (using the <kbd>tab</kbd> key), but it does when it receives focus via the mouse. I’ve submitted <a href="https://code.google.com/p/google-axs-chrome/issues/detail?id=158&amp;thanks=158&amp;ts=1415202123">a bug report</a> to to the powers that be.</em></p>
+
+
+<footer role="contentinfo" class="footer">
+	<div class="layout-container">
+		
+			<p class="footer__fork-me">Did you spot a typo or error? Eesh. <a href="https://github.com/aarongustafson/aarongustafson.github.io/tree/source/source/_posts/amp/notebook/aria-quicktip-labelledby-vs-describedby/index.html">Would you mind fixing it for me?</a> You’re so awesome.</p>
+		
+		<p class="footer__copyright"><b id="license">The content of this site is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a>.</b> Interested in how this site was made? <a href="/colophon/">Check this out</a>.</p>
+	</div>
+</footer>
+</body>
+</html>
