@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-10-11T14:07:01-04:00</updated>
+	<updated>2016-10-11T14:41:28-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 			<entry>
@@ -239,17 +241,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/progressive-web-apps-on-windows-8d8eb68d524e</id>
 				<content type="html"><![CDATA[<p>The Microsoft Edge team’s Jacob Rossi on Microsoft’s continued commitment to web-based apps and the future of Progressive Web Apps.</p>
 <p><a rel="full-article" href="https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e#.1f4c2jcjr">Read on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Progressive Web App Store]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/10800/"/>
-				<updated>2016-06-13T16:28:09-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/10800</id>
-				<content type="html"><![CDATA[<p>Jeremy on aggregating links for Progressive Web Apps. Sounds a lot like bringing back the Yahoo directory :-)</p>
-<p><a rel="full-article" href="https://adactio.com/journal/10800">Read on Adactio&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
