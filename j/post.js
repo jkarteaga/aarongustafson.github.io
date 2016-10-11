@@ -35,7 +35,7 @@
     'use strict';
 
     var $s = document.createElement('script');
-    $s.src = '//' + disqus_config.AG.shortname + '.disqus.com/' + disqus_config.AG.script;
+    $s.src = '//' + window.AG.shortname + '.disqus.com/' + window.AG.script;
     $s.setAttribute( 'data-timestamp', '' + new Date() );
     (document.head || document.body).appendChild( $s );
     $discuss_script = null;
