@@ -6,32 +6,15 @@
     <link rel="canonical" href="https://www.aaron-gustafson.com/notebook/aria-quicktip-labelledby-vs-describedby/" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style amp-custom>
+      body { padding: .5em; }
     </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
   </head>
   <body>
-
-<h1 class="post-title">
-
-
-<header role="banner" class="banner">
-	<div class="layout-container">
-		<h1 class="site-title"><a href="/">Aaron Gustafson</a></h1>
-		
-	</div>
-</header>
-
-
-	<div class="alert">
-	<strong>This site is <a href="/notebook/a-grand-experiment/">undergoing an open redesign</a>, so if it looks strange, that’s why.</strong>
-</div>
-
-</h1>
-<span>
-2014-11-05 10:45:22 -0500 - 
-</span>
-<p>Last night, while we were enjoying a cool evening and a few drinks outside after day 1 of <a href="http://bdconf.com">BDConf</a>, <a href="http://adactio.com">Jeremy</a> asked me for some clarification on the ARIA attributes I had demoed as part of <a href="http://www.slideshare.net/AaronGustafson/falling-in-love-with-forms-bdconf-2014">my forms presentation</a> earlier in the afternoon. In particular, he was confused by how <code>aria-labelledby</code> and <code>aria-describedby</code> differ.</p>
+    <h1 class="post-title">ARIA Quicktip: Labelledby vs. Describedby</h1>
+    <p class="post-meta">2014-11-05 10:45:22 -0500 - <a href="https://www.aaron-gustafson.com/about/">Aaron Gustafson</p>
+    <p>Last night, while we were enjoying a cool evening and a few drinks outside after day 1 of <a href="http://bdconf.com">BDConf</a>, <a href="http://adactio.com">Jeremy</a> asked me for some clarification on the ARIA attributes I had demoed as part of <a href="http://www.slideshare.net/AaronGustafson/falling-in-love-with-forms-bdconf-2014">my forms presentation</a> earlier in the afternoon. In particular, he was confused by how <code>aria-labelledby</code> and <code>aria-describedby</code> differ.</p>
 
 <!-- more -->
 
@@ -47,14 +30,7 @@
 
 <p><em>Note: I did discover a bug in ChromeVox wherein the content of the elements referenced in <code>aria-describedby</code> are not read when the field receives focus via the keyboard (using the <kbd>tab</kbd> key), but it does when it receives focus via the mouse. I’ve submitted <a href="https://code.google.com/p/google-axs-chrome/issues/detail?id=158&amp;thanks=158&amp;ts=1415202123">a bug report</a> to to the powers that be.</em></p>
 
-
-<footer role="contentinfo" class="footer">
-	<div class="layout-container">
-		
-			<p class="footer__fork-me">Did you spot a typo or error? Eesh. <a href="https://github.com/aarongustafson/aarongustafson.github.io/tree/source/source/_posts/amp/notebook/aria-quicktip-labelledby-vs-describedby/index.html">Would you mind fixing it for me?</a> You’re so awesome.</p>
-		
-		<p class="footer__copyright"><b id="license">The content of this site is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a>.</b> Interested in how this site was made? <a href="/colophon/">Check this out</a>.</p>
-	</div>
-</footer>
-</body>
+    <hr>
+    <p class="post-footer">The content of this site is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a>.</p>
+  </body>
 </html>

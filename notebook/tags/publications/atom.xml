@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Publications | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/publications/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-10-07T14:48:15-04:00</updated>
+  <updated>2016-10-10T22:14:30-04:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -43,7 +43,7 @@
     <link href="https://www.aaron-gustafson.com/notebook/bidding-farewell-to-shirley-the-goat/"/>
     <updated>2015-03-09T09:35:42-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/bidding-farewell-to-shirley-the-goat</id>
-    <content type="html"><![CDATA[<figure id="fig-2015-03-09-02" class="media-container media-container--right"><img src="http://cdn.webstandardssherpa.com/c/i/logo.png" alt="The Web Standards Sherpa logo, by Dan Cederholm" /></figure>
+    <content type="html"><![CDATA[<figure id="fig-2015-03-09-02" class="media-container media-container--right"><img src="http://webstandardssherpa.com/c/i/logo.png" alt="The Web Standards Sherpa logo, by Dan Cederholm" /></figure>
 
 <p>It is with a heavy heart that I announce that we are closing <a href="http://webstandardssherpa.com/"><em>Web Standards Sherpa</em></a>. As of April 2, we will be archiving the site in order to keep the valuable insights and techniques shared by our authors available in perpetuity.</p>
 
