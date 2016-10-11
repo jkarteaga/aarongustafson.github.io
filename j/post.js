@@ -35,10 +35,10 @@
     'use strict';
 
     var $s = document.createElement('script');
-    $s.src = '//' + window.AG.shortname + '.disqus.com/' + window.AG.script;
+    $s.src = '//' + window.AG.disqus.shortname + '.disqus.com/' + window.AG.disqus.script;
     $s.setAttribute( 'data-timestamp', '' + new Date() );
     (document.head || document.body).appendChild( $s );
-    $discuss_script = null;
+    $s = null;
 
 }( this, this.document ));
 // Add a comments message if offline
