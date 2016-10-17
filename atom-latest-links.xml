@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-10-12T12:12:47-04:00</updated>
+	<updated>2016-10-17T17:26:41-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 	
@@ -230,17 +232,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/codeofconduct</id>
 				<content type="html"><![CDATA[<p>Microsoft created a Code of Conduct (based on <a href="https://todogroup.org/opencodeofconduct">a template from the TODO Group</a>) for all of their open source projects. Good stuff!</p>
 <p><a rel="full-article" href="https://opensource.microsoft.com/codeofconduct">Read on Microsoft&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[The Progress of Web Apps]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-web-apps-on-windows-8d8eb68d524e/"/>
-				<updated>2016-06-20T11:11:03-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/progressive-web-apps-on-windows-8d8eb68d524e</id>
-				<content type="html"><![CDATA[<p>The Microsoft Edge team’s Jacob Rossi on Microsoft’s continued commitment to web-based apps and the future of Progressive Web Apps.</p>
-<p><a rel="full-article" href="https://medium.com/web-on-the-edge/progressive-web-apps-on-windows-8d8eb68d524e#.1f4c2jcjr">Read on Medium&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
