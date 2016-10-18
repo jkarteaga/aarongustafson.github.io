@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Progressive Enhancement | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/progressive-enhancement/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-10-18T12:15:36-04:00</updated>
+  <updated>2016-10-18T12:32:42-04:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -46,8 +46,8 @@
 <p>I automatically create layers of experience with no extra effort:</p>
 
 <ol>
-<li>Browsers that don’t understand "email" as a valid `input` type will treat the "email" text as a typo in my HTML (like when you type "rdio" instead of "radio"… or maybe I’m the only one that does that). As a result, they will fall back to the default input type of "text", which is usable in every browser that supports HTML2 and up.</li>
-<li>Browsers that consider "email" a valid `input` type will provide one (or more) of many potential enhanced experiences:
+<li>Browsers that don’t understand “email” as a valid <code>input</code> type will treat the “email” text as a typo in my HTML (like when you type “rdio” instead of “radio”… or maybe I’m the only one that does that). As a result, they will fall back to the default input type of “text”, which is usable in every browser that supports HTML2 and up.</li>
+<li>Browsers that consider “email” a valid <code>input</code> type will provide one (or more) of many potential enhanced experiences:
 <ol type="a">
 <li>In a virtual keyboard context, the browser may present a keyboard that is tailored toward quickly entering email addresses.</li>
 <li>In a browser that supports auto-completion, it may use this as a cue to suggest entering a commonly-entered email or one that has been stored in the user’s profile.</li>
