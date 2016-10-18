@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Web Design | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/web-design/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-10-17T17:26:41-04:00</updated>
+  <updated>2016-10-17T20:05:15-04:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -107,7 +107,7 @@
 
 <p>JavaScript absolutely makes the user experience better for anyone who can benefit from it. It can make interfaces more accessible. It can help mitigate networking issues. It can create smoother, more seamless experiences for our users. And it can reduce the friction inherent in accomplishing most tasks on the Web. JavaScript is an indispensable part of the modern Web.</p>
 
-<p>In order to come together, however, folks <a href="https://www.baldurbjarnason.com/notes/debating-web-development/">need to demonizing and dismissing one another</a>. Instead we need to rally together to make the Web better. But before we can do that, we need to start with a common understanding of the nature of JavaScript. The progressive enhancement camp needs to concede that all JavaScript is not evil, or even bad—JavaScript can be a force for good and it’s got really solid support. The JavaScript camp needs to concede that, despite its ubiquity and near universal support, we can never be absolutely guaranteed our JavaScript programs will run.</p>
+<p>In order to come together, however, folks <a href="https://www.baldurbjarnason.com/notes/debating-web-development/">need to stop demonizing and dismissing one another</a>. Instead we need to rally together to make the Web better. But before we can do that, we need to start with a common understanding of the nature of JavaScript. The progressive enhancement camp needs to concede that all JavaScript is not evil, or even bad—JavaScript can be a force for good and it’s got really solid support. The JavaScript camp needs to concede that, despite its ubiquity and near universal support, we can never be absolutely guaranteed our JavaScript programs will run.</p>
 
 <p>I fully believe we can heal this rift, but it’s probably gonna take some time. I fully intend to do my part and I hope you will as well.</p>
 
