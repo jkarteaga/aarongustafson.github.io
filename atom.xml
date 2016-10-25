@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-10-24T13:41:59-04:00</updated>
+	<updated>2016-10-25T16:15:55-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,124 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Post: One Person’s Bloat…]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
+				<updated>2016-10-25T15:15:01-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
+				<content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
+
+<p>The <a href="http://www.webbloatscore.com/">Web Bloat Score Calculator</a> has been making the rounds on Twitter and I wanted to share my immediate thoughts on it.</p>
+
+<!-- more -->
+
+<p>First off, I am a big fan of simple tools that provide an often much-needed reality check on a project. Based squarely on its simplicity, I’d put this tool right up there alongside <a href="https://www.webpagetest.org/">WebPageTest</a> and <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a>. The Web Bloat Score (or WebBS… clever) Calculator is about as simple an interface as you can get: Enter a URL &amp; hit the “Calculate” button.</p>
+
+<p>When you do this, the service runs two tasks:</p>
+
+<ol>
+  <li>Load the URL and all of its assets, calculating a total page weight and chronicling the number of requests required to get there; and</li>
+  <li>Generate a static screen capture of the page and then grab its file size.</li>
+</ol>
+
+<p>Once it has these two bits of info, it compares the real file size of the tested page against the image version to come up with your WebBS.</p>
+
+<p>I <a href="http://www.webbloatscore.com">ran the calculator against the 10k Apart contest homepage</a> and here are the results:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">URL</th>
+      <th style="text-align: left">Page Size</th>
+      <th style="text-align: left">Requests</th>
+      <th style="text-align: left">Image Size</th>
+      <th style="text-align: left">WebBS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">https://a-k-apart.com/</td>
+      <td style="text-align: left">200 <abbr title="kilobytes">kB</abbr></td>
+      <td style="text-align: left">49</td>
+      <td style="text-align: left">195 <abbr title="kilobytes">kB</abbr></td>
+      <td style="text-align: left">1.03</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Not too bad, considering <a href="http://www.webbloatscore.com/Details/612ea9a9-c548-4e20-99d1-910b449ba2c4">the number of images on the page</a> and the interactivity of the SVG. In the documentation about the tool, they have this to say about a high WebBS:</p>
+
+<blockquote>
+  <p>A high WebBS usually indicates unused stuff on the page: JavaScript, CSS, oversized images, etc. Maybe you have a valid reason for that content. But more often than not, it means you can optimize it more.</p>
+</blockquote>
+
+<p>I completely agree with the sentiment here: smaller is better and if there’s a huge discrepancy between the file size of an image of your page and the page itself, there <em>may</em> be something not so awesome going on behind the scenes. They reference Amazon as being particularly bad, with a WebBS of 20 (<a href="http://www.webbloatscore.com/Details/4abea720-677c-48f6-9ff2-2b816424be06">I got 12.3 in my test</a>, but Amazon frequently changes their homepage).</p>
+
+<p>There’s always room for improvement when it comes to optimization, but I also worry about folks getting too hung up on numbers like this, especially striving for a score of 1 or less. Here are a few legitimate reasons your score may be more than 1:</p>
+
+<ul>
+  <li><strong>Your page is heavily interactive.</strong> The calculator does not take into account any sort of interactivity—progressively enhanced or not—nor does it tell you how well-optimized your JavaScript code is. There’s also the possibility that you’ve consciously decided to trade verbosity for speed. For large loops, for instance, <a href="https://en.wikipedia.org/wiki/Duff%27s_device">Duff’s device</a> is much faster but a lot more verbose than a normal <code>for</code> loop.</li>
+  <li><strong>Your page serves alternate file formats.</strong> The tool runs <a href="http://slimerjs.org/">SlimerJS</a> to collect the performance data and, for instance, it doesn’t currently support WebP images. We serve WebP with a JPG or PNG fallback on the 10k Apart site (using <code>picture</code>), but <a href="http://www.webbloatscore.com/Details/612ea9a9-c548-4e20-99d1-910b449ba2c4">the file log</a> doesn’t include the WebP images at all.</li>
+  <li><strong>You make use of micro-optimizations.</strong> Perhaps you use <a href="https://github.com/filamentgroup/loadCSS"><code>loadCSS</code></a> or <a href="https://github.com/filamentgroup/loadJS"><code>loadJS</code></a> or split your CSS into a default and advanced stylesheet (with the advanced one only loading if media queries are supported). Perhaps you lazy load images or fonts via JavaScript. Perhaps you only load certain assets or scripts based on browser capabilities. The calculator takes none of this into account.</li>
+</ul>
+
+<p>These are just three reasons to take your WebBS with a grain of salt. It’s good for a gut-check, but I wouldn’t spend a whole lot of time worrying about getting your score at or below 1.</p>
+]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Technical Credit]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/technical-credit/"/>
+				<updated>2016-10-25T15:11:08-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/technical-credit</id>
+				<content type="html"><![CDATA[<p>This is an excellent post about progressive enhancement from the “technical credit” (as opposed to “technical debt”) point of view.</p>
+<p><a rel="full-article" href="https://www.stillbreathing.co.uk/2016/10/13/technical-credit">Read on Still Breathing&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Is Progressive Enhancement Over?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa/"/>
+				<updated>2016-10-25T14:24:23-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa</id>
+				<content type="html"><![CDATA[<p>This is an excellent missive from Nicholas covering the progressive enhancement debate.</p>
+
+<blockquote>
+  <p>First … progressive enhancement isn’t about having a JavaScript vs. JavaScript-disabled experience, it’s about providing the best possible user experience throughout the entire lifecycle of the web application. …</p>
+</blockquote>
+
+<blockquote>
+  <p>Second, progressive enhancement isn’t a strict prescription, it’s a way of thinking about the software you’re building. … Instead, it encourages you to think more deeply about the problem you’re trying to solve, and guides you towards solutions that work for the maximum number of users.</p>
+</blockquote>
+
+<blockquote>
+  <p>These two points are why I believe progressive enhancement is as relevant today as it has ever been. The only difference now is that we have more options for improving the user experience than ever before.</p>
+</blockquote>
+
+<p>I couldn’t have said it better myself.</p>
+<p><a rel="full-article" href="https://www.nczonline.net/newsletter/archive/bd88e8cdfa/">Read on NCZOnline Newsletter&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: A (Not So) Short Note on ARIA to the Rescue]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue/"/>
+				<updated>2016-10-25T11:31:24-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue</id>
+				<content type="html"><![CDATA[<p>Accessibility is hard. It’s a broad term encompassing a variety of special needs ranging from low vision and color blindness to motor impairment and language barriers (to name but a few) which means guaranteeing our projects are “100% accessible” is a significant challenge.</p>
+
+<p>Accessibility becomes even more of a challenge when you begin to factor in the dependency chain. Blind and low-vision users, for example, often use screen readers in order to access the Web. With screen readers, we need to consider the capabilities of both the browser <em>and</em> the screen reader being used. If either piece of software isn’t up to the task or contains a bug our users suffer for it.</p>
+
+<p>Getting multiple inter-dependent programs on the same page sometimes requires that we do things we’d rather not do. This post from Steve Faulkner chronicles one such case where the particular versions of Chrome and JAWS required for a project didn’t see eye-to-eye on the semantics of heading levels. He talks about the issue and the less-than-optimal fix he had to put in place to ensure users got the experience they were meant to.</p>
+<p><a rel="full-article" href="https://www.paciellogroup.com/blog/2016/10/a-not-so-short-note-on-aria-to-the-rescue/">Read on The Paciello Group&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -362,84 +480,6 @@
   <p>In this course, you’ll deepen your understanding of unconscious biases, how they influence behavior, and how they impact us all. You’ll also learn numerous actions you can take to help counter bias in your own work environment.</p>
 </blockquote>
 <p><a rel="full-article" href="https://www.mslearning.microsoft.com/course/72169/launch">Read on Microsoft&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Microsoft CEO Satya Nadella: Humans and A.I. Can Work Together to Solve Society’s Challenges.]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/microsoft_ceo_satya_nadella_humans_and_a_i_can_work_together_to_solve_society/"/>
-				<updated>2016-07-14T13:17:26-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/microsoft_ceo_satya_nadella_humans_and_a_i_can_work_together_to_solve_society</id>
-				<content type="html"><![CDATA[<p>This is an awesome post from Microsoft CEO Satya Nadella on the future of Artificial Intelligence, recommendations for the development of AI, and what will be required of us as humans interacting with it.</p>
-<p><a rel="full-article" href="http://www.slate.com/articles/technology/future_tense/2016/06/microsoft_ceo_satya_nadella_humans_and_a_i_can_work_together_to_solve_society.html">Read on Slate&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Post: The Web Is Messy and Beautiful]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful/"/>
-				<updated>2016-07-14T11:17:32-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful</id>
-				<content type="html"><![CDATA[<p>In two back-to-back, potentially <abbr aria-label="Not Safe for Work">NSFW</abbr> posts discussing web development vs. native development, <a href="https://hueniverse.com">Eran Hammer</a> covered a lot of the pain points encountered in each. For instance, on the Web, you’ve got rendering and user interface inconsistencies between browsers. On the other hand, retention for native apps is notoriously crappy.</p>
-
-<!-- more -->
-
-<p>Toward the end of his second piece, Eran nailed my long-time contention in this quasi-fictional war between the Web and native:</p>
-
-<blockquote>
-  <p>It’s never really app vs native. It’s a complicated tradeoff between multiple factors and no matter how much you read about it, how many statistics you collect, how many experts you talk to, you will still have to figure it out on your own, based on the specific properties of the experience you are building. And keep evaluating your decisions.</p>
-</blockquote>
-
-<p>As with everything, the right choice often depends on a variety of factors, many of which are likely to change.</p>
-
-<p>In the end, I typically fall down on the side of the Web because I find its “messy” nature to be one of its great strengths. The Web is malleable and capable of being different things for different people. This flexibility allows it to travel further and empower more people than native apps ever will. I guess that’s why I am so stoked about progressive web apps too. When done well, they enable useful tools to go further and reach more people while providing many of the benefits of an installed application. If they’re successful, they really could be the best of both worlds.</p>
-
-<p>Anyway, both posts are well worth a read:</p>
-
-<ul>
-  <li><a href="https://hueniverse.com/2016/06/08/the-fucking-open-web/">The Fucking Open Web</a></li>
-  <li><a href="https://hueniverse.com/2016/06/20/the-open-web-fuck-yeah/">The Open Web, Fuck Yeah!</a> (the rebuttal)</li>
-</ul>
-]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Freedom 251 Maker Says 2 Lakh Rs. 251 Phones Ready, Will Launch 'Cheapest' HD LED TV]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/freedom-251-maker-says-2-lakh-rs-251-phones-ready-will-launch-cheapest-hd-led-tv-853073/"/>
-				<updated>2016-07-13T10:12:42-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/freedom-251-maker-says-2-lakh-rs-251-phones-ready-will-launch-cheapest-hd-led-tv-853073</id>
-				<content type="html"><![CDATA[<p>The world’s cheapest smartphone (251 Indian Rupees—less than US$4) is here. The specs:</p>
-
-<ul>
-  <li>4-inch screen</li>
-  <li>dual-SIM</li>
-  <li>3G</li>
-  <li>1.3GHz quad-core processor</li>
-  <li>1GB of RAM</li>
-  <li>8GB of internal storage (supporting memory cards of up to 32GB)</li>
-  <li>8-megapixel rear camera with flash</li>
-  <li>3.2-megapixel front camera</li>
-  <li>1800mAh battery</li>
-  <li>Android 5.1 (Lollipop)</li>
-</ul>
-
-<p><a href="http://tech.firstpost.com/news-analysis/ringing-bells-has-actually-shipped-5000-freedom-251-devices-but-critics-need-not-apologise-324579.html">The rollout is slow and units are being sold at a loss</a>, but still. This is amazing and the program, which is <a href="http://tech.firstpost.com/news-analysis/freedom-251-2-lakh-units-to-be-shipped-via-state-wise-lucky-draw-between-30-june-to-5-july-322588.html">subsidized by the Indian government</a>, will bring the web to millions who have not been able to access it previously.</p>
-<p><a rel="full-article" href="http://gadgets.ndtv.com/mobiles/news/freedom-251-maker-says-2-lakh-rs-251-phones-ready-will-launch-cheapest-hd-led-tv-853073">Read on NDTV Gadgets360.com&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Inline Validation in Forms — designing the Experience]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/inline-validation-in-forms-designing-the-experience-123fb34088ce/"/>
-				<updated>2016-07-13T10:08:46-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/inline-validation-in-forms-designing-the-experience-123fb34088ce</id>
-				<content type="html"><![CDATA[<p>This is an interesting survey of form validation approaches. Interestingly it does not include native in-browser validation handling, only bespoke validation scripts.</p>
-<p><a rel="full-article" href="https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce#.btbqkwnbf">Read on WDStack on Medium&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
