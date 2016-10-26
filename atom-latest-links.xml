@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-10-25T16:15:55-04:00</updated>
+	<updated>2016-10-26T17:11:28-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,27 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[iOS Doesn’t Support Progressive Web Apps, So What?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what/"/>
+				<updated>2016-10-26T11:13:17-04:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what</id>
+				<content type="html"><![CDATA[<p>As usual, Jason Grigsby nails it:</p>
+
+<ul>
+  <li>Progressive Web Apps still work on iOS</li>
+  <li>Progressive Web Apps perform better on iOS</li>
+  <li>Billions of people use browsers that support Progressive Web Apps</li>
+  <li>Apple appears to be warming to Progressive Web App technology</li>
+  <li>Progressive Web Apps benefit all users</li>
+</ul>
+
+<p>Done and done.</p>
+<p><a rel="full-article" href="https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/">Read on The Cloud Four Blog&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 	
@@ -220,21 +241,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/introducing-edgehtml-14</id>
 				<content type="html"><![CDATA[<p>Edge 14 is out. I’m so proud of my colleagues working on this browser. My favorite bit? The focus on accessibility (and the 100% score on <a href="http://html5accessibility.com/">HTML5Accessibility’s browser benchmark</a> to back it up).</p>
 <p><a rel="full-article" href="https://blogs.windows.com/msedgedev/2016/08/04/introducing-edgehtml-14/">Read on Microsoft Edge Developer Blog&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[eLesson: Unconscious Bias]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/eLesson-unconscious-bias/"/>
-				<updated>2016-08-05T13:26:47-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/eLesson-unconscious-bias</id>
-				<content type="html"><![CDATA[<p>I loved taking this course as part of my job training at Microsoft and I’m so excited that they’ve made it public. I learned a ton and I’m sure you will too:</p>
-
-<blockquote>
-  <p>In this course, you’ll deepen your understanding of unconscious biases, how they influence behavior, and how they impact us all. You’ll also learn numerous actions you can take to help counter bias in your own work environment.</p>
-</blockquote>
-<p><a rel="full-article" href="https://www.mslearning.microsoft.com/course/72169/launch">Read on Microsoft&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
