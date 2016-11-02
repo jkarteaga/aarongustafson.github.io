@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-10-26T17:11:28-04:00</updated>
+	<updated>2016-11-02T13:02:47-04:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 			<entry>
@@ -230,17 +232,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/fd6c3c73e6e707e312d7c5d7d0f3b2f9</id>
 				<content type="html"><![CDATA[<p>I’m learning more and more about Service Workers every day…</p>
 <p><a rel="full-article" href="https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9">Read on Rich Harris&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Introducing EdgeHTML 14 With the Windows 10 Anniversary Update]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/introducing-edgehtml-14/"/>
-				<updated>2016-08-05T13:31:02-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/introducing-edgehtml-14</id>
-				<content type="html"><![CDATA[<p>Edge 14 is out. I’m so proud of my colleagues working on this browser. My favorite bit? The focus on accessibility (and the 100% score on <a href="http://html5accessibility.com/">HTML5Accessibility’s browser benchmark</a> to back it up).</p>
-<p><a rel="full-article" href="https://blogs.windows.com/msedgedev/2016/08/04/introducing-edgehtml-14/">Read on Microsoft Edge Developer Blog&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
