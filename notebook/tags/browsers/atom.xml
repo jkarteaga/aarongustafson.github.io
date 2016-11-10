@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Browsers | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/browsers/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-11-10T09:00:37-05:00</updated>
+  <updated>2016-11-10T09:17:43-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -283,7 +283,7 @@ Browsers are encouraged to add features that are already supported by other brow
     <id>https://www.aaron-gustafson.com/notebook/the-one-weird-trick-that-takes-the-pain-out-of-cross-browser-testing</id>
     <content type="html"><![CDATA[<p>Love this!</p>
 
-<p><div class='embed tweet'><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You&#39;ll never believe this one weird trick that takes the pain out of cross browser testing: Progressive enhancement.</p>&mdash; Orde Saunders (@decadecity) <a href="https://twitter.com/decadecity/status/559693419808034816">January 26, 2015</a></blockquote>
+<p><div class='embed tweet' data-conversation='none'><blockquote class="twitter-tweet"><p>You&#39;ll never believe this one weird trick that takes the pain out of cross browser testing: Progressive enhancement.</p>&mdash; Orde Saunders (@decadecity) <a href="https://twitter.com/decadecity/status/559693419808034816">January 26, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 ]]></content>
   </entry>
