@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-11-02T13:02:47-04:00</updated>
+	<updated>2016-11-10T00:23:23-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 	
@@ -221,17 +223,6 @@
 				<id>https://www.aaron-gustafson.com/notebook/links/full-width-containers-limited-width-parents</id>
 				<content type="html"><![CDATA[<p>I love this overview of handy column-busting CSS options.</p>
 <p><a rel="full-article" href="https://css-tricks.com/full-width-containers-limited-width-parents/">Read on CSS-Tricks&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Stuff I Wish I’d Known Sooner About Service Workers]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/fd6c3c73e6e707e312d7c5d7d0f3b2f9/"/>
-				<updated>2016-08-05T13:38:32-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/fd6c3c73e6e707e312d7c5d7d0f3b2f9</id>
-				<content type="html"><![CDATA[<p>I’m learning more and more about Service Workers every day…</p>
-<p><a rel="full-article" href="https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9">Read on Rich Harris&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
