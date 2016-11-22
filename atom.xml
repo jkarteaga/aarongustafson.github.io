@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-11-11T11:22:33-05:00</updated>
+	<updated>2016-11-22T12:29:26-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,71 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Barnes & Noble $50 Nook Tablet Will Ship on Black Friday]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/"/>
+				<updated>2016-11-22T12:27:00-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday</id>
+				<content type="html"><![CDATA[<p>The Nook returns with stock Android to compete with Amazon’s closed Fire ecosystem.</p>
+<p><a rel="full-article" href="https://teleread.org/2016/11/16/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/">Read on TeleRead&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: ClickClickClick]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/clickclickclick/"/>
+				<updated>2016-11-22T12:24:39-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/clickclickclick</id>
+				<content type="html"><![CDATA[<p>Ever wonder if websites can track your every move?</p>
+
+<p>Privacy matters.</p>
+<p><a rel="full-article" href="https://clickclickclick.click/">Read on ClickClickClick&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Les Défis Du “progressive Enhancement”]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement/"/>
+				<updated>2016-11-22T12:09:54-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement</id>
+				<content type="html"><![CDATA[<p>This is a nice overview (in French) of how <a href="https://www.hopwork.com">Hopwork</a> handles progressive enhancement in their SaaS product. Their back-end is Java too. It’s nice to see folks talking about how to progressively enhance products in that language; we don’t hear about that often enough.</p>
+<p><a rel="full-article" href="https://inside.hopwork.com/les-defis-du-progressive-enhancement/">Read on &nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Adaptive + Responsive Web Design]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design/"/>
+				<updated>2016-11-22T12:07:42-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design</id>
+				<content type="html"><![CDATA[<p>A nice overview (in Dutch) of why you should combine progressive enhancement with RWD.</p>
+<p><a rel="full-article" href="https://mediaweb.nl/blog/adaptive-responsive-web-design/">Read on Mediaweb&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: I Totally Forgot About Print Style Sheets]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6/"/>
+				<updated>2016-11-22T11:59:26-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6</id>
+				<content type="html"><![CDATA[<p>This is an excellent summary of print style recommendations from <a href="https://medium.com/@matuzo">Manuel Matuzovic</a>. I’m glad I wrote <a href="https://twitter.com/aarongustafson/status/788073583528538112">the tweet that prompted it</a> :-)</p>
+
+<p>See also:</p>
+
+<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">good plan:<br /><br />&lt;svg width=“20px” height=“20px” … &gt;<br /><br />you can easily override with CSS and it prevents… (see image)<a href="https://t.co/TcgKHL0R60">https://t.co/TcgKHL0R60</a></p>&mdash; Chris Coyier (@chriscoyier) <a href="https://twitter.com/chriscoyier/status/799294264446287872">November 17, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/Indiegogo">@Indiegogo</a>, here’s a 3½-year-old primer on print styles: <a href="https://t.co/NPtrFBurBy">https://t.co/NPtrFBurBy</a><br />Context: <a href="https://t.co/oLLxt9jIaR">https://t.co/oLLxt9jIaR</a></p>&mdash; Adrian Roselli 🗯 (@aardrian) <a href="https://twitter.com/aardrian/status/799297274375380992">November 17, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p><a rel="full-article" href="https://medium.com/@matuzo/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.6f637cbld">Read on Manuel Matuzovic on Medium&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -1122,69 +1187,6 @@
 
 <p>I can’t wait to see what you come up with! Happy coding!</p>
 ]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Test on the Right Mobile Devices]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/test-on-the-right-mobile-devices/"/>
-				<updated>2016-08-16T14:38:08-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/test-on-the-right-mobile-devices</id>
-				<content type="html"><![CDATA[<p>This is a nice overview of where you should be spending your mobile device testing time if you’re clueless about where to begin. Obviously it skews toward BrowserStack’s offerings, but it’s a pretty solid list of devices. It doesn’t touch on browsers though, which means Opera is a glaring omission.</p>
-<p><a rel="full-article" href="https://www.browserstack.com/test-on-the-right-mobile-devices">Read on BrowserStack&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Another 10k Apart: Create a Website in 10 KB, Win Prizes!]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/another-10k-apart/"/>
-				<updated>2016-08-15T13:05:50-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/another-10k-apart</id>
-				<content type="html"><![CDATA[<p>Here’s <a href="http://www.zeldman.com/">Jeffrey</a>’s introduction to the <a href="https://a-k-apart.com/">2016 10k Apart contest</a>. Did you know it’s <a href="http://aneventapart.com/">An Event Apart</a>’s 10 year anniversary? How cool is that?!</p>
-<p><a rel="full-article" href="http://alistapart.com/article/another-10k-apart">Read on A List Apart&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: What Would You Do With 10kB?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/10k-apart/"/>
-				<updated>2016-08-15T13:04:17-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/10k-apart</id>
-				<content type="html"><![CDATA[<p>Here’s a little bit of an introduction to <a href="https://a-k-apart.com/">the 2016 10k Apart contest</a> from yours truly.</p>
-<p><a rel="full-article" href="https://blogs.windows.com/msedgedev/2016/08/15/10k-apart/">Read on Microsoft Edge Developer Blog&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: 10K Apart]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/a-k-apart/"/>
-				<updated>2016-08-15T12:49:25-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/a-k-apart</id>
-				<content type="html"><![CDATA[<p>I’m so excited about this new contest!</p>
-
-<blockquote>
-  <p>The Challenge? Build a compelling web experience that can be delivered in 10kB and works without JavaScript.</p>
-</blockquote>
-
-<p>If you can, <a href="https://a-k-apart.com/#prizes">there’s big money waiting for you</a>!</p>
-
-<p>PS - I’ll be writing up the build process for the site in the coming weeks.</p>
-<p><a rel="full-article" href="https://a-k-apart.com/">Read on Microsoft & An Event Apart&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Full Width Containers in Limited Width Parents]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/full-width-containers-limited-width-parents/"/>
-				<updated>2016-08-05T13:39:36-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/full-width-containers-limited-width-parents</id>
-				<content type="html"><![CDATA[<p>I love this overview of handy column-busting CSS options.</p>
-<p><a rel="full-article" href="https://css-tricks.com/full-width-containers-limited-width-parents/">Read on CSS-Tricks&nbsp;&rarr;</a></p>]]></content>
 			</entry>
 		
 	
