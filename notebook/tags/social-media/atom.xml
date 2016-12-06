@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Social Media | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/social-media/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T15:00:17-05:00</updated>
+  <updated>2016-12-06T16:38:51-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>So yeah, this happened:</p>
 
 <figure id="2015-01-22-2" class="media-container">
-<img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2015-01-22/creepy-lg.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2015-01-22/creepy-lg.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2015-01-22/creepy-lg.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2015-01-22/creepy-lg.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="">
+{% adaptive_image /i/posts/2015-01-22/creepy-lg.png %}
 <figcaption><p>The @GustafsonAaron Twitter account only follows 5 people, and they are all named “Aaron Gustafson”.</p></figcaption>
 </figure>
 
