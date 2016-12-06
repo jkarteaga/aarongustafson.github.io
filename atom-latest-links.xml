@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-11-30T15:11:32-05:00</updated>
+	<updated>2016-12-06T15:00:17-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 			<entry>
@@ -224,8 +226,6 @@
 <p>You can also <a href="https://www.youtube.com/watch?v=ojGIva5801I">watch Niels give this talk on YouTube</a>.</p>
 <p><a rel="full-article" href="https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw">Read on Niels Leenheer on Speaker Deck&nbsp;&rarr;</a></p>]]></content>
 			</entry>
-		
-	
 		
 	
 </feed>
