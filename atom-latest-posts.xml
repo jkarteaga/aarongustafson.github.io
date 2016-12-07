@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Posts]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-posts.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-06T15:00:17-05:00</updated>
+	<updated>2016-12-07T07:27:42-08:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
 			<entry>
 				<title type="html"><![CDATA[[Insert Clickbait Headline About Progressive Enhancement Here]]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/"/>
-				<updated>2016-12-06T14:45:25-05:00</updated>
+				<updated>2016-12-06T11:45:25-08:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here</id>
 				<content type="html"><![CDATA[<p>Late last week, Josh Korr, a project manager at Viget, posted at length about <a href="https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation">what he sees as a fundamental flaw with the argument for progressive enhancement</a>. In reading the post, it became clear to me that Josh really doesn’t have a good grasp on progressive enhancement or the reasons its proponents think it’s a good philosophy to follow. Despite claiming to be “an expert at spotting fuzzy rhetoric and teasing out what’s really being said”, Josh makes a lot of false assumptions and inferences. My response would not have fit in a comment, so here it is…</p>
 
@@ -126,7 +126,7 @@
 <p>This list is by no means exhaustive nor is it in any particular order; it’s what came immediately to mind for me. Some interfaces may have fewer or more considerations as each is different. And some of these considerations might be in opposition to others depending on the interface. It’s critical that we consider the implications of our design decisions by weighing them against one another before we make any sort of decision about how to progress. Otherwise we open ourselves up to potential problems and the cost of changing things goes up the further into a project we are:</p>
 
 <figure id="fig-2016-12-06-01" class="media-container">
-<img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/01.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/01.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/01.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/01.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
+<img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
 <figcaption>The cost of changing your mind goes up the further into any project you are. Just ask any contractor you hire to work on your house.</figcaption>
 </figure>
 
@@ -154,15 +154,15 @@
 
 <p>In my talk <a href="https://vimeo.com/70018634"><em>Designing with Empathy</em></a> (<a href="http://www.slideshare.net/AaronGustafson/designing-with-empathy-beyond-tellerrand-2013">slides</a>), I discussed <a href="https://en.wikipedia.org/wiki/Mystery_meat_navigation">“mystery meat” navigation</a>. I can’t imagine any designer sets out to make their site difficult to navigate, but we are influenced by what we see (and are inspired by) on the web. Some folks took inspiration from web-based art projects like this Toyota microsite:</p>
 
-<figure id="fig-2016-12-05-02" class="media-container">
-<img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/02.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/02.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
+<figure id="fig-2016-12-06-02" class="media-container">
+<img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
 <figcaption>[On Toyota’s Mind](http://www.northkingdom.com/cases/i-huvudet-pa-toyota/) is a classic example of mystery meat navigation. It’s a Flash site and you can navigate when you happen to mouse over "hotspots" in the design. I’m pointing to one with a big red arrow here.</figcaption>
 </figure>
 
 <p>Though probably not directly influenced by On Toyota’s Mind, <a href="https://www.flatbush.org/">Yeshiva of Flatbush</a> was certainly influenced by the concept of “experiential” (which is a polite way of saying “mystery meat”) navigation.</p>
 
-<figure id="fig-2016-12-05-03" class="media-container">
-<img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/03.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/03.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-05/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
+<figure id="fig-2016-12-06-03" class="media-container">
+<img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
 <figcaption>[Yeshiva of Flatbush](https://www.flatbush.org/) uses giant circles for their navigation. Intuitive, right?</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@
   <p>“Wait, how often do people turn off JavaScript?”</p>
 </blockquote>
 
-<p>Folks turning off JavaScript isn’t really the issue. It used to be, but that was years ago. I discussed <a href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/">the misconception that this is still a concern</a> a few weeks ago. The real issue is whether ot not JavaScript is available. Obviously your project may vary, but <a href="https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/">the UK government pegged their non-JavaScript usage at 1.1%</a>. The more interesting bit, however, was that only 0.2% of their users fell into the “Javascript off or no JavaScript support” camp. 0.9% of their users <em>should have</em> gotten the JavaScript-based enhancement on offer, but didn’t. <a href="http://kryogenix.org/code/browser/everyonehasjs.html">The potential reasons are myriad</a>. JavaScript is great, but you can’t assume it’ll be available.</p>
+<p>Folks turning off JavaScript isn’t really the issue. It used to be, but that was years ago. I discussed <a href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/">the misconception that this is still a concern</a> a few weeks ago. The real issue is whether or not JavaScript is available. Obviously your project may vary, but <a href="https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/">the UK government pegged their non-JavaScript usage at 1.1%</a>. The more interesting bit, however, was that only 0.2% of their users fell into the “Javascript off or no JavaScript support” camp. 0.9% of their users <em>should have</em> gotten the JavaScript-based enhancement on offer, but didn’t. <a href="http://kryogenix.org/code/browser/everyonehasjs.html">The potential reasons are myriad</a>. JavaScript is great, but you can’t assume it’ll be available.</p>
 
 <blockquote>
   <p>“I’m not trying to be mean, but I don’t think people in Sudan are going to buy my product.”</p>
@@ -205,7 +205,7 @@
 <ul><li>Business and personal software, both of which have exploded in use now that <a href="http://www.wsj.com/articles/SB10001424053111903480904576512250915629460">software has eaten the world</a> and is accessed primarily via the web</li><li>Copyrighted news and entertainment content (text, photos, music, video, video games)</li><li>Advertising and marketing content</li></ul>
 </blockquote>
 
-<p>This is the fundamental issue with seeing the Web only through the kens of your own experience. Of course he would list software as the number one thing on the Web—I’m sure he uses Basecamp, Harvest, GitHub, Slack, TeamWork, Google Docs, Office 365, or any of a host of business-related Software as a Service offerings every day. As a beneficiary of fast network speeds, I’m not at all surprised that entertainment is his number two: Netflix, Hulu, HBO Go/Now… It’s great to be financially-stable and live in the West. And as someone who works at a web agency, of course advertising would be his number three. A lot of the work Viget, and most other agencies for that matter, does is marketing-related; nothing wrong with that. <strong>But the Web is so much more than this.</strong> Here’s just a fraction of the stuff he’s overlooked:</p>
+<p>This is the fundamental issue with seeing the Web only through the lens of your own experience. Of course he would list software as the number one thing on the Web—I’m sure he uses Basecamp, Harvest, GitHub, Slack, TeamWork, Google Docs, Office 365, or any of a host of business-related Software as a Service offerings every day. As a beneficiary of fast network speeds, I’m not at all surprised that entertainment is his number two: Netflix, Hulu, HBO Go/Now… It’s great to be financially-stable and live in the West. And as someone who works at a web agency, of course advertising would be his number three. A lot of the work Viget, and most other agencies for that matter, does is marketing-related; nothing wrong with that. <strong>But the Web is so much more than this.</strong> Here’s just a fraction of the stuff he’s overlooked:</p>
 
 <ul>
   <li>eCommerce,</li>
@@ -229,7 +229,7 @@
   <li><em>All software and copyrighted news/entertainment content accessed via the web should be free.</em> and <em>Netflix, Spotify, HBO Now, etc. should allow anyone to download original music and video files because some people don’t have JavaScript.</em> I’ve never heard anyone say that… ever. Advocating a smart development philosophy doesn’t make you anti-copyright or against making money.</li>
   <li><em>Any content that can’t be accessed via old browsers/devices shouldn’t be on the web in the first place.</em> No one made that judgement. We just think it behooves you to increase the potential reach of your products and to have a workable fallback in case the ideal access scenario isn’t available. You know, smart business decisions.</li>
   <li><em>Everything on the web should have built-in translations into every language.</em> This would be an absurd idea given that the number of languages in use on this planet top 6,500. Even if you consider that 2,000 of those have less than 1,000 speakers it’s still absurd. I don’t know anyone who would advocate for translation to every language.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
-  <li><em>Honda needs to consider a universal audience for its marketing websites even though (a) its offline advertising is not universal, and (b) only certain people can access or afford the cars being advertised.</em> To you his first point, Honda does actually offline advertising in multiple languages. They even <a href="](http://news.honda.com/newsandviews/article.aspx?id=8340-en)">issue press releases mentioning it</a>: “The newspaper and radio advertisements will appear in Spanish or English to match the primary language of each targeted media outlet.” As for his second argument… making assumptions about target audience and who can or cannot afford your product seems pretty friggin’ elitist; it’s also incredibly subjective. For instance, we did a project for a major investment firm where we needed to support Blackberry 4 &amp; 5 even though there were many more popular smartphones on the market. The reason? They had several high-dollar investors who loved their older phones. You can’t make assumptions.</li>
+  <li><em>Honda needs to consider a universal audience for its marketing websites even though (a) its offline advertising is not universal, and (b) only certain people can access or afford the cars being advertised.</em> To you his first point, Honda does actually offline advertising in multiple languages. They even <a href="http://news.honda.com/newsandviews/article.aspx?id=8340-en">issue press releases mentioning it</a>: “The newspaper and radio advertisements will appear in Spanish or English to match the primary language of each targeted media outlet.” As for his second argument… making assumptions about target audience and who can or cannot afford your product seems pretty friggin’ elitist; it’s also incredibly subjective. For instance, we did a project for a major investment firm where we needed to support Blackberry 4 &amp; 5 even though there were many more popular smartphones on the market. The reason? They had several high-dollar investors who loved their older phones. You can’t make assumptions.</li>
   <li><em>All of the above should also be applied to offline software, books, magazines, newspapers, TV shows, CDs, movies, advertising, etc.</em> Oh, I see, he’s being intentionally ridiculous.</li>
 </ul>
 
@@ -270,7 +270,7 @@
 
 <hr />
 
-<p>My sincere thanks to <a href="https://sarasoueidan.com/">Sara Soueidan</a>, <a href="https://www.baldurbjarnason.com/">Baldur Bjarnasun</a>, <a href="https://sixtwothree.org/">Jason Garber</a>, and <a href="https://timkadlec.com/">Tim Kadlec</a> for taking the time give me feedback on this piece._</p>
+<p><em>My sincere thanks to <a href="https://sarasoueidan.com/">Sara Soueidan</a>, <a href="https://www.baldurbjarnason.com/">Baldur Bjarnasun</a>, <a href="https://sixtwothree.org/">Jason Garber</a>, and <a href="https://timkadlec.com/">Tim Kadlec</a> for taking the time give me feedback on this piece.</em></p>
 <div class="footnotes">
   <ol>
     <li id="fn:1">
@@ -296,7 +296,7 @@
 			<entry>
 				<title type="html"><![CDATA[Ten Years on Twitter]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/ten-years-on-twitter/"/>
-				<updated>2016-11-10T00:22:07-05:00</updated>
+				<updated>2016-11-09T21:22:07-08:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/ten-years-on-twitter</id>
 				<content type="html"><![CDATA[<p>Ten years ago today:</p>
 
@@ -358,7 +358,7 @@
 			<entry>
 				<title type="html"><![CDATA[Mac-like Special Characters in Windows]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows/"/>
-				<updated>2016-11-02T11:59:42-04:00</updated>
+				<updated>2016-11-02T08:59:42-07:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows</id>
 				<content type="html"><![CDATA[<p>I am a bit of a geek for proper punctuation: Em dashes… en dashes… curly quotes… ellipses… I love them all! Prior to 2007, I was a long-time Windows user and was a master of the <kbd>Alt + <var>numeric code</var></kbd> system of entering special characters on that operating system.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> For nearly a decade, however, I’ve been writing and developing on a Mac and I absolutely love how much easier it is to use special characters.  When I started setting up my new Surface Book, I began searching for a way to bring Mac-like special character entry to Windows 10.</p>
 
@@ -1019,7 +1019,7 @@
 			<entry>
 				<title type="html"><![CDATA[One Person’s Bloat…]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
-				<updated>2016-10-25T15:15:01-04:00</updated>
+				<updated>2016-10-25T12:15:01-07:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
 				<content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
 
@@ -1098,7 +1098,7 @@
 			<entry>
 				<title type="html"><![CDATA[Progressive Misconceptions]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/"/>
-				<updated>2016-10-17T15:33:55-04:00</updated>
+				<updated>2016-10-17T12:33:55-07:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/progressive-misconceptions</id>
 				<content type="html"><![CDATA[<p>Last week, my colleague<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> <a href="https://nolanlawson.com/">Nolan Lawson</a> wrote <a href="https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/">a lengthy post about his struggles with progressive enhancement</a>. In it, he identified a key tension between the JavaScript community and the progressive enhancement community that has, frankly, existed since the term “progressive enhancement” was coined some 13 years ago. I wanted to take a few minutes to tuck into that tension and assure Nolan and other folks within the JS community that neither progressive enhancement nor the folks who advocate it (like me) is at odds with them or their work.</p>
 
@@ -1216,7 +1216,7 @@
 			<entry>
 				<title type="html"><![CDATA[I’m Voting for Oscar]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/im-voting-for-oscar/"/>
-				<updated>2016-10-11T08:06:49-04:00</updated>
+				<updated>2016-10-11T05:06:49-07:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/im-voting-for-oscar</id>
 				<content type="html"><![CDATA[<figure id="fig-2016-10-11-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
 

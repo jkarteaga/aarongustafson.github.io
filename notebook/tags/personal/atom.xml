@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Personal | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/personal/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-07T06:48:28-08:00</updated>
+  <updated>2016-12-07T07:27:42-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -20,7 +20,8 @@
     <id>https://www.aaron-gustafson.com/notebook/ten-years-on-twitter</id>
     <content type="html"><![CDATA[<p>Ten years ago today:</p>
 
-<p>{% tweet https://twitter.com/AaronGustafson/statuses/61946 %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Signing up for Twitter</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/61946">November 10, 2006</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
 <p>Wow. It’s hard to believe it’s been that long. User #12,028 (back when they were still sequential).</p>
 
@@ -36,21 +37,27 @@
 
 <p>That love affair continued for years. My relationships with my friends deepened and our collective relationship with Twitter deepened. I don’t think anything illustrates that more than my good friends <a href="https://twitter.com/stefsull">Stephanie</a> and <a href="https://twitter.com/garazi">Greg</a> getting engaged via the service (yes, <a href="https://www.wired.com/2008/03/true-story-of-a/">they were the first</a>):</p>
 
-<p>{% tweet https://twitter.com/garazi/statuses/765929392 conversation=’none’ %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/stefsull">@stefsull</a> - ok. for the rest of the twitter-universe (and this is a first, folks) - WILL YOU MARRY ME?</p>&mdash; Greg Rewis (@garazi) <a href="https://twitter.com/garazi/status/765929392">March 3, 2008</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
-<p>{% tweet https://twitter.com/stefsull/statuses/765930175 conversation=’none’ %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/garazi">@garazi</a> - OMG - Ummmmm... I guess in front of the whole twitter-verse I&#39;ll say--I&#39;d be happy to spend the rest of my geek life with you...</p>&mdash; Stephanie Rewis (@stefsull) <a href="https://twitter.com/stefsull/status/765930175">March 3, 2008</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
 <hr />
 
 <p>In the past decade, Twitter has changed dramatically. Most of us, with the exception of <a href="https://twitter.com/briansuda">Brian</a>, moved away from tweeting in the third person. Here’s my transition (circa 2012… I tweeted for nearly 6 years in the third person!):</p>
 
-<p>{% tweet https://twitter.com/AaronGustafson/status/258639664947273729 %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet"><p lang="en" dir="ltr">has decided, after much internal debate &amp; consideration of your thoughts, to abandon 3rd person tweeting style. <a href="https://twitter.com/hashtag/3pT?src=hash">#3pT</a> will be the transition.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258639664947273729">October 17, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
-<p>{% tweet https://twitter.com/AaronGustafson/status/258639921940688896 %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You are confused and confounded by this move and wonder why <a href="https://twitter.com/AaronGustafson">@aarongustafson</a> did it. Perplexed, you scratch your head.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258639921940688896">October 17, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
-<p>{% tweet https://twitter.com/AaronGustafson/status/258640188631310336 %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet"><p lang="en" dir="ltr">When it came down to it, I decided it was about you, my readers, more so than my enjoyment of the mental exercise of writing 3rd person.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258640188631310336">October 17, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
-<p>{% tweet https://twitter.com/AaronGustafson/status/258640798663454720 %}</p>
+<p><div class='embed tweet'><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The truth is that while I love writing and 3rd person was fun, this change will let me play with other authoring styles.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258640798663454720">October 17, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
 
 <p>Ideas we played with, like <a href="https://twitter.com/chrismessina/status/223115412">Chris’ suggestion that we add tagging to our tweets</a>, <a href="http://microformats.org/wiki/twitter-syntax#Messages">“d” messages</a>, <a href="https://twitter.com/rsa/status/55281">at-mentions</a>, and <a href="https://twitter.com/ericrice/status/31669791">Retweets</a> (later, <a href="https://twitter.com/TDavid/status/641334922">RTs</a>) changed from things we did as a matter of necessity while using the service to integral pieces of “Twitter the Platform”.</p>
 
@@ -71,7 +78,7 @@
     <link href="https://www.aaron-gustafson.com/notebook/im-voting-for-oscar/"/>
     <updated>2016-10-11T05:06:49-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/im-voting-for-oscar</id>
-    <content type="html"><![CDATA[<figure id="fig-2016-10-11-1" class="media-container">{% adaptive_image /i/posts/2016-10-11/oscar.jpg %}</figure>
+    <content type="html"><![CDATA[<figure id="fig-2016-10-11-1" class="media-container"><img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt=""></figure>
 
 <p><a href="#fig-2016-10-11-1">This is my son Oscar</a>. In case you can’t see the picture, he looks nothing like me because he’s adopted. He’s also friggin’ adorable, but that’s not why I’m writing this. I’m writing this because my son is black and despite the fact that he will grow up in a family that has the means to provide him with a good education and far more opportunity than a lot of children in America—including me—the sheer fact that his skin is dark means he will grow up in a far different America than I did.</p>
 
