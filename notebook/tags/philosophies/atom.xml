@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Philosophies | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/philosophies/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Offline First: Love the Idea, Hate the Name]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/offline-first-love-the-idea-hate-the-name/"/>
-    <updated>2016-03-28T08:25:26-04:00</updated>
+    <updated>2016-03-28T05:25:26-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/offline-first-love-the-idea-hate-the-name</id>
     <content type="html"><![CDATA[<p>Back in 2014, I had the great pleasure of listening to <a href="https://twitter.com/misprintedtype">Ola Gasidlo</a> of <a href="http://hood.ie/">Hood.ie</a> <a href="https://vimeo.com/103221949">discuss the importance of offline</a> at Beyond Tellerrand in Düsseldorf, Germany. Her excellent talk was my introduction to <a href="https://www.google.com/search?q=offline+first">the “Offline First” movement</a> and, while I can get behind the idea, I’ve had some serious issues with the name. And with the rise of Service Workers as a simple, usable means of making our content available offline, I thought it worth revisiting the idea of “offline first”, if only to address its core fallacy.</p>
 

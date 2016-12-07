@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Performance | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/performance/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[One Person’s Bloat…]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
-    <updated>2016-10-25T15:15:01-04:00</updated>
+    <updated>2016-10-25T12:15:01-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
     <content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container">{% adaptive_image /i/posts/2016-10-25/webbloatscore.png %}</figure>
 
@@ -81,7 +81,7 @@
   <entry>
     <title type="html"><![CDATA[What Would You Do With 10kB?]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb/"/>
-    <updated>2016-08-17T14:48:27-04:00</updated>
+    <updated>2016-08-17T11:48:27-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb</id>
     <content type="html"><![CDATA[<p>Sixteen years ago, <a href="https://twitter.com/stewart">Stewart Butterfield</a> conceived of a contest that would test the mettle of any web designer: <a href="http://web.archive.org/web/20000510010054/http:/www.sylloge.com/5k/home.html">The 5k</a>. The idea was that entrants would build <a href="http://alistapart.com/article/5k">an entire site in 5kB of code or less</a>. Its aim was to force us to get creative by putting a bounding box on what we could do:</p>
 
@@ -120,7 +120,7 @@
   <entry>
     <title type="html"><![CDATA[Who Should Pay 2: The Hosting]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/who-should-pay-2-the-hosting/"/>
-    <updated>2015-03-06T08:39:15-05:00</updated>
+    <updated>2015-03-06T05:39:15-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/who-should-pay-2-the-hosting</id>
     <content type="html"><![CDATA[<p>Two weeks ago, I argued that our <a href="http://aaron-gustafson.com/notebook/who-should-pay/">users should never foot the bill for developer convenience</a> and yesterday I stumbled on a post from EllisLab (the makers of ExpressionEngine) that echoes that sentiment, but from a different angle. The title might make you scratch your head: <a href="https://ellislab.com/blog/entry/save-thousands-of-dollars-by-paying-more-for-hosting">Save Thousands of Dollars by Paying More for Hosting</a>.</p>
 
@@ -153,7 +153,7 @@
   <entry>
     <title type="html"><![CDATA[Who Should Pay?]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/who-should-pay/"/>
-    <updated>2015-02-18T23:35:06-05:00</updated>
+    <updated>2015-02-18T20:35:06-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/who-should-pay</id>
     <content type="html"><![CDATA[<p>In more than a handful of conversations lately, it’s become quite clear that we, the web development community, are prioritizing our own convenience and our own time over that of our users. With our industry’s focus on “user-centered design”, you might find that hard to believe, but it’s true.</p>
 

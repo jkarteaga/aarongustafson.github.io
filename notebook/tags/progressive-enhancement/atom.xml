@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Progressive Enhancement | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/progressive-enhancement/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[[Insert Clickbait Headline About Progressive Enhancement Here]]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/"/>
-    <updated>2016-12-06T14:45:25-05:00</updated>
+    <updated>2016-12-06T11:45:25-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here</id>
     <content type="html"><![CDATA[<p>Late last week, Josh Korr, a project manager at Viget, posted at length about <a href="https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation">what he sees as a fundamental flaw with the argument for progressive enhancement</a>. In reading the post, it became clear to me that Josh really doesn’t have a good grasp on progressive enhancement or the reasons its proponents think it’s a good philosophy to follow. Despite claiming to be “an expert at spotting fuzzy rhetoric and teasing out what’s really being said”, Josh makes a lot of false assumptions and inferences. My response would not have fit in a comment, so here it is…</p>
 
@@ -229,7 +229,7 @@
   <li><em>All software and copyrighted news/entertainment content accessed via the web should be free.</em> and <em>Netflix, Spotify, HBO Now, etc. should allow anyone to download original music and video files because some people don’t have JavaScript.</em> I’ve never heard anyone say that… ever. Advocating a smart development philosophy doesn’t make you anti-copyright or against making money.</li>
   <li><em>Any content that can’t be accessed via old browsers/devices shouldn’t be on the web in the first place.</em> No one made that judgement. We just think it behooves you to increase the potential reach of your products and to have a workable fallback in case the ideal access scenario isn’t available. You know, smart business decisions.</li>
   <li><em>Everything on the web should have built-in translations into every language.</em> This would be an absurd idea given that the number of languages in use on this planet top 6,500. Even if you consider that 2,000 of those have less than 1,000 speakers it’s still absurd. I don’t know anyone who would advocate for translation to every language.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
-  <li><em>Honda needs to consider a universal audience for its marketing websites even though (a) its offline advertising is not universal, and (b) only certain people can access or afford the cars being advertised.</em> To you his first point, Honda does actually offline advertising in multiple languages. They even <a href="](http://news.honda.com/newsandviews/article.aspx?id=8340-en)">issue press releases mentioning it</a>: “The newspaper and radio advertisements will appear in Spanish or English to match the primary language of each targeted media outlet.” As for his second argument… making assumptions about target audience and who can or cannot afford your product seems pretty friggin’ elitist; it’s also incredibly subjective. For instance, we did a project for a major investment firm where we needed to support Blackberry 4 &amp; 5 even though there were many more popular smartphones on the market. The reason? They had several high-dollar investors who loved their older phones. You can’t make assumptions.</li>
+  <li><em>Honda needs to consider a universal audience for its marketing websites even though (a) its offline advertising is not universal, and (b) only certain people can access or afford the cars being advertised.</em> To you his first point, Honda does actually offline advertising in multiple languages. They even <a href="http://news.honda.com/newsandviews/article.aspx?id=8340-en">issue press releases mentioning it</a>: “The newspaper and radio advertisements will appear in Spanish or English to match the primary language of each targeted media outlet.” As for his second argument… making assumptions about target audience and who can or cannot afford your product seems pretty friggin’ elitist; it’s also incredibly subjective. For instance, we did a project for a major investment firm where we needed to support Blackberry 4 &amp; 5 even though there were many more popular smartphones on the market. The reason? They had several high-dollar investors who loved their older phones. You can’t make assumptions.</li>
   <li><em>All of the above should also be applied to offline software, books, magazines, newspapers, TV shows, CDs, movies, advertising, etc.</em> Oh, I see, he’s being intentionally ridiculous.</li>
 </ul>
 
@@ -284,7 +284,7 @@
   <entry>
     <title type="html"><![CDATA[Progressive Misconceptions]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/"/>
-    <updated>2016-10-17T15:33:55-04:00</updated>
+    <updated>2016-10-17T12:33:55-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/progressive-misconceptions</id>
     <content type="html"><![CDATA[<p>Last week, my colleague<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> <a href="https://nolanlawson.com/">Nolan Lawson</a> wrote <a href="https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/">a lengthy post about his struggles with progressive enhancement</a>. In it, he identified a key tension between the JavaScript community and the progressive enhancement community that has, frankly, existed since the term “progressive enhancement” was coined some 13 years ago. I wanted to take a few minutes to tuck into that tension and assure Nolan and other folks within the JS community that neither progressive enhancement nor the folks who advocate it (like me) is at odds with them or their work.</p>
 
@@ -400,7 +400,7 @@
   <entry>
     <title type="html"><![CDATA[What Would You Do With 10kB?]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb/"/>
-    <updated>2016-08-17T14:48:27-04:00</updated>
+    <updated>2016-08-17T11:48:27-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb</id>
     <content type="html"><![CDATA[<p>Sixteen years ago, <a href="https://twitter.com/stewart">Stewart Butterfield</a> conceived of a contest that would test the mettle of any web designer: <a href="http://web.archive.org/web/20000510010054/http:/www.sylloge.com/5k/home.html">The 5k</a>. The idea was that entrants would build <a href="http://alistapart.com/article/5k">an entire site in 5kB of code or less</a>. Its aim was to force us to get creative by putting a bounding box on what we could do:</p>
 
@@ -439,7 +439,7 @@
   <entry>
     <title type="html"><![CDATA[The Web Is Messy and Beautiful]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful/"/>
-    <updated>2016-07-14T11:17:32-04:00</updated>
+    <updated>2016-07-14T08:17:32-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful</id>
     <content type="html"><![CDATA[<p>In two back-to-back, potentially <abbr aria-label="Not Safe for Work">NSFW</abbr> posts discussing web development vs. native development, <a href="https://hueniverse.com">Eran Hammer</a> covered a lot of the pain points encountered in each. For instance, on the Web, you’ve got rendering and user interface inconsistencies between browsers. On the other hand, retention for native apps is notoriously crappy.</p>
 
@@ -467,7 +467,7 @@
   <entry>
     <title type="html"><![CDATA[The Web Should Just Work for Everyone]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/the-web-should-just-work-for-everyone/"/>
-    <updated>2016-04-11T11:51:52-04:00</updated>
+    <updated>2016-04-11T08:51:52-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/the-web-should-just-work-for-everyone</id>
     <content type="html"><![CDATA[<p><em>I had the great pleasure of delivering the following talk at the <a href="http://lanyrd.com/2016/edgesummit/">Edge Web Summit</a> on April 4th. The talk is largely about accessibility with a push for thinking about the future of the interface and how considering accessibility now will help us prepare for a world of “headless UIs”.</em></p>
 

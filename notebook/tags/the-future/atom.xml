@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: The Future | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/the-future/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[I’m Voting for Oscar]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/im-voting-for-oscar/"/>
-    <updated>2016-10-11T08:06:49-04:00</updated>
+    <updated>2016-10-11T05:06:49-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/im-voting-for-oscar</id>
     <content type="html"><![CDATA[<figure id="fig-2016-10-11-1" class="media-container">{% adaptive_image /i/posts/2016-10-11/oscar.jpg %}</figure>
 
@@ -41,7 +41,7 @@
   <entry>
     <title type="html"><![CDATA[An Event Apart Nashville 2016, Day One]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/an-event-apart-nashville-2016-day-one/"/>
-    <updated>2016-03-16T10:54:59-04:00</updated>
+    <updated>2016-03-16T07:54:59-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/an-event-apart-nashville-2016-day-one</id>
     <content type="html"><![CDATA[<p>Unfortunately, I was unable to spend Tuesday in Nashville for An Event Apart (for reasons that will be revealed in about a month), but I did catch Monday and it was amazing.</p>
 
@@ -70,7 +70,7 @@
   <entry>
     <title type="html"><![CDATA[Learn From the Past, Enhance for the Future]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/learn-from-the-past-enhance-for-the-future/"/>
-    <updated>2016-03-04T17:33:57-05:00</updated>
+    <updated>2016-03-04T14:33:57-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/learn-from-the-past-enhance-for-the-future</id>
     <content type="html"><![CDATA[<p><em>I had the great pleasure of delivering the closing keynote for the first EnhanceConf. I wanted to talk about voice and the future of “headless” user interfaces. Here’s what I had to say.</em></p>
 
@@ -432,7 +432,7 @@
   <entry>
     <title type="html"><![CDATA[Avoiding Link Rot in Print With the Help of Perma.cc]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/avoiding-linkrot-in-print-with-the-help-of-perma-dot-cc/"/>
-    <updated>2015-12-02T16:03:35-05:00</updated>
+    <updated>2015-12-02T13:03:35-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/avoiding-linkrot-in-print-with-the-help-of-perma-dot-cc</id>
     <content type="html"><![CDATA[<p>I think we can all agree, <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> is a problem. A 2014 study by Harvard Law School determined that <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=9282809&amp;fileId=S1472669614000255/">roughly 50% of the URLs referenced in U.S. Supreme Court opinions no longer work</a>. That’s <em>terrifying</em>.</p>
 
@@ -457,7 +457,7 @@
   <entry>
     <title type="html"><![CDATA[The Web Is for Everyone]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/the-web-is-for-everyone/"/>
-    <updated>2014-11-06T15:47:54-05:00</updated>
+    <updated>2014-11-06T12:47:54-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/the-web-is-for-everyone</id>
     <content type="html"><![CDATA[<p><em>I gave this speech as the closing keynote at <a href="http://a11yqc.org/">A11yQC</a>, a conference on Web accessibility, on 14 October 2014 in Québec City, Canada. I have published my script here as the slides can’t really convey its message on their own.</em></p>
 

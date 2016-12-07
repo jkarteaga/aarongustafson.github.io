@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Browsers | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/browsers/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[My Top Takeaways From the 2016 Edge Web Summit]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/my-top-takeaways-from-the-edge-web-summit-2016/"/>
-    <updated>2016-04-06T15:18:15-04:00</updated>
+    <updated>2016-04-06T12:18:15-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/my-top-takeaways-from-the-edge-web-summit-2016</id>
     <content type="html"><![CDATA[<p>Earlier this week, my colleagues on the Microsoft Edge team put on the second of what has now become an annual event: <a href="http://lanyrd.com/2016/edgesummit/">the Edge Web Summit</a>. The format was a little different this year, with team members from across the organization delivering quick, punchy 30-minute talks on topics ranging from standard implementations to the user experience of a browser to real-time communications. I live-tweeted quite a few of the talks, but I thought I’d provide a bit of a round-up of what was revealed, discussed, and more so you can read it all in one place.</p>
 
@@ -49,7 +49,7 @@
   <entry>
     <title type="html"><![CDATA[Ramblings on New Browser Features, Interop&shy;erability, Craft, and the Future of the Web]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/ramblings-on-new-browser-features-interoperability-craft-and-the-future-of-the-web/"/>
-    <updated>2015-08-07T10:14:23-04:00</updated>
+    <updated>2015-08-07T07:14:23-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/ramblings-on-new-browser-features-interoperability-craft-and-the-future-of-the-web</id>
     <content type="html"><![CDATA[<p>Last week <a href="http://www.quirksmode.org/about/">Peter-Paul Koch (PPK)</a> posted <a href="http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html">a lengthy treatise on why browsers should stop “pushing the web forward”</a>. I thoroughly enjoyed the read and agree with him on a number of points. I also agreed with the well-articulated responses from <a href="https://jakearchibald.com/2015/if-we-stand-still-we-go-backwards/">Jake Archibald (of Google)</a> and <a href="https://dev.opera.com/blog/on-a-moratorium-on-new-browser-features/">Bruce Lawson (of Opera)</a>. I guess I’m saying I see both sides. Like <a href="http://chriscoyier.net/">Chris Coyier</a>, I live in <a href="https://css-tricks.com/the-gray-gray-ghost-that-i-call-home/">a world filled with varying shades of grey</a> rather than stark black &amp; white.</p>
 
@@ -164,7 +164,7 @@ Browsers are encouraged to add features that are already supported by other brow
   <entry>
     <title type="html"><![CDATA[Lines in the Sand]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/lines-in-the-sand/"/>
-    <updated>2015-03-11T09:21:29-04:00</updated>
+    <updated>2015-03-11T06:21:29-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/lines-in-the-sand</id>
     <content type="html"><![CDATA[<p>A new site, <a href="http://breakupwithie8.com/">Break Up with Internet Explorer 8</a> by <a href="http://www.humaan.com/">Humaan</a>, has been making the rounds on the Interwebs of late. It’s cleverly done and an attractive site, but I don’t really agree with the premise:</p>
 
@@ -205,7 +205,7 @@ Browsers are encouraged to add features that are already supported by other brow
   <entry>
     <title type="html"><![CDATA[The One Weird Trick That Takes the Pain Out of Cross-browser Testing]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/the-one-weird-trick-that-takes-the-pain-out-of-cross-browser-testing/"/>
-    <updated>2015-01-26T11:24:25-05:00</updated>
+    <updated>2015-01-26T08:24:25-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/the-one-weird-trick-that-takes-the-pain-out-of-cross-browser-testing</id>
     <content type="html"><![CDATA[<p>Love this!</p>
 
@@ -216,7 +216,7 @@ Browsers are encouraged to add features that are already supported by other brow
   <entry>
     <title type="html"><![CDATA[Competing on “Chrome”]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/competing-on-chrome/"/>
-    <updated>2015-01-21T15:20:40-05:00</updated>
+    <updated>2015-01-21T12:20:40-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/competing-on-chrome</id>
     <content type="html"><![CDATA[<p>Watching the <a href="http://news.microsoft.com/windows10story/">Windows 10 announcement</a> today and the “unveiling” of its new browser, codenamed “Project Spartan”, I was amazed… not by what was said so much as what wasn’t.</p>
 

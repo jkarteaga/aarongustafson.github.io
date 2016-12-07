@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Progressive Web Apps | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/progressive-web-apps/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[The Web Is Messy and Beautiful]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful/"/>
-    <updated>2016-07-14T11:17:32-04:00</updated>
+    <updated>2016-07-14T08:17:32-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/the-web-is-messy-and-beautiful</id>
     <content type="html"><![CDATA[<p>In two back-to-back, potentially <abbr aria-label="Not Safe for Work">NSFW</abbr> posts discussing web development vs. native development, <a href="https://hueniverse.com">Eran Hammer</a> covered a lot of the pain points encountered in each. For instance, on the Web, you’ve got rendering and user interface inconsistencies between browsers. On the other hand, retention for native apps is notoriously crappy.</p>
 

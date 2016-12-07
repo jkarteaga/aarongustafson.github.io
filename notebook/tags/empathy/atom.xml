@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Empathy | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/empathy/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[I’m Voting for Oscar]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/im-voting-for-oscar/"/>
-    <updated>2016-10-11T08:06:49-04:00</updated>
+    <updated>2016-10-11T05:06:49-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/im-voting-for-oscar</id>
     <content type="html"><![CDATA[<figure id="fig-2016-10-11-1" class="media-container">{% adaptive_image /i/posts/2016-10-11/oscar.jpg %}</figure>
 
@@ -41,7 +41,7 @@
   <entry>
     <title type="html"><![CDATA[What Are Keys to Success?]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/what-are-keys-to-success/"/>
-    <updated>2016-06-01T11:18:31-04:00</updated>
+    <updated>2016-06-01T08:18:31-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/what-are-keys-to-success</id>
     <content type="html"><![CDATA[<p>The other day I got a message from someone I’ve been mentoring via email. His question was one I think a lot of folks in our industry struggle with:</p>
 
@@ -126,7 +126,7 @@
   <entry>
     <title type="html"><![CDATA[Planning Adaptive Interfaces: The Workshop]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/planning-adaptive-interfaces-the-workshop/"/>
-    <updated>2016-02-21T18:56:05-05:00</updated>
+    <updated>2016-02-21T15:56:05-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/planning-adaptive-interfaces-the-workshop</id>
     <content type="html"><![CDATA[<p>For the last few years I’ve been running a workshop alternately titled “Planning Adaptive Interfaces” or “Beyond Responsive”, depending on the conference. It’s been one of my favorite workshops to run for a number of reasons, but before I get into that, let me explain what it is and how it works.</p>
 
@@ -151,7 +151,7 @@
   <entry>
     <title type="html"><![CDATA[Apple Support: Honeybadger]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/apple-support-honeybadger/"/>
-    <updated>2016-01-26T17:34:17-05:00</updated>
+    <updated>2016-01-26T14:34:17-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/apple-support-honeybadger</id>
     <content type="html"><![CDATA[<p>My iPhone fell clumsily out of my pocket when I was sitting down in the kitchen the other day. <em>Thwack!</em> It fell face-first onto the tile from my seated position a mere 18 inches up. Of course the screen cracked. Protective case be damned, the cracks spread across the screen like a spider web cast from razor blades.</p>
 
@@ -325,7 +325,7 @@
   <entry>
     <title type="html"><![CDATA[Who Should Pay 2: The Hosting]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/who-should-pay-2-the-hosting/"/>
-    <updated>2015-03-06T08:39:15-05:00</updated>
+    <updated>2015-03-06T05:39:15-08:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/who-should-pay-2-the-hosting</id>
     <content type="html"><![CDATA[<p>Two weeks ago, I argued that our <a href="http://aaron-gustafson.com/notebook/who-should-pay/">users should never foot the bill for developer convenience</a> and yesterday I stumbled on a post from EllisLab (the makers of ExpressionEngine) that echoes that sentiment, but from a different angle. The title might make you scratch your head: <a href="https://ellislab.com/blog/entry/save-thousands-of-dollars-by-paying-more-for-hosting">Save Thousands of Dollars by Paying More for Hosting</a>.</p>
 

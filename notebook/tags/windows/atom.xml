@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Windows | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/windows/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-06T16:54:03-05:00</updated>
+  <updated>2016-12-07T06:48:28-08:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Mac-like Special Characters in Windows]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows/"/>
-    <updated>2016-11-02T11:59:42-04:00</updated>
+    <updated>2016-11-02T08:59:42-07:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows</id>
     <content type="html"><![CDATA[<p>I am a bit of a geek for proper punctuation: Em dashes… en dashes… curly quotes… ellipses… I love them all! Prior to 2007, I was a long-time Windows user and was a master of the <kbd>Alt + <var>numeric code</var></kbd> system of entering special characters on that operating system.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> For nearly a decade, however, I’ve been writing and developing on a Mac and I absolutely love how much easier it is to use special characters.  When I started setting up my new Surface Book, I began searching for a way to bring Mac-like special character entry to Windows 10.</p>
 
