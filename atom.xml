@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-07T07:55:36-08:00</updated>
+	<updated>2016-12-07T16:39:22-08:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -156,14 +156,14 @@
 
 <figure id="fig-2016-12-06-02" class="media-container">
 <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
-<figcaption>[On Toyota’s Mind](http://www.northkingdom.com/cases/i-huvudet-pa-toyota/) is a classic example of mystery meat navigation. It’s a Flash site and you can navigate when you happen to mouse over "hotspots" in the design. I’m pointing to one with a big red arrow here.</figcaption>
+<figcaption><a href="http://www.northkingdom.com/cases/i-huvudet-pa-toyota/">On Toyota’s Mind</a> is a classic example of mystery meat navigation. It’s a Flash site and you can navigate when you happen to mouse over "hotspots" in the design. I’m pointing to one with a big red arrow here.</figcaption>
 </figure>
 
 <p>Though probably not directly influenced by On Toyota’s Mind, <a href="https://www.flatbush.org/">Yeshiva of Flatbush</a> was certainly influenced by the concept of “experiential” (which is a polite way of saying “mystery meat”) navigation.</p>
 
 <figure id="fig-2016-12-06-03" class="media-container">
 <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" />
-<figcaption>[Yeshiva of Flatbush](https://www.flatbush.org/) uses giant circles for their navigation. Intuitive, right?</figcaption>
+<figcaption><a href="https://www.flatbush.org/">Yeshiva of Flatbush</a> uses giant circles for their navigation. Intuitive, right?</figcaption>
 </figure>
 
 <p>That’s a design/UX example, but development is no different. How many Single Page Apps have you see out there that really didn’t need to be built that way? Dozens? We often put the cart before the horse and decide to build a site using a particular stack or framework without even considering the type of content we’re dealing with or whether that decision is in the best interest of the project or its end users. That goes directly back to <a href="#project-priorities">Tim’s earlier point</a>.</p>
