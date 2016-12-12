@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Web Design | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/web-design/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-07T16:39:22-08:00</updated>
+  <updated>2016-12-12T15:26:30-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[[Insert Clickbait Headline About Progressive Enhancement Here]]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/"/>
-    <updated>2016-12-06T11:45:25-08:00</updated>
+    <updated>2016-12-06T14:45:25-05:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here</id>
     <content type="html"><![CDATA[<p>Late last week, Josh Korr, a project manager at Viget, posted at length about <a href="https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation">what he sees as a fundamental flaw with the argument for progressive enhancement</a>. In reading the post, it became clear to me that Josh really doesn’t have a good grasp on progressive enhancement or the reasons its proponents think it’s a good philosophy to follow. Despite claiming to be “an expert at spotting fuzzy rhetoric and teasing out what’s really being said”, Josh makes a lot of false assumptions and inferences. My response would not have fit in a comment, so here it is…</p>
 
@@ -284,7 +284,7 @@
   <entry>
     <title type="html"><![CDATA[One Person’s Bloat…]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
-    <updated>2016-10-25T12:15:01-07:00</updated>
+    <updated>2016-10-25T15:15:01-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
     <content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt=""></figure>
 
@@ -349,7 +349,7 @@
   <entry>
     <title type="html"><![CDATA[Progressive Misconceptions]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/"/>
-    <updated>2016-10-17T12:33:55-07:00</updated>
+    <updated>2016-10-17T15:33:55-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/progressive-misconceptions</id>
     <content type="html"><![CDATA[<p>Last week, my colleague<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> <a href="https://nolanlawson.com/">Nolan Lawson</a> wrote <a href="https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/">a lengthy post about his struggles with progressive enhancement</a>. In it, he identified a key tension between the JavaScript community and the progressive enhancement community that has, frankly, existed since the term “progressive enhancement” was coined some 13 years ago. I wanted to take a few minutes to tuck into that tension and assure Nolan and other folks within the JS community that neither progressive enhancement nor the folks who advocate it (like me) is at odds with them or their work.</p>
 
@@ -465,7 +465,7 @@
   <entry>
     <title type="html"><![CDATA[What Would You Do With 10kB?]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb/"/>
-    <updated>2016-08-17T11:48:27-07:00</updated>
+    <updated>2016-08-17T14:48:27-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/what-would-you-do-with-10kb</id>
     <content type="html"><![CDATA[<p>Sixteen years ago, <a href="https://twitter.com/stewart">Stewart Butterfield</a> conceived of a contest that would test the mettle of any web designer: <a href="http://web.archive.org/web/20000510010054/http:/www.sylloge.com/5k/home.html">The 5k</a>. The idea was that entrants would build <a href="http://alistapart.com/article/5k">an entire site in 5kB of code or less</a>. Its aim was to force us to get creative by putting a bounding box on what we could do:</p>
 
@@ -504,7 +504,7 @@
   <entry>
     <title type="html"><![CDATA[Offline First: Love the Idea, Hate the Name]]></title>
     <link href="https://www.aaron-gustafson.com/notebook/offline-first-love-the-idea-hate-the-name/"/>
-    <updated>2016-03-28T05:25:26-07:00</updated>
+    <updated>2016-03-28T08:25:26-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/offline-first-love-the-idea-hate-the-name</id>
     <content type="html"><![CDATA[<p>Back in 2014, I had the great pleasure of listening to <a href="https://twitter.com/misprintedtype">Ola Gasidlo</a> of <a href="http://hood.ie/">Hood.ie</a> <a href="https://vimeo.com/103221949">discuss the importance of offline</a> at Beyond Tellerrand in Düsseldorf, Germany. Her excellent talk was my introduction to <a href="https://www.google.com/search?q=offline+first">the “Offline First” movement</a> and, while I can get behind the idea, I’ve had some serious issues with the name. And with the rise of Service Workers as a simple, usable means of making our content available offline, I thought it worth revisiting the idea of “offline first”, if only to address its core fallacy.</p>
 

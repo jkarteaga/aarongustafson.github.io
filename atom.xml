@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-07T16:39:22-08:00</updated>
+	<updated>2016-12-12T15:26:30-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -16,7 +16,7 @@
 			<entry>
 				<title type="html"><![CDATA[Post: [Insert Clickbait Headline About Progressive Enhancement Here]]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/"/>
-				<updated>2016-12-06T11:45:25-08:00</updated>
+				<updated>2016-12-06T14:45:25-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here</id>
 				<content type="html"><![CDATA[<p>Late last week, Josh Korr, a project manager at Viget, posted at length about <a href="https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation">what he sees as a fundamental flaw with the argument for progressive enhancement</a>. In reading the post, it became clear to me that Josh really doesn’t have a good grasp on progressive enhancement or the reasons its proponents think it’s a good philosophy to follow. Despite claiming to be “an expert at spotting fuzzy rhetoric and teasing out what’s really being said”, Josh makes a lot of false assumptions and inferences. My response would not have fit in a comment, so here it is…</p>
 
@@ -286,7 +286,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Barnes & Noble $50 Nook Tablet Will Ship on Black Friday]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/"/>
-				<updated>2016-11-22T09:27:00-08:00</updated>
+				<updated>2016-11-22T12:27:00-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday</id>
 				<content type="html"><![CDATA[<p>The Nook returns with stock Android to compete with Amazon’s closed Fire ecosystem.</p>
 <p><a rel="full-article" href="https://teleread.org/2016/11/16/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/">Read on TeleRead&nbsp;&rarr;</a></p>]]></content>
@@ -297,7 +297,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: ClickClickClick]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/clickclickclick/"/>
-				<updated>2016-11-22T09:24:39-08:00</updated>
+				<updated>2016-11-22T12:24:39-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/clickclickclick</id>
 				<content type="html"><![CDATA[<p>Ever wonder if websites can track your every move?</p>
 
@@ -310,7 +310,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Les Défis Du “progressive Enhancement”]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement/"/>
-				<updated>2016-11-22T09:09:54-08:00</updated>
+				<updated>2016-11-22T12:09:54-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement</id>
 				<content type="html"><![CDATA[<p>This is a nice overview (in French) of how <a href="https://www.hopwork.com">Hopwork</a> handles progressive enhancement in their SaaS product. Their back-end is Java too. It’s nice to see folks talking about how to progressively enhance products in that language; we don’t hear about that often enough.</p>
 <p><a rel="full-article" href="https://inside.hopwork.com/les-defis-du-progressive-enhancement/">Read on &nbsp;&rarr;</a></p>]]></content>
@@ -321,7 +321,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Adaptive + Responsive Web Design]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design/"/>
-				<updated>2016-11-22T09:07:42-08:00</updated>
+				<updated>2016-11-22T12:07:42-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design</id>
 				<content type="html"><![CDATA[<p>A nice overview (in Dutch) of why you should combine progressive enhancement with RWD.</p>
 <p><a rel="full-article" href="https://mediaweb.nl/blog/adaptive-responsive-web-design/">Read on Mediaweb&nbsp;&rarr;</a></p>]]></content>
@@ -332,7 +332,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: I Totally Forgot About Print Style Sheets]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6/"/>
-				<updated>2016-11-22T08:59:26-08:00</updated>
+				<updated>2016-11-22T11:59:26-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6</id>
 				<content type="html"><![CDATA[<p>This is an excellent summary of print style recommendations from <a href="https://medium.com/@matuzo">Manuel Matuzovic</a>. I’m glad I wrote <a href="https://twitter.com/aarongustafson/status/788073583528538112">the tweet that prompted it</a> :-)</p>
 
@@ -351,7 +351,7 @@
 			<entry>
 				<title type="html"><![CDATA[Post: Ten Years on Twitter]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/ten-years-on-twitter/"/>
-				<updated>2016-11-09T21:22:07-08:00</updated>
+				<updated>2016-11-10T00:22:07-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/ten-years-on-twitter</id>
 				<content type="html"><![CDATA[<p>Ten years ago today:</p>
 
@@ -413,7 +413,7 @@
 			<entry>
 				<title type="html"><![CDATA[Post: Mac-like Special Characters in Windows]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows/"/>
-				<updated>2016-11-02T08:59:42-07:00</updated>
+				<updated>2016-11-02T11:59:42-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows</id>
 				<content type="html"><![CDATA[<p>I am a bit of a geek for proper punctuation: Em dashes… en dashes… curly quotes… ellipses… I love them all! Prior to 2007, I was a long-time Windows user and was a master of the <kbd>Alt + <var>numeric code</var></kbd> system of entering special characters on that operating system.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> For nearly a decade, however, I’ve been writing and developing on a Mac and I absolutely love how much easier it is to use special characters.  When I started setting up my new Surface Book, I began searching for a way to bring Mac-like special character entry to Windows 10.</p>
 
@@ -1072,7 +1072,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: iOS Doesn’t Support Progressive Web Apps, So What?]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what/"/>
-				<updated>2016-10-26T08:13:17-07:00</updated>
+				<updated>2016-10-26T11:13:17-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what</id>
 				<content type="html"><![CDATA[<p>As usual, Jason Grigsby nails it:</p>
 
@@ -1093,7 +1093,7 @@
 			<entry>
 				<title type="html"><![CDATA[Post: One Person’s Bloat…]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
-				<updated>2016-10-25T12:15:01-07:00</updated>
+				<updated>2016-10-25T15:15:01-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
 				<content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
 
@@ -1160,7 +1160,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Technical Credit]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/technical-credit/"/>
-				<updated>2016-10-25T12:11:08-07:00</updated>
+				<updated>2016-10-25T15:11:08-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/technical-credit</id>
 				<content type="html"><![CDATA[<p>This is an excellent post about progressive enhancement from the “technical credit” (as opposed to “technical debt”) point of view.</p>
 <p><a rel="full-article" href="https://www.stillbreathing.co.uk/2016/10/13/technical-credit">Read on Still Breathing&nbsp;&rarr;</a></p>]]></content>
@@ -1171,7 +1171,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Is Progressive Enhancement Over?]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa/"/>
-				<updated>2016-10-25T11:24:23-07:00</updated>
+				<updated>2016-10-25T14:24:23-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa</id>
 				<content type="html"><![CDATA[<p>This is an excellent missive from Nicholas covering the progressive enhancement debate.</p>
 
@@ -1196,7 +1196,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: A (Not So) Short Note on ARIA to the Rescue]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue/"/>
-				<updated>2016-10-25T08:31:24-07:00</updated>
+				<updated>2016-10-25T11:31:24-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue</id>
 				<content type="html"><![CDATA[<p>Accessibility is hard. It’s a broad term encompassing a variety of special needs ranging from low vision and color blindness to motor impairment and language barriers (to name but a few) which means guaranteeing our projects are “100% accessible” is a significant challenge.</p>
 
@@ -1211,7 +1211,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Flex-grow 9999 Hack]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/flex-grow-9999-hack/"/>
-				<updated>2016-10-24T10:39:15-07:00</updated>
+				<updated>2016-10-24T13:39:15-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/flex-grow-9999-hack</id>
 				<content type="html"><![CDATA[<p>Very clever bit of flexbox here for laying out text optimally when you don’t know its length.</p>
 
@@ -1224,7 +1224,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Refreshing the Verge]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/refreshing-the-verge-no-platform-like-home/"/>
-				<updated>2016-10-24T10:29:55-07:00</updated>
+				<updated>2016-10-24T13:29:55-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/refreshing-the-verge-no-platform-like-home</id>
 				<content type="html"><![CDATA[<p>I love how Mandy deftly wove progressive enhancement into her content strategy and publishing discussion:</p>
 
@@ -1239,7 +1239,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: crossfit.js]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/crossfit-js/"/>
-				<updated>2016-10-24T09:55:52-07:00</updated>
+				<updated>2016-10-24T12:55:52-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/crossfit-js</id>
 				<content type="html"><![CDATA[<p>A hilarious and completely accurate reflection on the cultural similarities shared by JavaScript and crossfire enthusiasts.</p>
 <p><a rel="full-article" href="https://www.christianheilmann.com/2016/10/18/crossfit-js/">Read on Christian Heilmann&nbsp;&rarr;</a></p>]]></content>
@@ -1250,7 +1250,7 @@
 			<entry>
 				<title type="html"><![CDATA[Post: Progressive Misconceptions]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/"/>
-				<updated>2016-10-17T12:33:55-07:00</updated>
+				<updated>2016-10-17T15:33:55-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/progressive-misconceptions</id>
 				<content type="html"><![CDATA[<p>Last week, my colleague<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> <a href="https://nolanlawson.com/">Nolan Lawson</a> wrote <a href="https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/">a lengthy post about his struggles with progressive enhancement</a>. In it, he identified a key tension between the JavaScript community and the progressive enhancement community that has, frankly, existed since the term “progressive enhancement” was coined some 13 years ago. I wanted to take a few minutes to tuck into that tension and assure Nolan and other folks within the JS community that neither progressive enhancement nor the folks who advocate it (like me) is at odds with them or their work.</p>
 
@@ -1368,7 +1368,7 @@
 			<entry>
 				<title type="html"><![CDATA[Post: I’m Voting for Oscar]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/im-voting-for-oscar/"/>
-				<updated>2016-10-11T05:06:49-07:00</updated>
+				<updated>2016-10-11T08:06:49-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/im-voting-for-oscar</id>
 				<content type="html"><![CDATA[<figure id="fig-2016-10-11-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-11/oscar.jpg&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
 
@@ -1395,7 +1395,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Progressive Enhancement Delivers Best Customer Experience]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers/"/>
-				<updated>2016-08-19T10:31:47-07:00</updated>
+				<updated>2016-08-19T13:31:47-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers</id>
 				<content type="html"><![CDATA[<p>Yep.</p>
 
@@ -1410,7 +1410,7 @@
 			<entry>
 				<title type="html"><![CDATA[Link: Weird Browsers]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw/"/>
-				<updated>2016-08-19T10:26:43-07:00</updated>
+				<updated>2016-08-19T13:26:43-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw</id>
 				<content type="html"><![CDATA[<p>I love, love, love this talk from <a href="https://twitter.com/rakaz">Niels Leenheer</a> at <a href="https://frontendne.co.uk">Frontend NE</a>. He covers TV browsers, game consoles, handheld consoles, e-readers, and VR headsets and talks about what we can, can’t, and should try to do to accommodate them.</p>
 

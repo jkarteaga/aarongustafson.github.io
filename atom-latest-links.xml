@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-07T16:39:22-08:00</updated>
+	<updated>2016-12-12T15:26:30-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -18,7 +18,7 @@
 			<entry>
 				<title type="html"><![CDATA[Barnes & Noble $50 Nook Tablet Will Ship on Black Friday]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/"/>
-				<updated>2016-11-22T09:27:00-08:00</updated>
+				<updated>2016-11-22T12:27:00-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday</id>
 				<content type="html"><![CDATA[<p>The Nook returns with stock Android to compete with Amazon’s closed Fire ecosystem.</p>
 <p><a rel="full-article" href="https://teleread.org/2016/11/16/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/">Read on TeleRead&nbsp;&rarr;</a></p>]]></content>
@@ -29,7 +29,7 @@
 			<entry>
 				<title type="html"><![CDATA[ClickClickClick]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/clickclickclick/"/>
-				<updated>2016-11-22T09:24:39-08:00</updated>
+				<updated>2016-11-22T12:24:39-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/clickclickclick</id>
 				<content type="html"><![CDATA[<p>Ever wonder if websites can track your every move?</p>
 
@@ -42,7 +42,7 @@
 			<entry>
 				<title type="html"><![CDATA[Les Défis Du “progressive Enhancement”]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement/"/>
-				<updated>2016-11-22T09:09:54-08:00</updated>
+				<updated>2016-11-22T12:09:54-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement</id>
 				<content type="html"><![CDATA[<p>This is a nice overview (in French) of how <a href="https://www.hopwork.com">Hopwork</a> handles progressive enhancement in their SaaS product. Their back-end is Java too. It’s nice to see folks talking about how to progressively enhance products in that language; we don’t hear about that often enough.</p>
 <p><a rel="full-article" href="https://inside.hopwork.com/les-defis-du-progressive-enhancement/">Read on &nbsp;&rarr;</a></p>]]></content>
@@ -53,7 +53,7 @@
 			<entry>
 				<title type="html"><![CDATA[Adaptive + Responsive Web Design]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design/"/>
-				<updated>2016-11-22T09:07:42-08:00</updated>
+				<updated>2016-11-22T12:07:42-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design</id>
 				<content type="html"><![CDATA[<p>A nice overview (in Dutch) of why you should combine progressive enhancement with RWD.</p>
 <p><a rel="full-article" href="https://mediaweb.nl/blog/adaptive-responsive-web-design/">Read on Mediaweb&nbsp;&rarr;</a></p>]]></content>
@@ -64,7 +64,7 @@
 			<entry>
 				<title type="html"><![CDATA[I Totally Forgot About Print Style Sheets]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6/"/>
-				<updated>2016-11-22T08:59:26-08:00</updated>
+				<updated>2016-11-22T11:59:26-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6</id>
 				<content type="html"><![CDATA[<p>This is an excellent summary of print style recommendations from <a href="https://medium.com/@matuzo">Manuel Matuzovic</a>. I’m glad I wrote <a href="https://twitter.com/aarongustafson/status/788073583528538112">the tweet that prompted it</a> :-)</p>
 
@@ -87,7 +87,7 @@
 			<entry>
 				<title type="html"><![CDATA[iOS Doesn’t Support Progressive Web Apps, So What?]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what/"/>
-				<updated>2016-10-26T08:13:17-07:00</updated>
+				<updated>2016-10-26T11:13:17-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what</id>
 				<content type="html"><![CDATA[<p>As usual, Jason Grigsby nails it:</p>
 
@@ -110,7 +110,7 @@
 			<entry>
 				<title type="html"><![CDATA[Technical Credit]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/technical-credit/"/>
-				<updated>2016-10-25T12:11:08-07:00</updated>
+				<updated>2016-10-25T15:11:08-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/technical-credit</id>
 				<content type="html"><![CDATA[<p>This is an excellent post about progressive enhancement from the “technical credit” (as opposed to “technical debt”) point of view.</p>
 <p><a rel="full-article" href="https://www.stillbreathing.co.uk/2016/10/13/technical-credit">Read on Still Breathing&nbsp;&rarr;</a></p>]]></content>
@@ -121,7 +121,7 @@
 			<entry>
 				<title type="html"><![CDATA[Is Progressive Enhancement Over?]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa/"/>
-				<updated>2016-10-25T11:24:23-07:00</updated>
+				<updated>2016-10-25T14:24:23-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa</id>
 				<content type="html"><![CDATA[<p>This is an excellent missive from Nicholas covering the progressive enhancement debate.</p>
 
@@ -146,7 +146,7 @@
 			<entry>
 				<title type="html"><![CDATA[A (Not So) Short Note on ARIA to the Rescue]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue/"/>
-				<updated>2016-10-25T08:31:24-07:00</updated>
+				<updated>2016-10-25T11:31:24-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue</id>
 				<content type="html"><![CDATA[<p>Accessibility is hard. It’s a broad term encompassing a variety of special needs ranging from low vision and color blindness to motor impairment and language barriers (to name but a few) which means guaranteeing our projects are “100% accessible” is a significant challenge.</p>
 
@@ -161,7 +161,7 @@
 			<entry>
 				<title type="html"><![CDATA[Flex-grow 9999 Hack]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/flex-grow-9999-hack/"/>
-				<updated>2016-10-24T10:39:15-07:00</updated>
+				<updated>2016-10-24T13:39:15-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/flex-grow-9999-hack</id>
 				<content type="html"><![CDATA[<p>Very clever bit of flexbox here for laying out text optimally when you don’t know its length.</p>
 
@@ -174,7 +174,7 @@
 			<entry>
 				<title type="html"><![CDATA[Refreshing the Verge]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/refreshing-the-verge-no-platform-like-home/"/>
-				<updated>2016-10-24T10:29:55-07:00</updated>
+				<updated>2016-10-24T13:29:55-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/refreshing-the-verge-no-platform-like-home</id>
 				<content type="html"><![CDATA[<p>I love how Mandy deftly wove progressive enhancement into her content strategy and publishing discussion:</p>
 
@@ -189,7 +189,7 @@
 			<entry>
 				<title type="html"><![CDATA[crossfit.js]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/crossfit-js/"/>
-				<updated>2016-10-24T09:55:52-07:00</updated>
+				<updated>2016-10-24T12:55:52-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/crossfit-js</id>
 				<content type="html"><![CDATA[<p>A hilarious and completely accurate reflection on the cultural similarities shared by JavaScript and crossfire enthusiasts.</p>
 <p><a rel="full-article" href="https://www.christianheilmann.com/2016/10/18/crossfit-js/">Read on Christian Heilmann&nbsp;&rarr;</a></p>]]></content>
@@ -204,7 +204,7 @@
 			<entry>
 				<title type="html"><![CDATA[Progressive Enhancement Delivers Best Customer Experience]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers/"/>
-				<updated>2016-08-19T10:31:47-07:00</updated>
+				<updated>2016-08-19T13:31:47-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers</id>
 				<content type="html"><![CDATA[<p>Yep.</p>
 
@@ -219,7 +219,7 @@
 			<entry>
 				<title type="html"><![CDATA[Weird Browsers]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw/"/>
-				<updated>2016-08-19T10:26:43-07:00</updated>
+				<updated>2016-08-19T13:26:43-04:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw</id>
 				<content type="html"><![CDATA[<p>I love, love, love this talk from <a href="https://twitter.com/rakaz">Niels Leenheer</a> at <a href="https://frontendne.co.uk">Frontend NE</a>. He covers TV browsers, game consoles, handheld consoles, e-readers, and VR headsets and talks about what we can, can’t, and should try to do to accommodate them.</p>
 
