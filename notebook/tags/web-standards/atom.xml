@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Web Standards | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/web-standards/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-12T15:26:30-05:00</updated>
+  <updated>2016-12-13T12:24:08-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -55,7 +55,7 @@
 </blockquote>
 
 <figure id="fig-2015-02-25-02" class="media-container media-container--right">
-	<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/200px-Yin_yang.svg.png" srcset="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/800px-Yin_yang.svg.png 800w, http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/400px-Yin_yang.svg.png 400w, http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/200px-Yin_yang.svg.png 200w" alt="Yin and yang." />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/200px-Yin_yang.svg.png" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/800px-Yin_yang.svg.png 800w, https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/400px-Yin_yang.svg.png 400w, https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/200px-Yin_yang.svg.png 200w" alt="Yin and yang." />
 </figure>
 
 <p>This whole thing has caused quite a kerfuffle in the Web community. Obviously, some people are demonizing Apple (and, by proxy, Google) for holding us back. Others are quick to excuse Apple because of their history of pushing the Web forward (see CSS transitions, animations, etc.).<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Personally, I don’t think anything is ever truly black and white. Every company does some good things and some bad things. To channel Lisa Welshman again, it’s like yin and yang: The light has a little bit of the dark in it, and the dark has a little bit of the light in it.</p>
@@ -210,7 +210,7 @@
 <p>This has been a long time coming. The idea is pretty simple: Within a flow-type element (think <code>p</code>, <code>div</code>, etc.) you can apply <a href="http://www.w3.org/TR/2015/WD-css3-exclusions-20150115/#wrap-flow-property">the <code>wrap-flow</code> property</a> to children in order to control where content can go in relation to them. Here’s an example from the spec:</p>
 
 <figure id="fig-2015-01-16-1">
-	<img src="http://www.w3.org/TR/2015/WD-css3-exclusions-20150115/images/exclusions-illustration.png" alt="Four boxes layed out roughly diagonally from the upper left to the lower right within a larger container. A flow of blue color shows where text is allowed to flow." />
+<img src="https://www.w3.org/TR/2015/WD-css3-exclusions-20150115/images/exclusions-illustration.png" alt="Four boxes layed out roughly diagonally from the upper left to the lower right within a larger container. A flow of blue color shows where text is allowed to flow." />
 </figure>
 
 <p>In this example, child A is set to <code>wrap-flow: both</code>, allowing content to flow on both sides of it. Child B is set to <code>wrap-flow: start</code> meaning content should only be allowed on the starting side of the element (based on text direction, in this case left to right). Child C is set to <code>wrap-flow: end</code> meaning content can only appear after it in terms of text-direction. And child D is set to <code>wrap-flow: clear</code> which, as you might expect based on your existing CSS knowledge, ensures no content appears on either side of it.</p>
