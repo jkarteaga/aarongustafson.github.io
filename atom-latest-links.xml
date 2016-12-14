@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-13T13:55:29-05:00</updated>
+	<updated>2016-12-13T20:20:52-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,39 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Progressive Enhancement and Team Memberships]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-and-team-memberships/"/>
+				<updated>2016-12-13T14:17:28-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-and-team-memberships</id>
+				<content type="html"><![CDATA[<p>Iris Faraway discusses progressively enhancing a feature for the University of Bath. It’s a simple, straightforward example of how to create a universal baseline and improve (dramatically) on the experience using JavaScript.</p>
+<p><a rel="full-article" href="http://blogs.bath.ac.uk/digital/2016/12/12/progressive-enhancement-and-team-memberships/">Read on University of Bath Office of Digital Marketing & Communications&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[The Bold Beauty of Content Prototypes]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/the-bold-beauty-of-content-prototypes/"/>
+				<updated>2016-12-13T14:14:36-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/the-bold-beauty-of-content-prototypes</id>
+				<content type="html"><![CDATA[<p>This is an excellent discussion of designing from the content out on a real project. Tons of sage advice in here.</p>
+<p><a rel="full-article" href="http://thomasbyttebier.be/blog/the-bold-beauty-of-content-prototypes">Read on Thomas Byttebier&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Resilient Web Design]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/resilientwebdesign/"/>
+				<updated>2016-12-13T14:12:16-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/resilientwebdesign</id>
+				<content type="html"><![CDATA[<p>Jeremy Keith’s latest book. Free to read on any device you own. Installable as a progressive web app too (naturally).</p>
+<p><a rel="full-article" href="https://resilientwebdesign.com/">Read on Jeremy Keith&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 	
@@ -196,36 +229,6 @@
 			</entry>
 		
 	
-		
-	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Progressive Enhancement Delivers Best Customer Experience]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers/"/>
-				<updated>2016-08-19T13:31:47-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-best-customer-experience-across-browsers</id>
-				<content type="html"><![CDATA[<p>Yep.</p>
-
-<blockquote>
-  <p>Progressive enhancement focuses on the entire customer experience by continually looking forward to embrace improvements vs looking backward to degrade them.</p>
-</blockquote>
-<p><a rel="full-article" href="https://www.mobify.com/insights/progressive-enhancement-best-customer-experience-across-browsers/">Read on Mobify&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Weird Browsers]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw/"/>
-				<updated>2016-08-19T13:26:43-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/weird-browsers-at-webworker-nrw</id>
-				<content type="html"><![CDATA[<p>I love, love, love this talk from <a href="https://twitter.com/rakaz">Niels Leenheer</a> at <a href="https://frontendne.co.uk">Frontend NE</a>. He covers TV browsers, game consoles, handheld consoles, e-readers, and VR headsets and talks about what we can, can’t, and should try to do to accommodate them.</p>
-
-<p>You can also <a href="https://www.youtube.com/watch?v=ojGIva5801I">watch Niels give this talk on YouTube</a>.</p>
-<p><a rel="full-article" href="https://speakerdeck.com/nielsleenheer/weird-browsers-at-webworker-nrw">Read on Niels Leenheer on Speaker Deck&nbsp;&rarr;</a></p>]]></content>
-			</entry>
 		
 	
 </feed>
