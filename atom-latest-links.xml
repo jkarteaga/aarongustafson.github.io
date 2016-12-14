@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-13T20:42:29-05:00</updated>
+	<updated>2016-12-14T14:02:16-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,19 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[HTML Interactive Form Validation]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/html-interactive-form-validation/"/>
+				<updated>2016-12-14T13:59:54-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/html-interactive-form-validation</id>
+				<content type="html"><![CDATA[<p>HTML5 validation is <em>finally</em> coming to WebKit and Safari! Hooray!</p>
+<p><a rel="full-article" href="https://webkit.org/blog/7099/html-interactive-form-validation/">Read on WebKit&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
 	
 		
 			<entry>
@@ -216,19 +229,6 @@
 </blockquote>
 <p><a rel="full-article" href="http://www.theverge.com/2016/10/21/13331208/refreshing-the-verge-no-platform-like-home">Read on The Verge&nbsp;&rarr;</a></p>]]></content>
 			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[crossfit.js]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/crossfit-js/"/>
-				<updated>2016-10-24T12:55:52-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/crossfit-js</id>
-				<content type="html"><![CDATA[<p>A hilarious and completely accurate reflection on the cultural similarities shared by JavaScript and crossfire enthusiasts.</p>
-<p><a rel="full-article" href="https://www.christianheilmann.com/2016/10/18/crossfit-js/">Read on Christian Heilmann&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
 		
 	
 </feed>

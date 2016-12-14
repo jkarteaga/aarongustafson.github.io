@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Posts]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-posts.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-13T20:42:29-05:00</updated>
+	<updated>2016-12-14T14:02:16-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,61 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Lessons in Averaging]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/lessons-in-averaging/"/>
+				<updated>2016-12-14T00:00:00-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/lessons-in-averaging</id>
+				<content type="html"><![CDATA[<p>In the work that we do on the Web (as well as in our daily lives), we’re often confronted, informed, or judged based on averages. I never really stopped to think about it, beyond being bugged by the fact that averages aren’t truly representative of reality. Then I listened to <a href="http://99percentinvisible.org/episode/on-average/">99% Invisible’s episode “On Average”</a>. It was incredibly enlightening and the stories shared in that episode provide sage wisdom that is very relevant to the work that we do.</p>
+
+<!-- more -->
+
+<p>Do you know where our fascination with averages began? It all started with Adolphe Quételet, a Belgian mathematician and astronomer:</p>
+
+<blockquote>
+  <p>In the 1830s, astronomers were some of the only people that regularly calculated averages, since early telescopes were extremely imprecise. To obtain more accurate data for say, tracking the orbits of planets, astronomers would take multiple measurements (all of which were slightly different) add them together, then divide by the number of observations to get a better approximation of the true value.</p>
+</blockquote>
+
+<p>Quetelet decided to apply this tool to people, starting with Scottish soldiers’ chest sizes. Turns out the average chest size of a Scottish soldier in the 1830s was 39.75 inches. File that one away for Pub Trivia.</p>
+
+<p>Quetelet believed that the average was the “true” size of something… something that we should strive for or that nature would attempt to create. The <a href="https://en.wikipedia.org/wiki/Platonic_idealism">Platonic ideal</a> if you will:</p>
+
+<blockquote>
+  <p>In Quetelet’s mind, human averages had a certain moral mandate. By his logic, if everyone were optimally fed and lived under the same environmental conditions, they would be average. And this is what society should be striving for: the continual improvement of the average of the group.</p>
+</blockquote>
+
+<p>We look at averages all the time in our work. Some, like average <a href="https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive">Time To Interactive (TTI)</a>, are useful measurements that allow us to improve our work; others, like the “average” user are decidedly less so. <span data-quotable="">The “average” person (or dog or flower) is a myth. Everyone and everything is unique to some equally unique degree.</span> <a href="https://en.wikipedia.org/wiki/Factory_second">Even mass-produced objects have variance</a>.</p>
+
+<p>Designing for the “average” user is incredibly problematic. The episode I mentioned captured this perfectly in a story about the U.S. Army’s design of airplane cockpits:</p>
+
+<blockquote>
+  <p>[I]n 1926, when the Army designed its first airplane cockpit, they measured the physical dimensions of male pilots and calculated the average measurement of their height, weight, arm-length and other dimensions.</p>
+</blockquote>
+
+<blockquote>
+  <p>The results determined the size and shape of the seat, the distance to the pedals and the stick, and even the shape of the flight helmets. This mean that, in part, pilots were selected based on their ability to fit into the cockpit designed for the average 1920s man.</p>
+</blockquote>
+
+<blockquote>
+  <p>This worked more or less up until World War II, when the Army began recruiting hundreds of new pilots to expand its air forces (which became a separate branch of the military in 1947). But with the birth and expansion of the Air Force came a decline in performance and a rash of deaths. Even with no war, pilots continued to die during training, as they were unable to control their planes.</p>
+</blockquote>
+
+<blockquote>
+  <p>The high death rate in the Air Force was a mystery for many years, but after blaming the pilots and their training programs, the military finally realized that the cockpit itself was to blame, that it didn’t actually fit most pilots.</p>
+</blockquote>
+
+<p>In 1950, the Air Force sent Gilbert S. Daniels out to collect ten measurements from thousands of airmen—yes, they were all men at the time—across the U.S. in order to establish a new average. After collecting the data, Daniels got curious and decided to see how many of the airmen he measured hit the average on all ten measurements. Not a single one. How about three of the measurements? Less than five percent. He realized that <span data-quotable="">in designing for an average, they were, in fact, designing for no one.</span> Based on this discovery, the Air Force commissioned new equipment that including features like adjustable foot pedals, helmet straps, flight suits, and seats. And, wonder of wonders, pilot performance improved dramatically.</p>
+
+<p>When we design, we need to be cognizant of the variety of human experience and plan accordingly. <span data-quotable="">For our work to be successful, we need to accommodate the adjustments our users require for <em>them</em> to be successful.</span> Responsive layouts, adaptive interfaces, support for assistive technologies… all of these approaches enable our work to go further by enabling it to be tailored to the permanent, temporary, and/or situational needs of our users.</p>
+
+<p>All of this is to say, this episode made me an even more ardent believer in the idea of <a href="http://alistapart.com/article/understandingprogressiveenhancement">progressive enhancement</a> and the continuum of experience it enables. You should go listen to it now, I promise there’s more to the story.</p>
+]]></content>
+			</entry>
+		
 	
 		
 	
@@ -1096,126 +1151,6 @@
 	
 		
 	
-		
-	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Progressive Misconceptions]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/progressive-misconceptions/"/>
-				<updated>2016-10-17T15:33:55-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/progressive-misconceptions</id>
-				<content type="html"><![CDATA[<p>Last week, my colleague<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> <a href="https://nolanlawson.com/">Nolan Lawson</a> wrote <a href="https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/">a lengthy post about his struggles with progressive enhancement</a>. In it, he identified a key tension between the JavaScript community and the progressive enhancement community that has, frankly, existed since the term “progressive enhancement” was coined some 13 years ago. I wanted to take a few minutes to tuck into that tension and assure Nolan and other folks within the JS community that neither progressive enhancement nor the folks who advocate it (like me) is at odds with them or their work.</p>
-
-<!-- more -->
-
-<p>But first let’s take a a trip back in time to 2003. In March of that year, <a href="http://hesketh.com/publications/inclusive_web_design_for_the_future.html">Steve Champion introduced a concept he called “progressive enhancement”</a>. It caused a bit of an upheaval at the time because it challenged the dominant philosophy of graceful degradation. Just so we’re all on the same page, I’ll compare these two philosophies.</p>
-
-<h2 id="whats-graceful-degradation">What’s graceful degradation?</h2>
-
-<p><em>Graceful degradation</em> assumes that an experience is going to be worse on older, less capable browsers and devices. To address potential problems, it recommends that developers take steps to avoid throwing errors—JavaScript or otherwise—for their users. Under this philosophy, a developer can take a range of approaches ranging from making everything work perfectly in down-level browsers to only addressing egregious errors or even chosing to block certain browsers from accessing the content if they are known to have problems. We saw this latter approach often with Flash-only sites, but it wasn’t limited to them. I used <a href="#2016-10-17-1">this “roadblock” example from Kodak.com</a> in <a href="http://adaptivewebdesign.info/">my book</a>:</p>
-
-<figure id="fig-2016-10-17-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
-
-<p>Overall, graceful degradation is about risk avoidance. The problem was that it created a climate on the Web where we, as developers, got comfortable with the idea of denying access to services (e.g., people’s bank accounts) because we deemed a particular browser (or browsers) too difficult to work with. Or, in many cases, we just didn’t have the time or budget (or both) to address the broadest number of browsers. It’s kind of hard to reconcile the challenge of cross-browser development in 2003 with what we are faced with today as we were only really dealing with 2-3 browsers back then, but you need to remember that standards support was far worse at the time.</p>
-
-<h2 id="so-whats-progressive-enhancement">So what’s progressive enhancement?</h2>
-
-<p>In his talk, Steve upended the generally shared perspective that older browsers deserved a worse experience because they were less technically capable. He asked us to look beyond the browsers and the technologies in play and focus on the user experience, challenging us to design inclusive experiences that would work in the broadest of scenarios. He asked that we focus on the content and core tasks in a given interface and then enhance the experience when we could. We accomplish this by layering experiences on top of one another, hence “progressive enhancement”.</p>
-
-<p>What’s particularly interesting about this approach is that it is still technically graceful degradation because all of the interfaces do gracefully fall back to a usable state. But it’s graceful degradation at its best, focused on delivering a good experience to everyone. No excuses.</p>
-
-<p>To give a simple example, consider a form field for entering your email address. If we were to mark it up like this</p>
-
-<pre><code>&lt;input type="email" name="email" id="email"&gt;
-</code></pre>
-
-<p>I automatically create layers of experience with no extra effort:</p>
-
-<ol>
-<li>Browsers that don’t understand “email” as a valid <code>input</code> type will treat the “email” text as a typo in my HTML (like when you type “rdio” instead of “radio”… or maybe I’m the only one that does that). As a result, they will fall back to the default input type of “text”, which is usable in every browser that supports HTML2 and up.</li>
-<li>Browsers that consider “email” a valid <code>input</code> type will provide one (or more) of many potential enhanced experiences:
-<ol type="a">
-<li>In a virtual keyboard context, the browser may present a keyboard that is tailored toward quickly entering email addresses.</li>
-<li>In a browser that supports auto-completion, it may use this as a cue to suggest entering a commonly-entered email or one that has been stored in the user’s profile.</li>
-<li>In a browser that supports HTML5 validation, the browser may validate this field for proper email formatting when the user attempts to submit the form.</li>
-<li>In a browser that does not support HTML5 validation or that doesn’t actively block submission on validation errors—<a href="https://bugs.webkit.org/show_bug.cgi?id=28649">like Safari</a>—a developer-supplied JavaScript program may use the <code>type</code> attribute as a signal that it should validate the field for proper email address formatting.</li>
-</ol>
-</li>
-</ol>
-
-<p>That means that there are between 5 and 13 potential experiences (given all of the different possible combinations of these layers) in this one single single element… it’s kind of mind-boggling to think about, right? And the clincher here is that any of these experiences can be a good experience. Heck for nearly 15 years of the Web, the plain-ol’ text <code>input</code> was the only way we had for entering an email address. Anything better than that is gravy.</p>
-
-<p>Progressive enhancement embraces the idea of experience as a continuum rather than some singular ideal. It recognizes that every person is different and we all have special requirements for Web access. Some may depend on our browser, the device we’re on, and the network we are using. Others may be the result of a limitation we have dealt with since birth, are dealing with temporarily as the result of an injury or incident, or are simply a factor of our current situation. We all experience the world differently and progressive enhancement not only respects that, it embraces that variability.</p>
-
-<p>How does it do this? Progressive enhancement takes advantage of the fault tolerant nature of HTML and CSS. It also uses JavaScript’s own ability to test for browser features to tailor programmatic enhancements to the given device and situation. That’s right: progressive enhancement and JavaScript go hand-in-hand.</p>
-
-<h2 id="why-are-so-many-javascript-folks-hostile-to-progressive-enhancement">Why are so many JavaScript folks hostile to progressive enhancement?</h2>
-
-<p>As a member of the JavaScript community for over a decade now, I have theory for why many JavaScript developers are so antagonistic toward progressive enhancement. Part of it has to do with history and part of it has to do with programming culture. Let’s tackle the history first.</p>
-
-<p>When progressive enhancement was first proposed, the Web was getting more standardized, but things were still a bit of a mess… especially in the JavaScript world. Many JavaScript programs were poorly-written, contained lots of browser-specific code, and were generally unfriendly to anyone who fell outside of the relatively narrow band of “normal” Web use… like screen reader users, for example. It’s not surprising though: Graceful degradation was the name of the game at the time.</p>
-
-<p>Because JavaScript programs were creating barriers for users who just wanted to read news articles, access public services, and check their bank accounts, many accessibility advocates recommended that these folks disable JavaScript in their browsers. By turning off JavaScript, the theory went, users would get clean and clear access to the content and tasks they were using the Web for. Of course that was in the days before Ajax, but I digress.</p>
-
-<p>This recommendation served as a bit of a wake-up call for many JavaScript developers who had not considered alternate browsing experiences. Some chose to write it off and continued doing their own thing. Others, however, accepted the challenge of making JavaScript more friendly to the folks who relied on assistive technologies (AT). Many even went on to write code that actually improved the experience specifically for folks who are AT-dependent. Dojo and YUI, though sadly out of favor these days, were two massive libraries that prioritized accessibility. In fact, I’d go so far as to say they ushered in a period of alignment between JavaScript and accessibility.</p>
-
-<p>Even though JavaScript and accessibility are no longer at odds (and really haven’t been for the better part of a decade), there are still some folks who believe they are. People routinely come across old articles that talk about JavaScript being inaccessible and they turn around and unfairly demonize JavaScript developers as unsympathetic toward folks who rely on screen readers or other AT. It’s no wonder that some JavaScript developers become immediately defensive when the subject of accessibility comes up… especially if it’s not something they’re all that familiar with.</p>
-
-<hr />
-
-<p>I also mentioned that programming culture plays a part in the antagonistic relationship between the progressive enhancement camp and the JavaScript community. If you’ve been a programmer for any amount of time, you’ve probably borne witness to the constant finger-pointing, belittling, and arrogance when it come to the languages we choose to program in or the tools we use to do it.</p>
-
-<p>As a programmer, you receive a near constant barrage of commentary on your choices… often unsolicited. <em>You’re using PHP? That’s so 1996! You’re still using TextMate?! You still use jQuery? How quaint!</em> I’m not exactly sure where this all began, but it’s unhealthy and causes a lot of programmers to get immediately defensive when anyone challenges their language of choice or their process. And this hostile/defensive environment makes it very difficult to have a constructive conversation about best practices.</p>
-
-<p>Progressive enhancement should not be viewed as a challenge to JavaScript any more than concepts like <a href="https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/ch13s15.html">namespacing</a>, <a href="https://en.wikipedia.org/wiki/Test-driven_development">test driven development</a>, or <a href="http://www.yottaa.com/company/blog/application-optimization/how-does-reducing-javascript-requests-minifying-javascript/">file concatenation &amp; minification</a> are; it’s just another way to improve your code. That said, progressive enhancement does introduce a wrinkle many for hardcore JavaScript programmers seem unwilling to concede: JavaScript is fragile. At least on the client side, JavaScript development requires far more diligence when it comes to error handling and fallbacks than traditional programming because, unlike with traditional software development, <a href="https://www.aaron-gustafson.com/notebook/a-fundamental-disconnect/">we don’t control the execution environment</a>.</p>
-
-<p><a href="http://www.crockford.com/">Douglas Crockford</a> (in)famously declared the Web “the most hostile software engineering environment imaginable” and he wasn’t wrong. A lot of things have to go right for our code to reach our users precisely the way we intend. Here are just a few of these requirements:</p>
-
-<ol>
-  <li>Our code must be bug-free;</li>
-  <li>Included 3rd party code must be bug free and must not interfere with our code;</li>
-  <li>Intermediaries—ISPs, routers, etc.—must not inject code or if they do, it must be bug free and not interfere with our code;</li>
-  <li>Browser plugins must not interfere with our code;</li>
-  <li>The browser must support every language feature and API we want to use; and</li>
-  <li>The device must have enough RAM and a fast enough processor to run our code.</li>
-</ol>
-
-<p>Some of these can be addressed by programming defensively using test-driven development, <a href="http://www.slideshare.net/simonguest/automated-web-testing-using-javascript">automated QA testing</a>, <a href="https://developer.mozilla.org/docs/Using_Web_Standards_in_your_Web_Pages/Developing_cross-browser_and_cross-platform_pages#Using_Object.2FFeature_support_detection_approach:_best_and_overall_most_reliable">feature detection</a>, and markup detection. These aren’t guaranteed to catch everything—markup can change after a test has run but before the rest of the code executed, <a href="http://javascriptissexy.com/javascript-objects-in-detail/">JavaScript objects are mutable</a> meaning features can accidentally disappear, etc.—but they are incredibly helpful for creating robust JavaScript programs. You can also run your projects under HTTPS to avoid intermediaries manipulating your code, though <a href="http://arstechnica.com/security/2015/01/gogo-issues-fake-https-certificate-to-users-visiting-youtube/">that’s not fool-proof either</a>.</p>
-
-<p>The devices themselves, we have no control over. It’s not like we can send a new device to each and every user (or prospective user) we have just to ensure they have the appropriate hardware and software requirements to use our product.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> Instead, we need to <a href="https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/">write JavaScript programs that play well in a multitude of of scenarios (including resource-limited ones)</a>.</p>
-
-<p>And, of course, none of this addresses network availability. In many instances, a user’s network connection has the greatest impact on their experience of our products. If the connection is slow (or the page’s resources are exceptionally large) the page load experience can be excruciatingly painful. If the connection goes down and dependencies aren’t met, the experience can feel disjointed or may be flat out broken. Using <a href="https://developer.mozilla.org/docs/Web/API/Service_Worker_API">Service Worker</a> and client-side storage (<a href="https://developer.mozilla.org/docs/Web/API/IndexedDB_API"><code>indexedDB</code></a> and <a href="https://developer.mozilla.org/docs/Web/API/Web_Storage_API">Web Storage</a>) can definitely help mitigate these issues for repeat visits, but they don’t do much to help with initial load. They also don’t work at all if your JavaScript program doesn’t run. Which brings me to my last point.</p>
-
-<p>When you love a language like JavaScript (as I do), it can be difficult to recognize (or even admit) it’s shortcomings, but recognizing them is part of becoming a better programmer. The Web is constantly evolving and our understanding of the languages we use to build it expands as fast as—or often faster than—their capabilities do. As such, we need to remain open to new and different ways of doing things. Change can be scary, but it can also be good. Being asked to consider a non-JavaScript experience shouldn’t be seen as an affront to JavaScript, but rather a challenge to create more robust experiences. After all, our last line of defense in providing a good user experience is providing one with <a href="https://www.smashingmagazine.com/2016/05/developing-dependency-awareness/">the least number of dependencies</a>. That’s what progressive enhancements asks us to do.</p>
-
-<h2 id="javascript--pe-kissing-in-a-tree">JavaScript &amp; PE kissing in a tree?</h2>
-
-<p>All of this is to say I don’t think JavaScript and progressive enhancement are diametrically opposed and I don’t think folks who love the JavaScript language or tout the progressive enhancement philosophy should be either. Together they have the potential to making the Web the best it can possibly be.</p>
-
-<p>Progressive enhancement’s focus on providing a baseline experience that makes no assumptions about browser features will provide a robust foundation for any project. It also guides us to be smarter about <em>how</em> we apply technologies like HTML, CSS, JavaScript and ARIA by asking us to consider what happens when those dependencies aren’t met.</p>
-
-<p>JavaScript absolutely makes the user experience better for anyone who can benefit from it. It can make interfaces more accessible. It can help mitigate networking issues. It can create smoother, more seamless experiences for our users. And it can reduce the friction inherent in accomplishing most tasks on the Web. JavaScript is an indispensable part of the modern Web.</p>
-
-<p>In order to come together, however, folks <a href="https://www.baldurbjarnason.com/notes/debating-web-development/">need to stop demonizing and dismissing one another</a>. Instead we need to rally together to make the Web better. But before we can do that, we need to start with a common understanding of the nature of JavaScript. The progressive enhancement camp needs to concede that all JavaScript is not evil, or even bad—JavaScript can be a force for good and it’s got really solid support. The JavaScript camp needs to concede that, despite its ubiquity and near universal support, we can never be absolutely guaranteed our JavaScript programs will run.</p>
-
-<p>I fully believe we can heal this rift, but it’s probably gonna take some time. I fully intend to do my part and I hope you will as well.</p>
-
-<p><ins datetime="2016-10-18T11:11:00-04:00"><strong>Update:</strong> This post was updated to clarify that graceful degradation can take many forms and to explicitly tie progressive enhancement and graceful degradation together.</ins></p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Full disclosure: We both work at Microsoft, but on different teams. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>It’s worth noting that <a href="http://gizmodo.com/website-opts-to-buy-customers-new-computers-rather-than-1513186669">one company, NursingJobs, actually did this</a>. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-			</entry>
 		
 	
 </feed>
