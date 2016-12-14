@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Web Design | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/web-design/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-14T14:02:16-05:00</updated>
+  <updated>2016-12-14T14:51:58-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lessons in Averaging]]></title>
+    <link href="https://www.aaron-gustafson.com/notebook/lessons-in-averaging/"/>
+    <updated>2016-12-14T13:01:32-05:00</updated>
+    <id>https://www.aaron-gustafson.com/notebook/lessons-in-averaging</id>
+    <content type="html"><![CDATA[<p>In the work that we do on the Web (as well as in our daily lives), we’re often confronted, informed, or judged based on averages. I never really stopped to think about it, beyond being bugged by the fact that averages aren’t truly representative of reality. Then I listened to <a href="http://99percentinvisible.org/episode/on-average/">99% Invisible’s episode “On Average”</a>. It was incredibly enlightening and the stories shared in that episode provide sage wisdom that is very relevant to the work that we do.</p>
+
+<!-- more -->
+
+<p>Do you know where our fascination with averages began? It all started with Adolphe Quételet, a Belgian mathematician and astronomer:</p>
+
+<blockquote>
+  <p>In the 1830s, astronomers were some of the only people that regularly calculated averages, since early telescopes were extremely imprecise. To obtain more accurate data for say, tracking the orbits of planets, astronomers would take multiple measurements (all of which were slightly different) add them together, then divide by the number of observations to get a better approximation of the true value.</p>
+</blockquote>
+
+<p>Quetelet decided to apply this tool to people, starting with Scottish soldiers’ chest sizes. Turns out the average chest size of a Scottish soldier in the 1830s was 39.75 inches. File that one away for Pub Trivia.</p>
+
+<p>Quetelet believed that the average was the “true” size of something… something that we should strive for or that nature would attempt to create. The <a href="https://en.wikipedia.org/wiki/Platonic_idealism">Platonic ideal</a> if you will:</p>
+
+<blockquote>
+  <p>In Quetelet’s mind, human averages had a certain moral mandate. By his logic, if everyone were optimally fed and lived under the same environmental conditions, they would be average. And this is what society should be striving for: the continual improvement of the average of the group.</p>
+</blockquote>
+
+<p>We look at averages all the time in our work. Some, like average <a href="https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive">Time To Interactive (TTI)</a>, are useful measurements that allow us to improve our work; others, like the “average” user are decidedly less so. <span data-quotable="">The “average” person (or dog or flower) is a myth. Everyone and everything is unique to some equally unique degree.</span> <a href="https://en.wikipedia.org/wiki/Factory_second">Even mass-produced objects have variance</a>.</p>
+
+<p>Designing for the “average” user is incredibly problematic. The episode I mentioned captured this perfectly in a story about the U.S. Army’s design of airplane cockpits:</p>
+
+<blockquote>
+  <p>[I]n 1926, when the Army designed its first airplane cockpit, they measured the physical dimensions of male pilots and calculated the average measurement of their height, weight, arm-length and other dimensions.</p>
+</blockquote>
+
+<blockquote>
+  <p>The results determined the size and shape of the seat, the distance to the pedals and the stick, and even the shape of the flight helmets. This mean that, in part, pilots were selected based on their ability to fit into the cockpit designed for the average 1920s man.</p>
+</blockquote>
+
+<blockquote>
+  <p>This worked more or less up until World War II, when the Army began recruiting hundreds of new pilots to expand its air forces (which became a separate branch of the military in 1947). But with the birth and expansion of the Air Force came a decline in performance and a rash of deaths. Even with no war, pilots continued to die during training, as they were unable to control their planes.</p>
+</blockquote>
+
+<blockquote>
+  <p>The high death rate in the Air Force was a mystery for many years, but after blaming the pilots and their training programs, the military finally realized that the cockpit itself was to blame, that it didn’t actually fit most pilots.</p>
+</blockquote>
+
+<p>In 1950, the Air Force sent Gilbert S. Daniels out to collect ten measurements from thousands of airmen—yes, they were all men at the time—across the U.S. in order to establish a new average. After collecting the data, Daniels got curious and decided to see how many of the airmen he measured hit the average on all ten measurements. Not a single one. How about three of the measurements? Less than five percent. He realized that <span data-quotable="">in designing for an average, they were, in fact, designing for no one.</span> Based on this discovery, the Air Force commissioned new equipment that including features like adjustable foot pedals, helmet straps, flight suits, and seats. And, wonder of wonders, pilot performance improved dramatically.</p>
+
+<p>When we design, we need to be cognizant of the variety of human experience and plan accordingly. <span data-quotable="">For our work to be successful, we need to accommodate the adjustments our users require for <em>them</em> to be successful.</span> Responsive layouts, adaptive interfaces, support for assistive technologies… all of these approaches enable our work to go further by enabling it to be tailored to the permanent, temporary, and/or situational needs of our users.</p>
+
+<p>All of this is to say, this episode made me an even more ardent believer in the idea of <a href="http://alistapart.com/article/understandingprogressiveenhancement">progressive enhancement</a> and the continuum of experience it enables. You should go listen to it now, I promise there’s more to the story.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[Insert Clickbait Headline About Progressive Enhancement Here]]]></title>
@@ -498,39 +549,6 @@
 <p>The contest opened Monday and we will accept entries until 5pm Pacific Time on September 30th. <a href="https://a-k-apart.com/legal">Everything you should need to know about the contest, eligibility, etc.</a> is up on <a href="https://a-k-apart.com/">the 10k Apart site</a>, but if you have additional questions, <a href="https://a-k-apart.com/hi">you can always reach out</a>.</p>
 
 <p>I can’t wait to see what you come up with! Happy coding!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Offline First: Love the Idea, Hate the Name]]></title>
-    <link href="https://www.aaron-gustafson.com/notebook/offline-first-love-the-idea-hate-the-name/"/>
-    <updated>2016-03-28T08:25:26-04:00</updated>
-    <id>https://www.aaron-gustafson.com/notebook/offline-first-love-the-idea-hate-the-name</id>
-    <content type="html"><![CDATA[<p>Back in 2014, I had the great pleasure of listening to <a href="https://twitter.com/misprintedtype">Ola Gasidlo</a> of <a href="http://hood.ie/">Hood.ie</a> <a href="https://vimeo.com/103221949">discuss the importance of offline</a> at Beyond Tellerrand in Düsseldorf, Germany. Her excellent talk was my introduction to <a href="https://www.google.com/search?q=offline+first">the “Offline First” movement</a> and, while I can get behind the idea, I’ve had some serious issues with the name. And with the rise of Service Workers as a simple, usable means of making our content available offline, I thought it worth revisiting the idea of “offline first”, if only to address its core fallacy.</p>
-
-<!-- more -->
-
-<p>First, the good stuff: The “offline first” movement clearly recognizes the current dilemma of our time:</p>
-
-<blockquote>
-  <p>We live in a disconnected &amp; battery powered world, but our technology and best practices are a leftover from the always connected &amp; steadily powered past.</p>
-</blockquote>
-
-<p><a href="https://www.w3.org/TR/2011/WD-html5-20110525/offline.html">App Cache</a>, <a href="https://www.w3.org/TR/webdatabase/">Web SQL</a>, <a href="https://www.w3.org/TR/webstorage/">Web Storage</a>, <a href="https://www.w3.org/TR/IndexedDB/">Indexed DB</a>, <a href="https://www.w3.org/TR/service-workers/">Service Workers</a>, and a handful of other specs and ideas were all created to address this core limitation of the Web. They also make it possible to compete with “native” software experiences. I am 100% on board with this move. It sucks to open Chrome on my mobile and switch to a tab that’s been tucked out of view for a while only to have the page fail to load because I happen to be traveling abroad without a data plan. If that site was made to work offline, the fact that Chrome had recycled the RAM and CPU that tab had been consuming would be less of a problem and the page would load instantly from the cache.</p>
-
-<p>Tunnels… hotel wifi… high latency mobile networks… expensive roaming data plans… these are all reasons we need an offline Web. I’m incredibly thankful for all of the hard work the smart folks working on solutions like these are contributing.</p>
-
-<p>Also inline with the “offline first” movement, I think it’s important to consider the offline experience early in a project, so it isn’t forgotten or haphazardly bolted on. We need to make deliberate choices about what content and assets we are caching. We need to plan for offline, maybe not <em>first</em>, but certainly early.</p>
-
-<p>All of this is to say I don’t have an issue with the philosophy of “offline first”, but I do take issue with the name. As a term, it’s a bit disingenuous. Looking at other “firsts”—”mobile first” or (to go back little further) “content first”—these terms work on multiple levels: They remind us to keep the core purpose of a page or interface central to our planning. They also support an experience that begins and ends with that core.</p>
-
-<p>A “mobile first” experience starts with a distraction-free central message or content, optimized for a small screen and (often) a single, narrow viewport. It can be enhanced for larger screens and more capable devices, but that core experience may be all some users get, and that’s ok. Users will have an experience (and a site that works) no matter what. The same is true with a “content first” approach; its experience remains available regardless of device or access mechanism. Sure, both “mobile first” and “content first” require the network, but guess what: “<strong>Offline first” requires network connectivity too!</strong> <a href="http://www.dynamicdrive.com/forums/showthread.php?62807-Run-Website-from-a-Flashdrive-or-CD">You don’t see many websites delivering their content on USB drives</a>, so all of the code required to make the offline experience possible in the first place requires an initial (and stable) connection to the Web. In other words, offline can’t be first.</p>
-
-<p>You may be wondering <em>Why is that important?</em> It’s important because, historically, a “first” approach (as I mentioned) sets an expectation of that experience always being available. Offline can’t provide that.</p>
-
-<p>Moreover, offline has another core dependency beyond the network: JavaScript. Without JavaScript, none of your fancy offline stuff—except App Cache, which few folks are using these days—will work. And yes, I know, <em>everyone</em> has JavaScript support… but the reality is that <a href="https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/">not everyone will get your JavaScript enhancements</a>, <a href="http://kryogenix.org/code/browser/everyonehasjs.html">even if that were actually the case</a>.</p>
-
-<p>Please don’t misunderstand the purpose of this post: I applaud the ideas behind the “offline first” movement and the amazing work that community is doing. And you should absolutely incorporate offline into projects you are building for the Web. Users with capable devices and browsers will thank you for it. Just try not to use the term “offline first” or at least be prepared for me to cringe a little when you do. Maybe I’m the only one who feels this way; if so, I’m okay with that. But, then again, semantics matter. Maybe we need a different rallying cry. Sadly “Offline Too” doesn’t have the same ring to it.</p>
 ]]></content>
   </entry>
   
