@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Posts]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-posts.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-14T14:51:58-05:00</updated>
+	<updated>2016-12-15T18:07:39-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,20 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
 	
 		
 	
@@ -1072,85 +1086,6 @@
 </div>
 ]]></content>
 			</entry>
-		
-	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[One Person’s Bloat…]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
-				<updated>2016-10-25T15:15:01-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
-				<content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="" /></figure>
-
-<p>The <a href="http://www.webbloatscore.com/">Web Bloat Score Calculator</a> has been making the rounds on Twitter and I wanted to share my immediate thoughts on it.</p>
-
-<!-- more -->
-
-<p>First off, I am a big fan of simple tools that provide an often much-needed reality check on a project. Based squarely on its simplicity, I’d put this tool right up there alongside <a href="https://www.webpagetest.org/">WebPageTest</a> and <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a>. The Web Bloat Score (or WebBS… clever) Calculator is about as simple an interface as you can get: Enter a URL &amp; hit the “Calculate” button.</p>
-
-<p>When you do this, the service runs two tasks:</p>
-
-<ol>
-  <li>Load the URL and all of its assets, calculating a total page weight and chronicling the number of requests required to get there; and</li>
-  <li>Generate a static screen capture of the page and then grab its file size.</li>
-</ol>
-
-<p>Once it has these two bits of info, it compares the real file size of the tested page against the image version to come up with your WebBS.</p>
-
-<p>I <a href="http://www.webbloatscore.com">ran the calculator against the 10k Apart contest homepage</a> and here are the results:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">URL</th>
-      <th style="text-align: left">Page Size</th>
-      <th style="text-align: left">Requests</th>
-      <th style="text-align: left">Image Size</th>
-      <th style="text-align: left">WebBS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">https://a-k-apart.com/</td>
-      <td style="text-align: left">200 <abbr title="kilobytes">kB</abbr></td>
-      <td style="text-align: left">49</td>
-      <td style="text-align: left">195 <abbr title="kilobytes">kB</abbr></td>
-      <td style="text-align: left">1.03</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>Not too bad, considering <a href="http://www.webbloatscore.com/Details/612ea9a9-c548-4e20-99d1-910b449ba2c4">the number of images on the page</a> and the interactivity of the SVG. In the documentation about the tool, they have this to say about a high WebBS:</p>
-
-<blockquote>
-  <p>A high WebBS usually indicates unused stuff on the page: JavaScript, CSS, oversized images, etc. Maybe you have a valid reason for that content. But more often than not, it means you can optimize it more.</p>
-</blockquote>
-
-<p>I completely agree with the sentiment here: smaller is better and if there’s a huge discrepancy between the file size of an image of your page and the page itself, there <em>may</em> be something not so awesome going on behind the scenes. They reference Amazon as being particularly bad, with a WebBS of 20 (<a href="http://www.webbloatscore.com/Details/4abea720-677c-48f6-9ff2-2b816424be06">I got 12.3 in my test</a>, but Amazon frequently changes their homepage).</p>
-
-<p>There’s always room for improvement when it comes to optimization, but I also worry about folks getting too hung up on numbers like this, especially striving for a score of 1 or less. Here are a few legitimate reasons your score may be more than 1:</p>
-
-<ul>
-  <li><strong>Your page is heavily interactive.</strong> The calculator does not take into account any sort of interactivity—progressively enhanced or not—nor does it tell you how well-optimized your JavaScript code is. There’s also the possibility that you’ve consciously decided to trade verbosity for speed. For large loops, for instance, <a href="https://en.wikipedia.org/wiki/Duff%27s_device">Duff’s device</a> is much faster but a lot more verbose than a normal <code>for</code> loop.</li>
-  <li><strong>Your page serves alternate file formats.</strong> The tool runs <a href="http://slimerjs.org/">SlimerJS</a> to collect the performance data and, for instance, it doesn’t currently support WebP images. We serve WebP with a JPG or PNG fallback on the 10k Apart site (using <code>picture</code>), but <a href="http://www.webbloatscore.com/Details/612ea9a9-c548-4e20-99d1-910b449ba2c4">the file log</a> doesn’t include the WebP images at all.</li>
-  <li><strong>You make use of micro-optimizations.</strong> Perhaps you use <a href="https://github.com/filamentgroup/loadCSS"><code>loadCSS</code></a> or <a href="https://github.com/filamentgroup/loadJS"><code>loadJS</code></a> or split your CSS into a default and advanced stylesheet (with the advanced one only loading if media queries are supported). Perhaps you lazy load images or fonts via JavaScript. Perhaps you only load certain assets or scripts based on browser capabilities. The calculator takes none of this into account.</li>
-</ul>
-
-<p>These are just three reasons to take your WebBS with a grain of salt. It’s good for a gut-check, but I wouldn’t spend a whole lot of time worrying about getting your score at or below 1.</p>
-]]></content>
-			</entry>
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
 		
 	
 </feed>

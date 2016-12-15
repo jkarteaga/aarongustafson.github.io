@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-14T14:51:58-05:00</updated>
+	<updated>2016-12-15T18:07:39-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,101 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Web Accessibility Tutorials]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/tutorials/"/>
+				<updated>2016-12-15T16:31:49-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/tutorials</id>
+				<content type="html"><![CDATA[<p>A great set of tutorials from the Web Accessibility Initiative. I can’t wait to see this grow!</p>
+<p><a rel="full-article" href="https://www.w3.org/WAI/tutorials/">Read on Web Accessibility Initiative&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Guidelines for Inclusive Language]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/guidelines-inclusive-language/"/>
+				<updated>2016-12-15T16:30:01-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/guidelines-inclusive-language</id>
+				<content type="html"><![CDATA[<p>Why should you care?</p>
+
+<blockquote>
+  <p>Inclusive language acknowledges diversity, conveys respect to all people, is sensitive to differences, and promotes equal opportunities.</p>
+</blockquote>
+
+<p>Good stuff!</p>
+<p><a rel="full-article" href="http://www.linguisticsociety.org/content/guidelines-inclusive-language">Read on Linguistic Society of America&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[The :focusing Selector Is Coming to CSS]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/709/"/>
+				<updated>2016-12-15T16:28:30-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/709</id>
+				<content type="html"><![CDATA[<p>This will be based on <a href="https://developer.mozilla.org/docs/Web/CSS/:-moz-focusring">the Mozilla feature</a>.</p>
+<p><a rel="full-article" href="https://github.com/w3c/csswg-drafts/pull/709">Read on GitHub&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[HTML 5.2: The Address Element]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/grouping-content/"/>
+				<updated>2016-12-15T16:24:20-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/grouping-content</id>
+				<content type="html"><![CDATA[<p>Wait, what? Physical addresses in the <code>address</code> element?!</p>
+<p><a rel="full-article" href="https://w3c.github.io/html/grouping-content.html#the-address-element">Read on W3C&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[WAI-ARIA Basics]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/WAI-ARIA_basics/"/>
+				<updated>2016-12-15T16:22:14-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/WAI-ARIA_basics</id>
+				<content type="html"><![CDATA[<p>A quick and dirty overview of how to make Accessible Rich Internet Applications.</p>
+<p><a rel="full-article" href="https://developer.mozilla.org/docs/Learn/Accessibility/WAI-ARIA_basics">Read on MDN&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Decision Frames: How Cognitive Biases Affect UX Practitioners]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/decision-framing-cognitive-bias-ux-pros/"/>
+				<updated>2016-12-15T15:54:05-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/decision-framing-cognitive-bias-ux-pros</id>
+				<content type="html"><![CDATA[<p>I love stuff like this!</p>
+
+<blockquote>
+<p>Imagine you are working on a website design, and have just completed a usability test with 20 users. One task involved using the website’s search function, so you now have a numerical measurement of how many users were able to find and use the search function.</p>
+<p>The task results could be stated in 2 different ways:</p>
+<ul>
+	<li><strong>4 out of 20 users could not find</strong> the search function on the website.</li>
+	<li><strong>16 out of 20 users found</strong> the search function on the website.</li>
+</ul>
+<p>Logically, both of these statements describe exactly the same result, which is an objective data point. But if you’re like most people, the <em>conclusions </em>you come to might be very different depending on which phrasing is used.</p>
+</blockquote>
+
+<p>Biases affect our work; awareness helps us mitigate them, to a degree.</p>
+<p><a rel="full-article" href="https://www.nngroup.com/articles/decision-framing-cognitive-bias-ux-pros/">Read on Nielsen Norman Group&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Writing HTML With Accessibility in Mind]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/writing-html-with-accessibility-in-mind-a62026493412/"/>
+				<updated>2016-12-15T15:52:18-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/writing-html-with-accessibility-in-mind-a62026493412</id>
+				<content type="html"><![CDATA[<p>Some great tips in here.</p>
+<p><a rel="full-article" href="https://medium.com/@matuzo/writing-html-with-accessibility-in-mind-a62026493412">Read on Manuel Matuzovic on Medium&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -127,108 +222,6 @@
 	
 		
 	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[iOS Doesn’t Support Progressive Web Apps, So What?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what/"/>
-				<updated>2016-10-26T11:13:17-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/ios-doesnt-support-progressive-web-apps-so-what</id>
-				<content type="html"><![CDATA[<p>As usual, Jason Grigsby nails it:</p>
-
-<ul>
-  <li>Progressive Web Apps still work on iOS</li>
-  <li>Progressive Web Apps perform better on iOS</li>
-  <li>Billions of people use browsers that support Progressive Web Apps</li>
-  <li>Apple appears to be warming to Progressive Web App technology</li>
-  <li>Progressive Web Apps benefit all users</li>
-</ul>
-
-<p>Done and done.</p>
-<p><a rel="full-article" href="https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/">Read on The Cloud Four Blog&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Technical Credit]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/technical-credit/"/>
-				<updated>2016-10-25T15:11:08-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/technical-credit</id>
-				<content type="html"><![CDATA[<p>This is an excellent post about progressive enhancement from the “technical credit” (as opposed to “technical debt”) point of view.</p>
-<p><a rel="full-article" href="https://www.stillbreathing.co.uk/2016/10/13/technical-credit">Read on Still Breathing&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Is Progressive Enhancement Over?]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa/"/>
-				<updated>2016-10-25T14:24:23-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/bd88e8cdfa</id>
-				<content type="html"><![CDATA[<p>This is an excellent missive from Nicholas covering the progressive enhancement debate.</p>
-
-<blockquote>
-  <p>First … progressive enhancement isn’t about having a JavaScript vs. JavaScript-disabled experience, it’s about providing the best possible user experience throughout the entire lifecycle of the web application. …</p>
-</blockquote>
-
-<blockquote>
-  <p>Second, progressive enhancement isn’t a strict prescription, it’s a way of thinking about the software you’re building. … Instead, it encourages you to think more deeply about the problem you’re trying to solve, and guides you towards solutions that work for the maximum number of users.</p>
-</blockquote>
-
-<blockquote>
-  <p>These two points are why I believe progressive enhancement is as relevant today as it has ever been. The only difference now is that we have more options for improving the user experience than ever before.</p>
-</blockquote>
-
-<p>I couldn’t have said it better myself.</p>
-<p><a rel="full-article" href="https://www.nczonline.net/newsletter/archive/bd88e8cdfa/">Read on NCZOnline Newsletter&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[A (Not So) Short Note on ARIA to the Rescue]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue/"/>
-				<updated>2016-10-25T11:31:24-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/a-not-so-short-note-on-aria-to-the-rescue</id>
-				<content type="html"><![CDATA[<p>Accessibility is hard. It’s a broad term encompassing a variety of special needs ranging from low vision and color blindness to motor impairment and language barriers (to name but a few) which means guaranteeing our projects are “100% accessible” is a significant challenge.</p>
-
-<p>Accessibility becomes even more of a challenge when you begin to factor in the dependency chain. Blind and low-vision users, for example, often use screen readers in order to access the Web. With screen readers, we need to consider the capabilities of both the browser <em>and</em> the screen reader being used. If either piece of software isn’t up to the task or contains a bug our users suffer for it.</p>
-
-<p>Getting multiple inter-dependent programs on the same page sometimes requires that we do things we’d rather not do. This post from Steve Faulkner chronicles one such case where the particular versions of Chrome and JAWS required for a project didn’t see eye-to-eye on the semantics of heading levels. He talks about the issue and the less-than-optimal fix he had to put in place to ensure users got the experience they were meant to.</p>
-<p><a rel="full-article" href="https://www.paciellogroup.com/blog/2016/10/a-not-so-short-note-on-aria-to-the-rescue/">Read on The Paciello Group&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Flex-grow 9999 Hack]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/flex-grow-9999-hack/"/>
-				<updated>2016-10-24T13:39:15-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/flex-grow-9999-hack</id>
-				<content type="html"><![CDATA[<p>Very clever bit of flexbox here for laying out text optimally when you don’t know its length.</p>
-
-<p>I don’t know that I would consider it a hack so much as pushing flexbox beyond what most people would even consider doing.</p>
-<p><a rel="full-article" href="http://joren.co/flex-grow-9999-hack/">Read on Flex-grow 9999 Hack&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Refreshing the Verge]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/refreshing-the-verge-no-platform-like-home/"/>
-				<updated>2016-10-24T13:29:55-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/refreshing-the-verge-no-platform-like-home</id>
-				<content type="html"><![CDATA[<p>I love how Mandy deftly wove progressive enhancement into her content strategy and publishing discussion:</p>
-
-<blockquote>
-  <p>Perhaps ironically, we’ve found that the best way to create that resiliency is by harking back to the web principle of <em>progressive enhancement</em>: each story created in Chorus begins as a platform-neutral collection of text, images, and video. That foundation ensures that we can publish that story as easily to our own platform as to, say, AMP or Apple News, and be confident that our audience will experience that story in a way that fits whichever platform they are using. On our own platform, we’re then free to enhance up, adding stylistic or experiential flairs that elevate the experience of the story. This practice — which I refer to unoriginally as <em>progressively enhanced storytelling</em> — also has the added benefit of helping us make our content more accessible to more kinds of users, especially those with disabilities. (It wouldn’t be inaccurate to consider speaking browsers one among the many platforms we must publish to.)</p>
-</blockquote>
-<p><a rel="full-article" href="http://www.theverge.com/2016/10/21/13331208/refreshing-the-verge-no-platform-like-home">Read on The Verge&nbsp;&rarr;</a></p>]]></content>
-			</entry>
 		
 	
 </feed>
