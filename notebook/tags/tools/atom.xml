@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Tools | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/tools/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2016-12-15T20:01:29-05:00</updated>
+  <updated>2017-01-03T15:41:20-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -18,7 +18,7 @@
     <link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
     <updated>2016-10-25T15:15:01-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
-    <content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt=""></figure>
+    <content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container">{% adaptive_image /i/posts/2016-10-25/webbloatscore.png %}</figure>
 
 <p>The <a href="http://www.webbloatscore.com/">Web Bloat Score Calculator</a> has been making the rounds on Twitter and I wanted to share my immediate thoughts on it.</p>
 
@@ -95,7 +95,7 @@
 
 <p>Here’s a video of me playing around with the default <code>transform</code> stack:</p>
 
-<p><figure id="fig-114921831" class="figure figure--video"><div class="video-embed video-embed--vimeo video-embed--16x9"><a class="video-embed__lazy-link" style="background-image:url(https://i.vimeocdn.com/video/500772734_1280.jpg)" href="//vimeo.com/114921831" data-lazy-video-src="//player.vimeo.com/video/114921831?autoplay=1"><div class="video-embed__lazy-div"></div><div class="video-embed__lazy-info">Dissecting CSS3 Transforms</div></a></div></figure></p>
+<p>{% vimeo 114921831 %}</p>
 
 <p>Have a play and let me know your thoughts. I hope you find this tool as helpful as I (and my students) have.</p>
 ]]></content>
