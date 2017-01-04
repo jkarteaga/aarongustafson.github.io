@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-15T20:01:29-05:00</updated>
+	<updated>2017-01-04T12:51:58-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,92 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Does Google Execute JavaScript?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/does-google-execute-javascript/"/>
+				<updated>2017-01-03T15:55:36-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/does-google-execute-javascript</id>
+				<content type="html"><![CDATA[<p>Maybe.</p>
+<p><a rel="full-article" href="https://www.stephanboyer.com/post/122/does-google-execute-javascript">Read on Stephan Boyer&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Maker Series Recap: Aaron Gustafson]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/maker_series_aaron_gustafson/"/>
+				<updated>2017-01-03T15:36:42-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/maker_series_aaron_gustafson</id>
+				<content type="html"><![CDATA[<p>This is an excellent recap of my recent <a href="http://buildright.io/maker-series/">Maker Series</a> workshop. Thanks for participating Philip!</p>
+<p><a rel="full-article" href="https://seesparkbox.com/foundry/maker_series_aaron_gustafson">Read on Sparkbox&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Accessible Emoji, Tweaked]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/accessible-emoji-tweaked/"/>
+				<updated>2017-01-03T15:32:33-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/accessible-emoji-tweaked</id>
+				<content type="html"><![CDATA[<p>Tooltips for emoji… I love this!</p>
+<p><a rel="full-article" href="http://adrianroselli.com/2016/12/accessible-emoji-tweaked.html">Read on Adrian Roselli&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Duplicate IDs in Responsive Webpage]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/duplicate-ids/"/>
+				<updated>2017-01-03T15:29:42-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/duplicate-ids</id>
+				<content type="html"><![CDATA[<p>A little experiment:</p>
+
+<blockquote>
+  <p>The purpose of this page is to demonstrate that duplicate IDs can have real consequences even when only one view can ever be visible at any given time.</p>
+</blockquote>
+<p><a rel="full-article" href="http://a11yideas.com/testcode/mwp/duplicate-ids.html">Read on A11y Ideas&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[A Cautionary Tale: DOJ Intervenes in Another Web Accessibility Lawsuit]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/a-cautionary-tale-doj-intervenes-in-35737/"/>
+				<updated>2017-01-03T14:34:34-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/a-cautionary-tale-doj-intervenes-in-35737</id>
+				<content type="html"><![CDATA[<p>Supermarket chain Winn Dixie claims that Title III of the Americans with Disabilities Act doesn’t apply online in <em>Gil v. Winn Dixie</em> and the U.S. Department of Justice steps in to set them straight:</p>
+
+<blockquote>
+  <p>In response to Winn-Dixie’s position that Title III applies only to its physical location. DOJ cited the language of the ADA which says that “Title III applies to discrimination in the goods and services ‘of’ a place of public accommodation, rather than being limited to those goods and services provided ‘at’ or ‘in’ a place of public accommodation.”  DOJ also argued Title III’s application to the website at issue is consistent with every other court decision to have addressed the coverage of websites with a nexus to brick and mortar locations.</p>
+</blockquote>
+
+<p><a rel="full-article" href="http://www.jdsupra.com/legalnews/a-cautionary-tale-doj-intervenes-in-35737/">Read on Seyfarth Shaw LLP&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Writing for 9 Year Olds? Six Expert Tips for Creating Great Accessible Web Content for Everyone]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/writing-9-year-olds-six-expert-tips-creating-great-accessible-web-content-everyone/"/>
+				<updated>2017-01-03T14:31:39-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/writing-9-year-olds-six-expert-tips-creating-great-accessible-web-content-everyone</id>
+				<content type="html"><![CDATA[<p>This brief post includes some great tips on writing for readers, regardless of their actual age or reading level.</p>
+<p><a rel="full-article" href="https://www.abilitynet.org.uk/news-blogs/writing-9-year-olds-six-expert-tips-creating-great-accessible-web-content-everyone">Read on AbilityNet&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[NVDA 2016.4 Now Available]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/nvda-2016-4-now-available/"/>
+				<updated>2017-01-03T14:28:47-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/nvda-2016-4-now-available</id>
+				<content type="html"><![CDATA[<p>A new version of the NVDA screen reader came out just before the holidays and features better Windows 10 integration (including better Edge support).</p>
+<p><a rel="full-article" href="http://www.nvaccess.org/post/nvda-2016-4-now-available/">Read on NV Access&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -42,7 +128,7 @@
 	
 		
 			<entry>
-				<title type="html"><![CDATA[The :focusing Selector Is Coming to CSS]]></title>
+				<title type="html"><![CDATA[The :focusring Selector Is Coming to CSS]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/709/"/>
 				<updated>2016-12-15T16:28:30-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/709</id>
@@ -151,75 +237,6 @@
 				<content type="html"><![CDATA[<p>Jeremy Keith’s latest book. Free to read on any device you own. Installable as a progressive web app too (naturally).</p>
 <p><a rel="full-article" href="https://resilientwebdesign.com/">Read on Jeremy Keith&nbsp;&rarr;</a></p>]]></content>
 			</entry>
-		
-	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Barnes & Noble $50 Nook Tablet Will Ship on Black Friday]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/"/>
-				<updated>2016-11-22T12:27:00-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday</id>
-				<content type="html"><![CDATA[<p>The Nook returns with stock Android to compete with Amazon’s closed Fire ecosystem.</p>
-<p><a rel="full-article" href="https://teleread.org/2016/11/16/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/">Read on TeleRead&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[ClickClickClick]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/clickclickclick/"/>
-				<updated>2016-11-22T12:24:39-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/clickclickclick</id>
-				<content type="html"><![CDATA[<p>Ever wonder if websites can track your every move?</p>
-
-<p>Privacy matters.</p>
-<p><a rel="full-article" href="https://clickclickclick.click/">Read on ClickClickClick&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Les Défis Du “progressive Enhancement”]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement/"/>
-				<updated>2016-11-22T12:09:54-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement</id>
-				<content type="html"><![CDATA[<p>This is a nice overview (in French) of how <a href="https://www.hopwork.com">Hopwork</a> handles progressive enhancement in their SaaS product. Their back-end is Java too. It’s nice to see folks talking about how to progressively enhance products in that language; we don’t hear about that often enough.</p>
-<p><a rel="full-article" href="https://inside.hopwork.com/les-defis-du-progressive-enhancement/">Read on &nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Adaptive + Responsive Web Design]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design/"/>
-				<updated>2016-11-22T12:07:42-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design</id>
-				<content type="html"><![CDATA[<p>A nice overview (in Dutch) of why you should combine progressive enhancement with RWD.</p>
-<p><a rel="full-article" href="https://mediaweb.nl/blog/adaptive-responsive-web-design/">Read on Mediaweb&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[I Totally Forgot About Print Style Sheets]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6/"/>
-				<updated>2016-11-22T11:59:26-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6</id>
-				<content type="html"><![CDATA[<p>This is an excellent summary of print style recommendations from <a href="https://medium.com/@matuzo">Manuel Matuzovic</a>. I’m glad I wrote <a href="https://twitter.com/aarongustafson/status/788073583528538112">the tweet that prompted it</a> :-)</p>
-
-<p>See also:</p>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">good plan:<br /><br />&lt;svg width=“20px” height=“20px” … &gt;<br /><br />you can easily override with CSS and it prevents… (see image)<a href="https://t.co/TcgKHL0R60">https://t.co/TcgKHL0R60</a></p>&mdash; Chris Coyier (@chriscoyier) <a href="https://twitter.com/chriscoyier/status/799294264446287872">November 17, 2016</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/Indiegogo">@Indiegogo</a>, here’s a 3½-year-old primer on print styles: <a href="https://t.co/NPtrFBurBy">https://t.co/NPtrFBurBy</a><br />Context: <a href="https://t.co/oLLxt9jIaR">https://t.co/oLLxt9jIaR</a></p>&mdash; Adrian Roselli 🗯 (@aardrian) <a href="https://twitter.com/aardrian/status/799297274375380992">November 17, 2016</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-<p><a rel="full-article" href="https://medium.com/@matuzo/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.6f637cbld">Read on Manuel Matuzovic on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
 		
 	
 		

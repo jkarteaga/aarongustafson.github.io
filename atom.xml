@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson Latest Posts &amp; Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2016-12-15T20:01:29-05:00</updated>
+	<updated>2017-01-04T12:51:58-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,92 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Does Google Execute JavaScript?]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/does-google-execute-javascript/"/>
+				<updated>2017-01-03T15:55:36-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/does-google-execute-javascript</id>
+				<content type="html"><![CDATA[<p>Maybe.</p>
+<p><a rel="full-article" href="https://www.stephanboyer.com/post/122/does-google-execute-javascript">Read on Stephan Boyer&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Maker Series Recap: Aaron Gustafson]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/maker_series_aaron_gustafson/"/>
+				<updated>2017-01-03T15:36:42-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/maker_series_aaron_gustafson</id>
+				<content type="html"><![CDATA[<p>This is an excellent recap of my recent <a href="http://buildright.io/maker-series/">Maker Series</a> workshop. Thanks for participating Philip!</p>
+<p><a rel="full-article" href="https://seesparkbox.com/foundry/maker_series_aaron_gustafson">Read on Sparkbox&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Accessible Emoji, Tweaked]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/accessible-emoji-tweaked/"/>
+				<updated>2017-01-03T15:32:33-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/accessible-emoji-tweaked</id>
+				<content type="html"><![CDATA[<p>Tooltips for emoji… I love this!</p>
+<p><a rel="full-article" href="http://adrianroselli.com/2016/12/accessible-emoji-tweaked.html">Read on Adrian Roselli&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Duplicate IDs in Responsive Webpage]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/duplicate-ids/"/>
+				<updated>2017-01-03T15:29:42-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/duplicate-ids</id>
+				<content type="html"><![CDATA[<p>A little experiment:</p>
+
+<blockquote>
+  <p>The purpose of this page is to demonstrate that duplicate IDs can have real consequences even when only one view can ever be visible at any given time.</p>
+</blockquote>
+<p><a rel="full-article" href="http://a11yideas.com/testcode/mwp/duplicate-ids.html">Read on A11y Ideas&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: A Cautionary Tale: DOJ Intervenes in Another Web Accessibility Lawsuit]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/a-cautionary-tale-doj-intervenes-in-35737/"/>
+				<updated>2017-01-03T14:34:34-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/a-cautionary-tale-doj-intervenes-in-35737</id>
+				<content type="html"><![CDATA[<p>Supermarket chain Winn Dixie claims that Title III of the Americans with Disabilities Act doesn’t apply online in <em>Gil v. Winn Dixie</em> and the U.S. Department of Justice steps in to set them straight:</p>
+
+<blockquote>
+  <p>In response to Winn-Dixie’s position that Title III applies only to its physical location. DOJ cited the language of the ADA which says that “Title III applies to discrimination in the goods and services ‘of’ a place of public accommodation, rather than being limited to those goods and services provided ‘at’ or ‘in’ a place of public accommodation.”  DOJ also argued Title III’s application to the website at issue is consistent with every other court decision to have addressed the coverage of websites with a nexus to brick and mortar locations.</p>
+</blockquote>
+
+<p><a rel="full-article" href="http://www.jdsupra.com/legalnews/a-cautionary-tale-doj-intervenes-in-35737/">Read on Seyfarth Shaw LLP&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: Writing for 9 Year Olds? Six Expert Tips for Creating Great Accessible Web Content for Everyone]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/writing-9-year-olds-six-expert-tips-creating-great-accessible-web-content-everyone/"/>
+				<updated>2017-01-03T14:31:39-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/writing-9-year-olds-six-expert-tips-creating-great-accessible-web-content-everyone</id>
+				<content type="html"><![CDATA[<p>This brief post includes some great tips on writing for readers, regardless of their actual age or reading level.</p>
+<p><a rel="full-article" href="https://www.abilitynet.org.uk/news-blogs/writing-9-year-olds-six-expert-tips-creating-great-accessible-web-content-everyone">Read on AbilityNet&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Link: NVDA 2016.4 Now Available]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/nvda-2016-4-now-available/"/>
+				<updated>2017-01-03T14:28:47-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/nvda-2016-4-now-available</id>
+				<content type="html"><![CDATA[<p>A new version of the NVDA screen reader came out just before the holidays and features better Windows 10 integration (including better Edge support).</p>
+<p><a rel="full-article" href="http://www.nvaccess.org/post/nvda-2016-4-now-available/">Read on NV Access&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -42,7 +128,7 @@
 	
 		
 			<entry>
-				<title type="html"><![CDATA[Link: The :focusing Selector Is Coming to CSS]]></title>
+				<title type="html"><![CDATA[Link: The :focusring Selector Is Coming to CSS]]></title>
 				<link href="https://www.aaron-gustafson.com/notebook/links/709/"/>
 				<updated>2016-12-15T16:28:30-05:00</updated>
 				<id>https://www.aaron-gustafson.com/notebook/links/709</id>
@@ -467,792 +553,6 @@
   <ol>
     <li id="fn:1">
       <p>Of course, last I checked, over 55% of the Web was in English and just shy of 12% of the world speaks English, so… <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Barnes & Noble $50 Nook Tablet Will Ship on Black Friday]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/"/>
-				<updated>2016-11-22T12:27:00-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday</id>
-				<content type="html"><![CDATA[<p>The Nook returns with stock Android to compete with Amazon’s closed Fire ecosystem.</p>
-<p><a rel="full-article" href="https://teleread.org/2016/11/16/barnes-noble-50-nook-tablet-7-will-ship-on-black-friday/">Read on TeleRead&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: ClickClickClick]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/clickclickclick/"/>
-				<updated>2016-11-22T12:24:39-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/clickclickclick</id>
-				<content type="html"><![CDATA[<p>Ever wonder if websites can track your every move?</p>
-
-<p>Privacy matters.</p>
-<p><a rel="full-article" href="https://clickclickclick.click/">Read on ClickClickClick&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Les Défis Du “progressive Enhancement”]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement/"/>
-				<updated>2016-11-22T12:09:54-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/les-defis-du-progressive-enhancement</id>
-				<content type="html"><![CDATA[<p>This is a nice overview (in French) of how <a href="https://www.hopwork.com">Hopwork</a> handles progressive enhancement in their SaaS product. Their back-end is Java too. It’s nice to see folks talking about how to progressively enhance products in that language; we don’t hear about that often enough.</p>
-<p><a rel="full-article" href="https://inside.hopwork.com/les-defis-du-progressive-enhancement/">Read on &nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: Adaptive + Responsive Web Design]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design/"/>
-				<updated>2016-11-22T12:07:42-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/adaptive-responsive-web-design</id>
-				<content type="html"><![CDATA[<p>A nice overview (in Dutch) of why you should combine progressive enhancement with RWD.</p>
-<p><a rel="full-article" href="https://mediaweb.nl/blog/adaptive-responsive-web-design/">Read on Mediaweb&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Link: I Totally Forgot About Print Style Sheets]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6/"/>
-				<updated>2016-11-22T11:59:26-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/i-totally-forgot-about-print-style-sheets-f1e6604cfd6</id>
-				<content type="html"><![CDATA[<p>This is an excellent summary of print style recommendations from <a href="https://medium.com/@matuzo">Manuel Matuzovic</a>. I’m glad I wrote <a href="https://twitter.com/aarongustafson/status/788073583528538112">the tweet that prompted it</a> :-)</p>
-
-<p>See also:</p>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">good plan:<br /><br />&lt;svg width=“20px” height=“20px” … &gt;<br /><br />you can easily override with CSS and it prevents… (see image)<a href="https://t.co/TcgKHL0R60">https://t.co/TcgKHL0R60</a></p>&mdash; Chris Coyier (@chriscoyier) <a href="https://twitter.com/chriscoyier/status/799294264446287872">November 17, 2016</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/Indiegogo">@Indiegogo</a>, here’s a 3½-year-old primer on print styles: <a href="https://t.co/NPtrFBurBy">https://t.co/NPtrFBurBy</a><br />Context: <a href="https://t.co/oLLxt9jIaR">https://t.co/oLLxt9jIaR</a></p>&mdash; Adrian Roselli 🗯 (@aardrian) <a href="https://twitter.com/aardrian/status/799297274375380992">November 17, 2016</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-<p><a rel="full-article" href="https://medium.com/@matuzo/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.6f637cbld">Read on Manuel Matuzovic on Medium&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Post: Ten Years on Twitter]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/ten-years-on-twitter/"/>
-				<updated>2016-11-10T00:22:07-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/ten-years-on-twitter</id>
-				<content type="html"><![CDATA[<p>Ten years ago today:</p>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Signing up for Twitter</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/61946">November 10, 2006</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<p>Wow. It’s hard to believe it’s been that long. User #12,028 (back when they were still sequential).</p>
-
-<!-- more -->
-
-<p>If memory serves, <a href="https://twitter.com/adactio">Jeremy Keith</a> was the first to suggest I join Twitter. Jeremy and I had met for the first time at SXSW in 2005 and became fast friends. That was the same year I met <a href="https://twitter.com/andybudd">Andy Budd</a>, <a href="https://twitter.com/clagnut">Richard Rutter</a>, <a href="https://twitter.com/zeldman">Jeffrey Zeldman</a>, <a href="https://twitter.com/meyerweb">Eric Meyer</a>, <a href="https://twitter.com/shauninman">Shaun Inman</a>, <a href="https://twitter.com/jenseninman">Leslie Jensen</a> (pre-Inman), <a href="https://twitter.com/jasonsantamaria">Jason Santa Maria</a>, <a href="https://twitter.com/RobWeychert">Rob Weychert</a>, <a href="https://twitter.com/sil">Stuart Langridge</a>, <a href="https://twitter.com/malarkey">Andrew (née Andy “Malarkey”) Clarke</a>, <a href="https://twitter.com/hicksdesign">Jon Hicks</a>, <a href="https://twitter.com/t">Tantek Çelik</a>, <a href="https://twitter.com/goodwitch">Glenda Sims</a>, and so many more amazing (and influential) web designers. We became quite the posse and dutifully packed the mezzanine of the Hampton Inn each and every morning before the conference started and generally pal-ed around throughout the week. Then we all returned to our respective locales and prepared to do it all over again the next year.</p>
-
-<p>As I mentioned, I think Jeremy was the first to suggest I try out the burgeoning service our friends <a href="https://twitter.com/biz">Biz</a> and <a href="https://twitter.com/ev">Ev</a> had come up with. We all knew Ev from <a href="https://en.wikipedia.org/wiki/Blogger_(service)">Blogger</a> and he &amp; Biz had worked together on <a href="https://en.wikipedia.org/wiki/Odeo">Odeo</a> (a podcasting service that was <em>way</em> before its time) too. Together, under the moniker “Obvious Corp.”, they had just rolled out a new messaging service called “Twttr” (because who needs vowels). It later spun out of Obvious Corp. as “Twitter”.</p>
-
-<p>Twitter filled a very interesting niche for me back in those days, but I didn’t really notice how much until we all returned to SXSW in 2007. When we had regrouped in 2006, we had spent a lot of time catching up on the developments in our lives that had taken place in the intervening year (at least those we hadn’t blogged about). 2007, however, was different.</p>
-
-<p>By the time SXSW rolled around in March of that year, we’d all been actively using Twitter for nearly six months. And because so few people were on Twitter at the time <em>and</em> we all followed each other, it was quite easy to keep up-to-date with what was going on in everyones’ lives. Twitter created this sort of <em>ambient awareness</em> of everything important that was going on with the folks in the group. So when we returned to Austin in March of 2007, we didn’t spend any time catching up on the events of the intervening year because we didn’t need to. We already knew and were able to pick right up as though we hadn’t missed a beat. It was a pretty amazing feeling and played a big part in my falling in love with Twitter.</p>
-
-<p>That love affair continued for years. My relationships with my friends deepened and our collective relationship with Twitter deepened. I don’t think anything illustrates that more than my good friends <a href="https://twitter.com/stefsull">Stephanie</a> and <a href="https://twitter.com/garazi">Greg</a> getting engaged via the service (yes, <a href="https://www.wired.com/2008/03/true-story-of-a/">they were the first</a>):</p>
-
-<div class="embed tweet"><blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/stefsull">@stefsull</a> - ok. for the rest of the twitter-universe (and this is a first, folks) - WILL YOU MARRY ME?</p>&mdash; Greg Rewis (@garazi) <a href="https://twitter.com/garazi/status/765929392">March 3, 2008</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<div class="embed tweet"><blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/garazi">@garazi</a> - OMG - Ummmmm... I guess in front of the whole twitter-verse I&#39;ll say--I&#39;d be happy to spend the rest of my geek life with you...</p>&mdash; Stephanie Rewis (@stefsull) <a href="https://twitter.com/stefsull/status/765930175">March 3, 2008</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<hr />
-
-<p>In the past decade, Twitter has changed dramatically. Most of us, with the exception of <a href="https://twitter.com/briansuda">Brian</a>, moved away from tweeting in the third person. Here’s my transition (circa 2012… I tweeted for nearly 6 years in the third person!):</p>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">has decided, after much internal debate &amp; consideration of your thoughts, to abandon 3rd person tweeting style. <a href="https://twitter.com/hashtag/3pT?src=hash">#3pT</a> will be the transition.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258639664947273729">October 17, 2012</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You are confused and confounded by this move and wonder why <a href="https://twitter.com/AaronGustafson">@aarongustafson</a> did it. Perplexed, you scratch your head.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258639921940688896">October 17, 2012</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">When it came down to it, I decided it was about you, my readers, more so than my enjoyment of the mental exercise of writing 3rd person.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258640188631310336">October 17, 2012</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<div class="embed tweet"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The truth is that while I love writing and 3rd person was fun, this change will let me play with other authoring styles.</p>&mdash; Aaron Gustafson (@AaronGustafson) <a href="https://twitter.com/AaronGustafson/status/258640798663454720">October 17, 2012</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<p>Ideas we played with, like <a href="https://twitter.com/chrismessina/status/223115412">Chris’ suggestion that we add tagging to our tweets</a>, <a href="http://microformats.org/wiki/twitter-syntax#Messages">“d” messages</a>, <a href="https://twitter.com/rsa/status/55281">at-mentions</a>, and <a href="https://twitter.com/ericrice/status/31669791">Retweets</a> (later, <a href="https://twitter.com/TDavid/status/641334922">RTs</a>) changed from things we did as a matter of necessity while using the service to integral pieces of “Twitter the Platform”.</p>
-
-<p>In the past decade, the culture of Twitter has also changed. When we were starting out, there was this great feeling of solidarity, togetherness. Twitter was a huge public commons where we were all friendly and respectful, even when we disagreed. In the intervening years (the last few perhaps even moreso), however, Twitter has become this wedge that seems to be driving our society apart. The decisive, bile-and-hatred fueled posts, rampant bigotry, threats of violence, and gross intolerance has become such a downer that each year I pull back a little more. I don’t browse the public stream anymore; I can’t deal with it. I have reduced the number of people I follow and have become more dependent on lists and tools like <a href="http://tapbots.com/tweetbot/">Tweetbot</a> and <a href="https://tweetdeck.twitter.com/">TweetDeck</a> to help me identify the shallows of Twitter I’m interested in wading into. Don’t get me wrong, Twitter still manages to prove its value every now and again. It can absolutely be a force for good, but like so many things that work well in their ideal state, us messy humans have come along and fucked it all up.</p>
-
-<p>In the past decade, Twitter itself has also fundamentally changed. I remember being gobsmacked when I visited the service’s ginormous San Francisco headquarters last year and saw the massive number of people working there. It made me pine for the days when I used to duck out of Adaptive Path’s SoMa office two grab lunch with the 12 (!) people who were running Twitter at the time. Twitter looks all grown up, but to me it still seems like it’s going through a painful adolescence, unsure of what it wants to be. I hope it can find its way, but I’m uncertain if our relationship will survive that.</p>
-
-<hr />
-
-<p>Ten years in, I am still in love with Twitter, but I’m unsure if that love is for the service it has become or if it’s simply a manifestation of my nostalgia. I guess time will tell.</p>
-
-<p><em>Jeremy Keith also recently celebrated his first decade on Twitter. You should definitely read <a href="https://adactio.com/journal/11436">his thoughts &amp; recollections too.</a></em></p>
-]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Post: Mac-like Special Characters in Windows]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows/"/>
-				<updated>2016-11-02T11:59:42-04:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows</id>
-				<content type="html"><![CDATA[<p>I am a bit of a geek for proper punctuation: Em dashes… en dashes… curly quotes… ellipses… I love them all! Prior to 2007, I was a long-time Windows user and was a master of the <kbd>Alt + <var>numeric code</var></kbd> system of entering special characters on that operating system.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> For nearly a decade, however, I’ve been writing and developing on a Mac and I absolutely love how much easier it is to use special characters.  When I started setting up my new Surface Book, I began searching for a way to bring Mac-like special character entry to Windows 10.</p>
-
-<!-- more -->
-
-<p><em>Disclaimer: I take absolutely no credit for the code you see below. I will give full credit to the sources as I discuss each. I just wanted to bring it all into one place so it’ll save you a few hours of research to get everything working.</em></p>
-
-<h2 id="step-1-set-up-autohotkey">Step 1: Set up AutoHotKey</h2>
-
-<p><a href="https://thejournal.com/articles/2016/01/26/how-to-create-keyboard-shortcuts-for-special-characters-in-windows-10.aspx">David Nagel’s solid article on mapping keystrokes in Windows</a>, I introduced me to <a href="https://autohotkey.com/">AutoHotKey</a>. It’s an incredibly powerful program that’s like the lovechild of <a href="https://textexpander.com/">TextExpander</a> and <a href="https://qsapp.com/">Quicksilver</a>.</p>
-
-<p>In his article, David walks through the process of getting set up with AutoHotKey:</p>
-
-<ol>
-  <li><a href="https://autohotkey.com/download/">Download</a> &amp; install it.</li>
-  <li>Create a new <code>.ahk</code> file (<samp>New &gt; AutoHotKey Script</samp> in Windows Explorer) and name it whatever you like.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></li>
-  <li>Right-click the script, and choose <samp>Edit Script</samp> from the context menu.</li>
-  <li>Enter some keyboard shortcuts (more on that in a moment).</li>
-  <li>Save the script. I chose to save it to Dropbox to make it portable.</li>
-  <li>Double click it to run the script.</li>
-  <li>Open up your favorite writing tool and see your handiwork in action.</li>
-</ol>
-
-<h2 id="step-2-create-some-shortcuts">Step 2: Create some shortcuts</h2>
-
-<p>AutoHotKey is completely scriptable and adding shortcuts is relatively straightforward. There are a few reserved characters, but once you understand what they are it’s pretty easy to get going very quickly. Here’s Dave’s intro example:</p>
-
-<div><link rel="stylesheet" href="https://assets-cdn.github.com/assets/gist-embed-9ec60d02ee0eb30530c9c2d12055b82db581fbb13b64b807fd63df9cd276d21b.css" />
-<div id="gist41513130" class="gist">
-    <div class="gist-file">
-      <div class="gist-data">
-        <div class="js-gist-file-update-container js-task-list-container file-box">
-  <div id="file-sample-ahk" class="file">
-    
-
-  <div itemprop="text" class="blob-wrapper data type-autohotkey">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="file-sample-ahk-L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="file-sample-ahk-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!-</span>::–</td>
-      </tr>
-      <tr>
-        <td id="file-sample-ahk-L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="file-sample-ahk-LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!+-</span>::—</td>
-      </tr>
-</table>
-
-  </div>
-
-  </div>
-  
-</div>
-
-      </div>
-      <div class="gist-meta">
-        <a href="https://gist.github.com/aarongustafson/f59fead5a44734d31a20106d79d41c98/raw/15e07d97b499eb92a6b8a8078d6cb84dc7261622/sample.ahk" style="float:right">view raw</a>
-        <a href="https://gist.github.com/aarongustafson/f59fead5a44734d31a20106d79d41c98#file-sample-ahk">sample.ahk</a>
-        hosted with &#10084; by <a href="https://github.com">GitHub</a>
-      </div>
-    </div>
-</div>
-
-</div>
-
-<p>In AutoHotKey scripting, “!” stands in for <kbd>Alt</kbd> and “+” stands in for <kbd>Shift</kbd>. So, to translate:</p>
-
-<ol>
-  <li><kbd>Alt + -</kbd> will produce an en dash (–)</li>
-  <li><kbd>Shift Alt + -</kbd> will produce an em dash (—)</li>
-</ol>
-
-<p>With these two examples, I was able to jump right in and map many of the most common shortcuts I use while writing. Before I got too far, however, I realized I really needed accents, umlauts, and the like. I searched some more and eventually discovered <a href="https://autohotkey.com/board/topic/27801-special-characters-osx-style">a post in the AutoHotKey forum archive by “Veil” from way back in 2008</a>.</p>
-
-<p>Veil broke his solution into two parts, but I’ve combined them here to make it easier for your to copy into your AutoHotKey script file. This code has provided everything I’ve needed so far, so Veil—wherever you are—<strong>thank you</strong>!</p>
-
-<div><link rel="stylesheet" href="https://assets-cdn.github.com/assets/gist-embed-9ec60d02ee0eb30530c9c2d12055b82db581fbb13b64b807fd63df9cd276d21b.css" />
-<div id="gist41513130" class="gist">
-    <div class="gist-file">
-      <div class="gist-data">
-        <div class="js-gist-file-update-container js-task-list-container file-box">
-  <div id="file-osx-special-chars-ahk" class="file">
-    
-
-  <div itemprop="text" class="blob-wrapper data type-autohotkey">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="file-osx-special-chars-ahk-L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="file-osx-special-chars-ahk-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">#UseHook</span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="file-osx-special-chars-ahk-LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!VKC0SC029</span>::<span class="pl-k">Return</span>  ; grave <span class="pl-k">-</span>&gt; the grave ` accent gave some probs, used the virtualkey <span class="pl-k">+</span> scancode instead</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="file-osx-special-chars-ahk-LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!e</span>::<span class="pl-k">Return</span>          ; acute</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="file-osx-special-chars-ahk-LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!i</span>::<span class="pl-k">Return</span>          ; circumflex</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="file-osx-special-chars-ahk-LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!t</span>::<span class="pl-k">Return</span>          ; tilde</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="file-osx-special-chars-ahk-LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-en">!u</span>::<span class="pl-k">Return</span>          ; umlaut</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="file-osx-special-chars-ahk-LC7" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="file-osx-special-chars-ahk-LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">;                  1 2 3 4 5 6 7 8 9 1</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="file-osx-special-chars-ahk-LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">;                                    0</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="file-osx-special-chars-ahk-LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">;              r   g G a A c C t T u U</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="file-osx-special-chars-ahk-LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*a</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>a<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>à,À,á,Á,â,Â,ã,Ã,ä,Ä<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="file-osx-special-chars-ahk-LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*e</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>e<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>è,È,é,É,ê,Ê,e,E,ë,Ë<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="file-osx-special-chars-ahk-LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*i</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>i<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>ì,Ì,í,Í,î,Î,i,I,ï,Ï<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="file-osx-special-chars-ahk-LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*o</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>o<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>ò,Ò,ó,Ó,ô,Ô,õ,Õ,ö,Ö<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="file-osx-special-chars-ahk-LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*u</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>u<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>ù,Ù,ú,Ú,û,Û,u,U,ü,Ü<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="file-osx-special-chars-ahk-LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*n</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>n<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>n,N,n,N,n,N,ñ,Ñ,n,N<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="file-osx-special-chars-ahk-LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*y</span>::diacritic(<span class="pl-s"><span class="pl-pds">&quot;</span>y<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>y,Y,y,Y,y,Y,y,Y,ÿ,Ÿ<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="file-osx-special-chars-ahk-LC18" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="file-osx-special-chars-ahk-LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-en">diacritic</span>(<span class="pl-s">regular,accentedCharacters</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="file-osx-special-chars-ahk-LC20" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">StringSplit</span>, char, accentedCharacters, `,</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="file-osx-special-chars-ahk-LC21" class="blob-code blob-code-inner js-file-line">	graveOption            := char1</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="file-osx-special-chars-ahk-LC22" class="blob-code blob-code-inner js-file-line">	graveShiftOption       := char2</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="file-osx-special-chars-ahk-LC23" class="blob-code blob-code-inner js-file-line">	acuteOption            := char3</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="file-osx-special-chars-ahk-LC24" class="blob-code blob-code-inner js-file-line">	acuteShiftOption       := char4</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="file-osx-special-chars-ahk-LC25" class="blob-code blob-code-inner js-file-line">	circumflexOption       := char5</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="file-osx-special-chars-ahk-LC26" class="blob-code blob-code-inner js-file-line">	circumflexShiftOption  := char6</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="file-osx-special-chars-ahk-LC27" class="blob-code blob-code-inner js-file-line">	tildeOption            := char7</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="file-osx-special-chars-ahk-LC28" class="blob-code blob-code-inner js-file-line">	tildeShiftOption       := char8</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="file-osx-special-chars-ahk-LC29" class="blob-code blob-code-inner js-file-line">	umlautOption           := char9</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="file-osx-special-chars-ahk-LC30" class="blob-code blob-code-inner js-file-line">	umlautShiftOption      := char10</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="file-osx-special-chars-ahk-LC31" class="blob-code blob-code-inner js-file-line">	</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="file-osx-special-chars-ahk-LC32" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (<span class="pl-c1">A_PriorHotKey</span> = <span class="pl-s"><span class="pl-pds">&quot;</span>!VKC0SC029<span class="pl-pds">&quot;</span></span> <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">A_TimeSincePriorHotkey</span> &lt; <span class="pl-c1">2000</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="file-osx-special-chars-ahk-LC33" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="file-osx-special-chars-ahk-LC34" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % graveShiftOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="file-osx-special-chars-ahk-LC35" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="file-osx-special-chars-ahk-LC36" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % graveOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="file-osx-special-chars-ahk-LC37" class="blob-code blob-code-inner js-file-line">		}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="file-osx-special-chars-ahk-LC38" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">else</span> if (<span class="pl-c1">A_PriorHotKey</span> = <span class="pl-s"><span class="pl-pds">&quot;</span>!e<span class="pl-pds">&quot;</span></span> <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">A_TimeSincePriorHotkey</span> &lt; <span class="pl-c1">2000</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="file-osx-special-chars-ahk-LC39" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="file-osx-special-chars-ahk-LC40" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % acuteShiftOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="file-osx-special-chars-ahk-LC41" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="file-osx-special-chars-ahk-LC42" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % acuteOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="file-osx-special-chars-ahk-LC43" class="blob-code blob-code-inner js-file-line">		}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="file-osx-special-chars-ahk-LC44" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">else</span> if (<span class="pl-c1">A_PriorHotKey</span> = <span class="pl-s"><span class="pl-pds">&quot;</span>!i<span class="pl-pds">&quot;</span></span> <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">A_TimeSincePriorHotkey</span> &lt; <span class="pl-c1">2000</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="file-osx-special-chars-ahk-LC45" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="file-osx-special-chars-ahk-LC46" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % circumflexShiftOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="file-osx-special-chars-ahk-LC47" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="file-osx-special-chars-ahk-LC48" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % circumflexOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="file-osx-special-chars-ahk-LC49" class="blob-code blob-code-inner js-file-line">		}		</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="file-osx-special-chars-ahk-LC50" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">else</span> if (<span class="pl-c1">A_PriorHotKey</span> = <span class="pl-s"><span class="pl-pds">&quot;</span>!t<span class="pl-pds">&quot;</span></span> <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">A_TimeSincePriorHotkey</span> &lt; <span class="pl-c1">2000</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="file-osx-special-chars-ahk-LC51" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="file-osx-special-chars-ahk-LC52" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % tildeShiftOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="file-osx-special-chars-ahk-LC53" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="file-osx-special-chars-ahk-LC54" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % tildeOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="file-osx-special-chars-ahk-LC55" class="blob-code blob-code-inner js-file-line">		}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="file-osx-special-chars-ahk-LC56" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">else</span> if (<span class="pl-c1">A_PriorHotKey</span> = <span class="pl-s"><span class="pl-pds">&quot;</span>!u<span class="pl-pds">&quot;</span></span> <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">A_TimeSincePriorHotkey</span> &lt; <span class="pl-c1">2000</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="file-osx-special-chars-ahk-LC57" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="file-osx-special-chars-ahk-LC58" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % umlautShiftOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="file-osx-special-chars-ahk-LC59" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="file-osx-special-chars-ahk-LC60" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % umlautOption</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="file-osx-special-chars-ahk-LC61" class="blob-code blob-code-inner js-file-line">		}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="file-osx-special-chars-ahk-LC62" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="file-osx-special-chars-ahk-LC63" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>) or <span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Capslock<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>T<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="file-osx-special-chars-ahk-LC64" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % <span class="pl-s"><span class="pl-pds">&quot;</span>+<span class="pl-pds">&quot;</span></span> regular</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="file-osx-special-chars-ahk-LC65" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="file-osx-special-chars-ahk-LC66" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">SendInput</span> % regular</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="file-osx-special-chars-ahk-LC67" class="blob-code blob-code-inner js-file-line">		}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="file-osx-special-chars-ahk-LC68" class="blob-code blob-code-inner js-file-line">	}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="file-osx-special-chars-ahk-LC69" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="file-osx-special-chars-ahk-LC70" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="file-osx-special-chars-ahk-LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">;</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="file-osx-special-chars-ahk-LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">; Alt + Shift + key</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="file-osx-special-chars-ahk-LC73" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">;</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="file-osx-special-chars-ahk-LC74" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!1</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>¡<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>/<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="file-osx-special-chars-ahk-LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!2</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>€<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>™<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td id="file-osx-special-chars-ahk-LC76" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!3</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>£<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>‹<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td id="file-osx-special-chars-ahk-LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!4</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>¢<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>›<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td id="file-osx-special-chars-ahk-LC78" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!5</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>8<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>fi<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td id="file-osx-special-chars-ahk-LC79" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!6</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>§<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>fl<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L80" class="blob-num js-line-number" data-line-number="80"></td>
-        <td id="file-osx-special-chars-ahk-LC80" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!7</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>¶<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>‡<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L81" class="blob-num js-line-number" data-line-number="81"></td>
-        <td id="file-osx-special-chars-ahk-LC81" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!8</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>•<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>°<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L82" class="blob-num js-line-number" data-line-number="82"></td>
-        <td id="file-osx-special-chars-ahk-LC82" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!9</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>ª<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>·<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L83" class="blob-num js-line-number" data-line-number="83"></td>
-        <td id="file-osx-special-chars-ahk-LC83" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!0</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>º<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>‚<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L84" class="blob-num js-line-number" data-line-number="84"></td>
-        <td id="file-osx-special-chars-ahk-LC84" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L85" class="blob-num js-line-number" data-line-number="85"></td>
-        <td id="file-osx-special-chars-ahk-LC85" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!a</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>å<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Å<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L86" class="blob-num js-line-number" data-line-number="86"></td>
-        <td id="file-osx-special-chars-ahk-LC86" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!b</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>integral<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>i<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L87" class="blob-num js-line-number" data-line-number="87"></td>
-        <td id="file-osx-special-chars-ahk-LC87" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!c</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>ç<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ç<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L88" class="blob-num js-line-number" data-line-number="88"></td>
-        <td id="file-osx-special-chars-ahk-LC88" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!d</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>partial difference<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Î<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L89" class="blob-num js-line-number" data-line-number="89"></td>
-        <td id="file-osx-special-chars-ahk-LC89" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!e</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>´<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>‰<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L90" class="blob-num js-line-number" data-line-number="90"></td>
-        <td id="file-osx-special-chars-ahk-LC90" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!f</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>ƒ<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ï<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L91" class="blob-num js-line-number" data-line-number="91"></td>
-        <td id="file-osx-special-chars-ahk-LC91" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!g</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>©<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ì<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L92" class="blob-num js-line-number" data-line-number="92"></td>
-        <td id="file-osx-special-chars-ahk-LC92" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!h</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>overdot<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ó<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L93" class="blob-num js-line-number" data-line-number="93"></td>
-        <td id="file-osx-special-chars-ahk-LC93" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!i</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>^<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>È<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L94" class="blob-num js-line-number" data-line-number="94"></td>
-        <td id="file-osx-special-chars-ahk-LC94" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!j</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>delta<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ô<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L95" class="blob-num js-line-number" data-line-number="95"></td>
-        <td id="file-osx-special-chars-ahk-LC95" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!k</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>°<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Apple<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L96" class="blob-num js-line-number" data-line-number="96"></td>
-        <td id="file-osx-special-chars-ahk-LC96" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!l</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>¬<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ò<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L97" class="blob-num js-line-number" data-line-number="97"></td>
-        <td id="file-osx-special-chars-ahk-LC97" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!m</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>µ<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>˜<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L98" class="blob-num js-line-number" data-line-number="98"></td>
-        <td id="file-osx-special-chars-ahk-LC98" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!n</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>~<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>ˆ<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L99" class="blob-num js-line-number" data-line-number="99"></td>
-        <td id="file-osx-special-chars-ahk-LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!o</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>ø<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ø<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L100" class="blob-num js-line-number" data-line-number="100"></td>
-        <td id="file-osx-special-chars-ahk-LC100" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!p</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>pi<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Pi<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L101" class="blob-num js-line-number" data-line-number="101"></td>
-        <td id="file-osx-special-chars-ahk-LC101" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!q</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>œ<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Œ<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L102" class="blob-num js-line-number" data-line-number="102"></td>
-        <td id="file-osx-special-chars-ahk-LC102" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!r</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>®<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Â<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L103" class="blob-num js-line-number" data-line-number="103"></td>
-        <td id="file-osx-special-chars-ahk-LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!s</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>ß<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Í<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L104" class="blob-num js-line-number" data-line-number="104"></td>
-        <td id="file-osx-special-chars-ahk-LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">;*!t::altShift(&quot;†&quot;,&quot;Ê&quot;)</span></span></td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L105" class="blob-num js-line-number" data-line-number="105"></td>
-        <td id="file-osx-special-chars-ahk-LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!u</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>¨<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ë<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L106" class="blob-num js-line-number" data-line-number="106"></td>
-        <td id="file-osx-special-chars-ahk-LC106" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!v</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>v<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>lozenge<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L107" class="blob-num js-line-number" data-line-number="107"></td>
-        <td id="file-osx-special-chars-ahk-LC107" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!w</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>epsilon<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>„<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L108" class="blob-num js-line-number" data-line-number="108"></td>
-        <td id="file-osx-special-chars-ahk-LC108" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!x</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>approximately equal<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ù<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L109" class="blob-num js-line-number" data-line-number="109"></td>
-        <td id="file-osx-special-chars-ahk-LC109" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!y</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>¥<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Á<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L110" class="blob-num js-line-number" data-line-number="110"></td>
-        <td id="file-osx-special-chars-ahk-LC110" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!z</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>Omega<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Û<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L111" class="blob-num js-line-number" data-line-number="111"></td>
-        <td id="file-osx-special-chars-ahk-LC111" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L112" class="blob-num js-line-number" data-line-number="112"></td>
-        <td id="file-osx-special-chars-ahk-LC112" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!-</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>–<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>—<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L113" class="blob-num js-line-number" data-line-number="113"></td>
-        <td id="file-osx-special-chars-ahk-LC113" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!=</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>!=<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>±<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L114" class="blob-num js-line-number" data-line-number="114"></td>
-        <td id="file-osx-special-chars-ahk-LC114" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*![</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>“<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>”<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L115" class="blob-num js-line-number" data-line-number="115"></td>
-        <td id="file-osx-special-chars-ahk-LC115" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!]</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>‘<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>’<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L116" class="blob-num js-line-number" data-line-number="116"></td>
-        <td id="file-osx-special-chars-ahk-LC116" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!`;</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>…<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Ú<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L117" class="blob-num js-line-number" data-line-number="117"></td>
-        <td id="file-osx-special-chars-ahk-LC117" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!&#39;</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>æ<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>Æ<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L118" class="blob-num js-line-number" data-line-number="118"></td>
-        <td id="file-osx-special-chars-ahk-LC118" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!\\</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>«<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>»<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L119" class="blob-num js-line-number" data-line-number="119"></td>
-        <td id="file-osx-special-chars-ahk-LC119" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!,</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>&lt;=<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>¯<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L120" class="blob-num js-line-number" data-line-number="120"></td>
-        <td id="file-osx-special-chars-ahk-LC120" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!.</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>&gt;=<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>breve<span class="pl-pds">&quot;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L121" class="blob-num js-line-number" data-line-number="121"></td>
-        <td id="file-osx-special-chars-ahk-LC121" class="blob-code blob-code-inner js-file-line"><span class="pl-en">*!/</span>::altShift(<span class="pl-s"><span class="pl-pds">&quot;</span>÷<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>¿<span class="pl-pds">&quot;</span></span>)	</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L122" class="blob-num js-line-number" data-line-number="122"></td>
-        <td id="file-osx-special-chars-ahk-LC122" class="blob-code blob-code-inner js-file-line">	</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L123" class="blob-num js-line-number" data-line-number="123"></td>
-        <td id="file-osx-special-chars-ahk-LC123" class="blob-code blob-code-inner js-file-line"><span class="pl-en">altShift</span>(<span class="pl-s">accented,accentedShift</span>) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L124" class="blob-num js-line-number" data-line-number="124"></td>
-        <td id="file-osx-special-chars-ahk-LC124" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (<span class="pl-k">!</span><span class="pl-c1">GetKeyState</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Shift<span class="pl-pds">&quot;</span></span>)) {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L125" class="blob-num js-line-number" data-line-number="125"></td>
-        <td id="file-osx-special-chars-ahk-LC125" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">SendInput</span> % accented</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L126" class="blob-num js-line-number" data-line-number="126"></td>
-        <td id="file-osx-special-chars-ahk-LC126" class="blob-code blob-code-inner js-file-line">	} <span class="pl-k">else</span> {</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L127" class="blob-num js-line-number" data-line-number="127"></td>
-        <td id="file-osx-special-chars-ahk-LC127" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">SendInput</span> % accentedShift</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L128" class="blob-num js-line-number" data-line-number="128"></td>
-        <td id="file-osx-special-chars-ahk-LC128" class="blob-code blob-code-inner js-file-line">	}</td>
-      </tr>
-      <tr>
-        <td id="file-osx-special-chars-ahk-L129" class="blob-num js-line-number" data-line-number="129"></td>
-        <td id="file-osx-special-chars-ahk-LC129" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-</table>
-
-  </div>
-
-  </div>
-  
-</div>
-
-      </div>
-      <div class="gist-meta">
-        <a href="https://gist.github.com/aarongustafson/f59fead5a44734d31a20106d79d41c98/raw/15e07d97b499eb92a6b8a8078d6cb84dc7261622/osx-special-chars.ahk" style="float:right">view raw</a>
-        <a href="https://gist.github.com/aarongustafson/f59fead5a44734d31a20106d79d41c98#file-osx-special-chars-ahk">osx-special-chars.ahk</a>
-        hosted with &#10084; by <a href="https://github.com">GitHub</a>
-      </div>
-    </div>
-</div>
-
-</div>
-
-<h2 id="step-3-run-your-script-when-windows-starts">Step 3: Run your script when Windows starts</h2>
-
-<p>The last thing you’ll want to do is add your <code>.ahk</code> file to Windows’ startup items. Dave covered that in his piece as well:</p>
-
-<ol>
-  <li>Create a shortcut to your file (<samp>Right click &gt; Create Shortcut</samp>)</li>
-  <li>Run <code>shell:startup</code> (<kbd>⊞ Win + R</kbd> opens the Run dialog or you can type ”Run“ in the Cortana Search Box)</li>
-  <li>Move your shortcut to the folder that opens.</li>
-</ol>
-
-<p>Once you’ve followed those steps, you’re done. You can update your <code>.ahk</code> scripts needed and just double click it to replace the instance that’s currently running.</p>
-
-<hr />
-
-<p>If, like me (and <a href="https://twitter.com/search?q=%23davegoeswindows">Dave</a> and <a href="https://snook.ca/archives/other/running-into-windows">Jonathan</a> and <a href="http://danielmall.com/articles/opening-windows/">Dan</a>), you’re using Windows after a long time in Mac land <em>and</em> you’re a typography nerd, hopefully you’ll find this helpful. And if you come up with any improvements to the character mapping, please share!</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>I actually memorized a ton of <a href="http://tools.oratory.com/altcodes.html">the codes</a>, much to my amazement. I still remember a few, but I am thankful to have reclaimed a bit of that memory space over the last few years. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>If you shun the mouse, you can create a text file in your favorite editor and name it with the <code>.ahk</code> extension, but you might run into character encoding issues. I created mine in <a href="https://code.visualstudio.com/">VS Code</a> as UTF-8, but had to open the file in Notepad and re-save it again to get it to actually work. I never figured out the exact issue, but I thought I’d give you a heads-up. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
