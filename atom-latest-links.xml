@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2017-01-04T21:48:57-05:00</updated>
+	<updated>2017-01-05T13:54:48-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,39 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
+			<entry>
+				<title type="html"><![CDATA[My Increasing Wariness of Dogmatism]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/increasing-wariness-dogmatism/"/>
+				<updated>2017-01-05T13:49:34-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/increasing-wariness-dogmatism</id>
+				<content type="html"><![CDATA[<p>Many thanks to Chris Coyier for this piece on dogmatism. Framing is so important! Ultimately we all want to build a Web that works for as many people as possible while being fast, reliable, and a joy to create… and we can only do it if we work <em>together</em>.</p>
+<p><a rel="full-article" href="https://css-tricks.com/increasing-wariness-dogmatism/">Read on CSS Tricks&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Inclusive Design Tips: Presenting Information in Multiple Ways]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/inclusive-design-tips-presenting-information-multiple-ways/"/>
+				<updated>2017-01-05T13:46:39-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/inclusive-design-tips-presenting-information-multiple-ways</id>
+				<content type="html"><![CDATA[<p>This is an excellent primer on how thinking about experience as a continuum will help you build interfaces that work for a broader cross-section of people.</p>
+<p><a rel="full-article" href="http://www.deque.com/blog/inclusive-design-tips-presenting-information-multiple-ways/">Read on Deque&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html"><![CDATA[Replacing the Jet Engine While Still Flying]]></title>
+				<link href="https://www.aaron-gustafson.com/notebook/links/replacing-jet-engine-while-still-flying/"/>
+				<updated>2017-01-05T13:41:58-05:00</updated>
+				<id>https://www.aaron-gustafson.com/notebook/links/replacing-jet-engine-while-still-flying</id>
+				<content type="html"><![CDATA[<p>Building a browser is hard. Making major changes to an existing one is even harder. I love it when folks talk about the processes and challenges of making the Web work.</p>
+<p><a rel="full-article" href="http://jensimmons.com/post/jan-4-2017/replacing-jet-engine-while-still-flying">Read on Jen Simmons&nbsp;&rarr;</a></p>]]></content>
+			</entry>
+		
 	
 		
 			<entry>
@@ -215,30 +248,6 @@
 				<content type="html"><![CDATA[<p>Iris Faraway discusses progressively enhancing a feature for the University of Bath. It’s a simple, straightforward example of how to create a universal baseline and improve (dramatically) on the experience using JavaScript.</p>
 <p><a rel="full-article" href="http://blogs.bath.ac.uk/digital/2016/12/12/progressive-enhancement-and-team-memberships/">Read on University of Bath Office of Digital Marketing & Communications&nbsp;&rarr;</a></p>]]></content>
 			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[The Bold Beauty of Content Prototypes]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/the-bold-beauty-of-content-prototypes/"/>
-				<updated>2016-12-13T14:14:36-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/the-bold-beauty-of-content-prototypes</id>
-				<content type="html"><![CDATA[<p>This is an excellent discussion of designing from the content out on a real project. Tons of sage advice in here.</p>
-<p><a rel="full-article" href="http://thomasbyttebier.be/blog/the-bold-beauty-of-content-prototypes">Read on Thomas Byttebier&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Resilient Web Design]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/resilientwebdesign/"/>
-				<updated>2016-12-13T14:12:16-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/resilientwebdesign</id>
-				<content type="html"><![CDATA[<p>Jeremy Keith’s latest book. Free to read on any device you own. Installable as a progressive web app too (naturally).</p>
-<p><a rel="full-article" href="https://resilientwebdesign.com/">Read on Jeremy Keith&nbsp;&rarr;</a></p>]]></content>
-			</entry>
-		
-	
 		
 	
 </feed>
