@@ -4,7 +4,7 @@
   <title><![CDATA[Browse by Tag: Web Design | Aaron Gustafson]]></title>
   <link href="https://www.aaron-gustafson.com/notebook/tags/web-design/atom.xml" rel="self"/>
   <link href="https://www.aaron-gustafson.com/"/>
-  <updated>2017-01-04T21:04:39-05:00</updated>
+  <updated>2017-01-04T21:48:57-05:00</updated>
   <id>https://www.aaron-gustafson.com/</id>
   <author>
     <name><![CDATA[Aaron Gustafson]]></name>
@@ -177,7 +177,7 @@
 <p>This list is by no means exhaustive nor is it in any particular order; it’s what came immediately to mind for me. Some interfaces may have fewer or more considerations as each is different. And some of these considerations might be in opposition to others depending on the interface. It’s critical that we consider the implications of our design decisions by weighing them against one another before we make any sort of decision about how to progress. Otherwise we open ourselves up to potential problems and the cost of changing things goes up the further into a project we are:</p>
 
 <figure id="fig-2016-12-06-01" class="media-container">
-{% adaptive_image /i/posts/2016-12-06/01.png %}
+<img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/01.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="">
 <figcaption>The cost of changing your mind goes up the further into any project you are. Just ask any contractor you hire to work on your house.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@
 <p>As to the “morally problematic” bit, I’ll refer back to <a href="#working-without-javascript">my earlier discussion of business considerations</a>. Sure, morality can certainly be part of it, but I’d argue that it’s unwise to make assumptions about your users regardless. It’s easy to fall into the trap of thinking that all of or users are like us (or like the personas we come up with). My employer, Microsoft, makes a great case for why we should avoid doing this in their <a href="https://www.microsoft.com/en-us/design/inclusive">Inclusive Design materials</a>:</p>
 
 <figure id="fig-2016-04-11-02" class="media-container">
-{% adaptive_image /i/posts/2016-04-11/02.png %}
+<img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-04-11/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-04-11/02.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-04-11/02.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-04-11/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="">
 <figcaption>When we design only for others like us, we exclude everyone who is not like us.</figcaption>
 </figure>
 
@@ -206,14 +206,14 @@
 <p>In my talk <a href="https://vimeo.com/70018634"><em>Designing with Empathy</em></a> (<a href="http://www.slideshare.net/AaronGustafson/designing-with-empathy-beyond-tellerrand-2013">slides</a>), I discussed <a href="https://en.wikipedia.org/wiki/Mystery_meat_navigation">“mystery meat” navigation</a>. I can’t imagine any designer sets out to make their site difficult to navigate, but we are influenced by what we see (and are inspired by) on the web. Some folks took inspiration from web-based art projects like this Toyota microsite:</p>
 
 <figure id="fig-2016-12-06-02" class="media-container">
-{% adaptive_image /i/posts/2016-12-06/02.png %}
+<img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/02.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="">
 <figcaption><a href="http://www.northkingdom.com/cases/i-huvudet-pa-toyota/">On Toyota’s Mind</a> is a classic example of mystery meat navigation. It’s a Flash site and you can navigate when you happen to mouse over "hotspots" in the design. I’m pointing to one with a big red arrow here.</figcaption>
 </figure>
 
 <p>Though probably not directly influenced by On Toyota’s Mind, <a href="https://www.flatbush.org/">Yeshiva of Flatbush</a> was certainly influenced by the concept of “experiential” (which is a polite way of saying “mystery meat”) navigation.</p>
 
 <figure id="fig-2016-12-06-03" class="media-container">
-{% adaptive_image /i/posts/2016-12-06/03.png %}
+<img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-12-06/03.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt="">
 <figcaption><a href="https://www.flatbush.org/">Yeshiva of Flatbush</a> uses giant circles for their navigation. Intuitive, right?</figcaption>
 </figure>
 
@@ -337,7 +337,7 @@
     <link href="https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot/"/>
     <updated>2016-10-25T15:15:01-04:00</updated>
     <id>https://www.aaron-gustafson.com/notebook/one-persons-bloat-dot-dot-dot</id>
-    <content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container">{% adaptive_image /i/posts/2016-10-25/webbloatscore.png %}</figure>
+    <content type="html"><![CDATA[<figure id="fig-2016-10-25-1" class="media-container"><img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-25/webbloatscore.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt=""></figure>
 
 <p>The <a href="http://www.webbloatscore.com/">Web Bloat Score Calculator</a> has been making the rounds on Twitter and I wanted to share my immediate thoughts on it.</p>
 
@@ -412,7 +412,7 @@
 
 <p><em>Graceful degradation</em> assumes that an experience is going to be worse on older, less capable browsers and devices. To address potential problems, it recommends that developers take steps to avoid throwing errors—JavaScript or otherwise—for their users. Under this philosophy, a developer can take a range of approaches ranging from making everything work perfectly in down-level browsers to only addressing egregious errors or even chosing to block certain browsers from accessing the content if they are known to have problems. We saw this latter approach often with Flash-only sites, but it wasn’t limited to them. I used <a href="#2016-10-17-1">this “roadblock” example from Kodak.com</a> in <a href="http://adaptivewebdesign.info/">my book</a>:</p>
 
-<figure id="fig-2016-10-17-1" class="media-container">{% adaptive_image /i/posts/2016-10-17/kodak-roadblock.png %}</figure>
+<figure id="fig-2016-10-17-1" class="media-container"><img  src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" srcset="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=1920&amp;container=focus&amp;refresh=2592000 1920w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=600&amp;container=focus&amp;refresh=2592000 600w,https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https://www.aaron-gustafson.com/i/posts/2016-10-17/kodak-roadblock.png&amp;resize_w=320&amp;container=focus&amp;refresh=2592000 320w" sizes="100vw" alt=""></figure>
 
 <p>Overall, graceful degradation is about risk avoidance. The problem was that it created a climate on the Web where we, as developers, got comfortable with the idea of denying access to services (e.g., people’s bank accounts) because we deemed a particular browser (or browsers) too difficult to work with. Or, in many cases, we just didn’t have the time or budget (or both) to address the broadest number of browsers. It’s kind of hard to reconcile the challenge of cross-browser development in 2003 with what we are faced with today as we were only really dealing with 2-3 browsers back then, but you need to remember that standards support was far worse at the time.</p>
 
