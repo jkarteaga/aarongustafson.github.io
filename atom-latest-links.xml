@@ -3,7 +3,7 @@
 	<title><![CDATA[Aaron Gustafson - Latest Links]]></title>
 	<link href="https://www.aaron-gustafson.com/atom-latest-links.xml" rel="self"/>
 	<link href="https://www.aaron-gustafson.com/"/>
-	<updated>2017-01-05T13:54:48-05:00</updated>
+	<updated>2017-01-09T12:14:55-05:00</updated>
 	<id>https://www.aaron-gustafson.com/</id>
 	<author>
 		<name><![CDATA[Aaron Gustafson]]></name>
@@ -11,6 +11,8 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+		
 	
 		
 			<entry>
@@ -237,17 +239,6 @@
 			</entry>
 		
 	
-		
-	
-		
-			<entry>
-				<title type="html"><![CDATA[Progressive Enhancement and Team Memberships]]></title>
-				<link href="https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-and-team-memberships/"/>
-				<updated>2016-12-13T14:17:28-05:00</updated>
-				<id>https://www.aaron-gustafson.com/notebook/links/progressive-enhancement-and-team-memberships</id>
-				<content type="html"><![CDATA[<p>Iris Faraway discusses progressively enhancing a feature for the University of Bath. It’s a simple, straightforward example of how to create a universal baseline and improve (dramatically) on the experience using JavaScript.</p>
-<p><a rel="full-article" href="http://blogs.bath.ac.uk/digital/2016/12/12/progressive-enhancement-and-team-memberships/">Read on University of Bath Office of Digital Marketing & Communications&nbsp;&rarr;</a></p>]]></content>
-			</entry>
 		
 	
 </feed>
