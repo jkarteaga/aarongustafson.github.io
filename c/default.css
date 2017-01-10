@@ -1851,6 +1851,85 @@ html.wf-active .promo a:active {
   }
 }
 /*------------------------------------*\
+    Listing
+\*------------------------------------*/
+.media-controls p {
+  margin-top: 6px;
+  margin-top: 0.375rem;
+}
+.media-controls__buttons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.media-controls__button {
+  background: #DDD;
+  border-color: inherit;
+  color: #2c2825;
+  cursor: pointer;
+  margin: 0 .25em 0 0;
+  overflow: hidden;
+  width: 1em;
+  white-space: nowrap;
+  text-indent: -999em;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.media-controls__button:hover, .media-controls__button:active {
+  color: #fff;
+}
+.media-controls__button:disabled, .media-controls__button:disabled:hover, .media-controls__button:disabled:active {
+  background: #DDD;
+  color: #666;
+  cursor: not-allowed;
+}
+.media-controls__button:after {
+  content: '';
+  display: block;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+.media-controls__button--play:after {
+  width: 0;
+  border: .5em solid transparent;
+  border-left: .75em solid;
+}
+.media-controls__button--pause:after {
+  width: 2px;
+  border: 2px solid;
+  height: 0.9em;
+  line-height: 0;
+  border-top-width: 0;
+  border-bottom-width: 0;
+}
+.media-controls__button--faster:after
+.media-controls__button--slower:after {
+  text-indent: 0;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 0;
+  margin-top: -0.1em;
+}
+.media-controls__button--faster:after {
+  content: "+";
+}
+.media-controls__button--slower:after {
+  content: "-";
+}
+
+/*------------------------------------*\
     $PAGES
 	Page-specific styles
 	(use sparingly)
@@ -2229,6 +2308,9 @@ html.wf-active .promo a:active {
 \*------------------------------------*/
 /*------------------------------------*\
     Anchorable
+\*------------------------------------*/
+/*------------------------------------*\
+    Listing
 \*------------------------------------*/
 /*------------------------------------*\
     $PAGES

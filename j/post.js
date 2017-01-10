@@ -650,8 +650,17 @@
         {
             data.links.reverse();
             data.links.forEach( addMention );
+            updateCount();
         }
     };
+
+    // Update the webmentions count
+    function updateCount() {
+        var $webmentions_link = document.querySelector( '.entry__jump--webmentions a' ),
+            webmentions_count = document.querySelectorAll( '.webmentions__item' ).length;
+        
+        $webmentions_link.innerHTML = webmentions_count + ' webmentions';
+    }
     
     // Synchromous XHR proxied through whateverorigin.org
     function readWebPage( uri, callback )
@@ -751,6 +760,7 @@
         };
         ws.onmessage = function( event ){
             addMention( JSON.parse( event.data ) );
+            updateCount();
         };
     }
     
