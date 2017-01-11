@@ -328,17 +328,17 @@ if ( 'speechSynthesis' in window )
 		$caveat = $buttons.cloneNode(true);
 	
 	// Don’t read
-	$skip.forEach(function( $el ){
+	Array.prototype.forEach.call( $skip, function( $el ){
 		$el.innerHTML = '';
 	});
-
+	
 	// spacing out content
-	$space.forEach(function($el){
+	Array.prototype.forEach.call( $space, function( $el ){
 		$el.innerHTML = ' ' + $el.innerHTML.replace(/[\r\n\t]/g, ' ') + ' ';
 	});
-
+	
 	// Synthetic Pauses
-	$pause_before.forEach(function( $el ){
+	Array.prototype.forEach.call( $pause_before, function( $el ){
 		$el.innerHTML = ' , ' + $el.innerHTML;
 	});
 
