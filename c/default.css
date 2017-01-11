@@ -1870,7 +1870,7 @@ html.wf-active .promo a:active {
   cursor: pointer;
   margin: 0 .25em 0 0;
 }
-.media-controls__button:hover, .media-controls__button:active {
+.media-controls__button:hover, .media-controls__button:active, .media-controls__button:focus {
   color: #fff;
 }
 .media-controls__button:disabled, .media-controls__button:disabled:hover, .media-controls__button:disabled:active {
